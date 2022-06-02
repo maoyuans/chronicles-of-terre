@@ -4,7 +4,7 @@ title: Orobos
 nav_order: 1
 parent: Divinus Maioris - Major Deities
 grand_parent: Religion & Spirituality
-description: "Orobos is the Lawful Good god of knowledge and redemption."
+description: "Chronicles of Terre is a medieval fantasy setting seven years in the writing, currently for dungeons & dragons 5th edition."
 ---
 
 # Orobos
