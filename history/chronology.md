@@ -50,7 +50,7 @@ The march continues west, until an unknown figure wielding a blade, now known as
 
 The late spring of AC 1411 started an uneventful one, but soon descented into chaos as the Old Guardian of Bladefall rises from his suspension in stasis, and wreaks havoc in the central field of Bladefall. It is thanks to the current Guardian and a group of heroes that he was stalled for long enough to allow a orderly evacuation of Bladefall, Viridian Grove, and eastern Verza and Maltross. Now, lost to the Corruption, the Old Guardian and his citadel waits along the High Wall, heralding the beginning of the end.
 
-{\it The Blade falls, and along with it the Grove. The land weeps, as old threats reignite, and new plans unfold.}
+*The Blade falls, and along with it the Grove. The land weeps, as old threats reignite, and new plans unfold.*
 
 The curses of the Iris Corruption is also unveiled to those with such curiosities: While death by ordinary means is gruesome, not only for yourself, but also for friends, families, those that hold you dear in their mind and memory, death by Iris Corruption is one that transcends mortal comprehension. Instead of being killed, you will be erased from existence: your name will be forgotten, memories and stories about you will slip away from the minds of others, as if you are never there to begin with. No one has ever died, and no one will ever die, to Iris Corruption, for when one suffers such fate, they will fade into oblivion, and never exist in the first place. Some may call this a fate worse than death, but perhaps the blissful ignorance is a twisted, malicious form of mercy in itself.
 
