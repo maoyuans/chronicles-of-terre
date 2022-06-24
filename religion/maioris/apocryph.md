@@ -25,8 +25,8 @@ Apocryph is regarded by the reclusive drow clans scattered around Terre in under
 
 ## Relationship with other deities
 
-Apocryph shares a portion of his power with Astarte, goddess of oaths, as they both enforce that promises are well kept. Oaths regarding secrets are often witnessed by both the presence of Astarte and that of Apocryph.
+Apocryph shares a portion of his power with [Astarte](astarte), goddess of oaths, as they both enforce that promises are well kept. Oaths regarding secrets are often witnessed by both the presence of Astarte and that of Apocryph.
 
-Apocryphan followers are sometimes shunned and even ostracized for their tendency to associate with evil, and often have to operate in secrecy themselves. They are similarly against beliefs of Paimon, the god of forbidden knowledge, whose creed is to probe and unveil these secrets despite their nature.
+Apocryphan followers are sometimes shunned and even ostracized for their tendency to associate with evil, and often have to operate in secrecy themselves. They are similarly against beliefs of [Paimon](../pars/paimon), the god of forbidden knowledge, whose creed is to probe and unveil these secrets despite their nature.
 
-Drow following of Apocryph sometimes hold hostility against followers of Sylph or Faevan, the twin patron god of elvenkind, for their exile millennia ago.
+Drow following of Apocryph sometimes hold hostility against followers of [Sylph or Faevan](../patronus/sylph&faevan), the twin patron god of elvenkind, for their exile millennia ago.

@@ -21,6 +21,6 @@ Oscerion is often depicted as an elderly humanoid with ivory robes and grey hair
 
 ## Relationship with Other Deities
 
-Oscerion and the Elder Wyrm are both deities whose creed involves the regulation of magic. Their beliefs are mostly in accord, with Oscerion more focused on guiding the good, and the Elder Wyrm more focused on punishing the evil. Followers of the two deities may disagree on their methods, but share the same goal ultimately.
+Oscerion and [the Elder Wyrm](../patronus/elderwyrm) are both deities whose creed involves the regulation of magic. Their beliefs are mostly in accord, with Oscerion more focused on guiding the good, and the Elder Wyrm more focused on punishing the evil. Followers of the two deities may disagree on their methods, but share the same goal ultimately.
 
-Both faiths will thus tend to exercise caution with followers of Arcanum, the god of netheric arcane, and directly oppose the belief of Paimon, god of forbidden knowledge.
+Both faiths will thus tend to exercise caution with followers of [Arcanum](arcanum), the god of netheric arcane, and directly oppose the belief of [Paimon](../pars/paimon), god of forbidden knowledge.

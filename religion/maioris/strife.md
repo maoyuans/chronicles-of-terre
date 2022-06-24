@@ -21,4 +21,4 @@ Strife is often depicted as a fully armored soldier, wielding dual hammers, stan
 
 ## Relationship with Other Deities
 
-Followers of Strife are usually dismissive of beliefs who promote peace and oppose warfare, viewing them as cowards. This includes beliefs of Caspor, Oune, and Oscerion to a lesser degree.
+Followers of Strife are usually dismissive of beliefs who promote peace and oppose warfare, viewing them as cowards. This includes beliefs of [Caspor](../patronus/caspor), [Oune](../pars/oune), and [Oscerion](oscerion) to a lesser degree.
