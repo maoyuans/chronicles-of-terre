@@ -49,7 +49,7 @@ The nomadic traditions of [Maltross](../region/maltross) requires strong arms an
 
 ## Divine Glorian Empire Origins
 
-Widespread worshipping of [Gloria](../religion/maioris/gloria) and religious practices in [Divine Glorian Empire](../region/dge) puts you one step closer to the gods. You gain +1 to **Charisma** and proficiency in **Religion**.
+Widespread worshipping of [Gloria](../religion/maioris/gloria) and religious practices in [Divine Glorian Empire](../region/DGE) puts you one step closer to the gods. You gain +1 to **Charisma** and proficiency in **Religion**.
 
 - Paladin-in-Training: You gain proficiency in **Athletics**. You may cast **Detect Evil and Good** with this trait a number of times equal to your proficiency bonus, recharging on long rest. Charisma is your spellcasting ability for this trait.
 - Churchworker: You gain proficiency in **History**. You learn a Cleric cantrip, with Wisdom as your spellcasting ability.
@@ -81,6 +81,7 @@ Those born to the [Clock Tower](../region/labyrinthine) often dabble in the Neth
 - Clock Keeper: You gain proficiency in **Perception** and **Tinker's Tools**. You may move up to half your movement speed as part of a readied action.
 - Exiled Outcast: You gain proficiency in **Sleight of Hand**. You learn a **1st Level Spell** of your choice. You may cast it once per long rest, with Intelligence as your spellcasting ability.
 - Cloistered Bookkeeper: You gain proficiency in **Investigation** and your choice of **Calligrapher's** or **Painter's Supplies**. You may cast **Comprehend Languages** once per long rest, with intelligence as your spellcasting ability.
+- Enchanter Apprentice: *Under construction.*
 
 ## Perani Origins
 
