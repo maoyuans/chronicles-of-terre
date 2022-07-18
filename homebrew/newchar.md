@@ -8,7 +8,7 @@ description: "Chronicles of Terre is a medieval fantasy setting seven years in t
 
 # Character Creation
 
-This page lists all character creation options that differs from the official 5th edition ruleset.
+This page lists all character creation options that differ from the official 5th edition ruleset.
 
 ## Choose a Race
 
