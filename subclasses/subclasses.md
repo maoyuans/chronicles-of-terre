@@ -52,7 +52,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 
 ## Sorcerer Subclasses
 
-- [Earthen Blood](sorcerer-earthen) : An origin that inherits the power of nature, wielding druidic as well as sorceric power.
+- [Leyline Legacy](sorcerer-leyline) : An origin that inherits the power of nature, wielding druidic as well as sorceric power.
 - [Starborne](sorcerer-starborne) : An origin from the astral sky and the celestial bodies, drawing power from the moon, the stars, and the void.
 
 ## Warlock Subclasses
