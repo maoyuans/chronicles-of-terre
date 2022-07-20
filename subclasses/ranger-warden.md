@@ -30,7 +30,7 @@ At 7th level, you gain proficiency in Arcana. If you are already proficient in i
 
 ## Arcane Tracing
 
-Starting at 7th level, you can instantly identify whether a creature you can see or you are tracking is capable of spellcasting. Additionally, you may use Scan on existing effects as a free action instead of a bonus action.
+Starting at 7th level, you can instantly identify whether a creature you can see or you are tracking is capable of spellcasting. Additionally, you may use [Scan](../homebrew/scan) on existing effects as a free action instead of a bonus action.
 
 ## Critical Precision
 

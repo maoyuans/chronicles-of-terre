@@ -35,4 +35,4 @@ Once you use this feature, you cannot use it again until you finish a long rest.
 
 ## Essential Vision
 
-Starting at 14th level, your bloodline grants you a different perspective to see things as they truly are. You gain truesight of 60 ft. Additionally, using Scan on a creature automatically grants you knowledge of its creature type, resistances, vulnerabilities, and immunities.
+Starting at 14th level, your bloodline grants you a different perspective to see things as they truly are. You gain truesight of 60 ft. Additionally, using [Scan](../homebrew/scan) on a creature automatically grants you knowledge of its creature type, resistances, vulnerabilities, and immunities.
