@@ -59,3 +59,13 @@ The curses of the Iris Corruption is also unveiled to those with such curiositie
 As Terre musters its forces to retake the lost lands of Verza and the Viridian Grove, shadows of new threats are cast upon the western parts of the continent. 
 
 Stories and tall tales tell of a curse, crimson and sanguine, plaguing the far western reaches of Terre. Heralded by a scarlet tint in the moonlight, this Crimson Curse drives the accursed, be it beast or men, into a primal state of frenzy bloodlust, mutating the flesh and the mind alike. Despite the horrid tales, the Crimson Curse still does not match the apocalypse presented by the Iris Corruption, yet more and more, the inquisitive mind cannot help but ponder the origin and purpose of such a timely disaster.
+
+### Sovereignty Lost
+
+The mid summer wind brings hope to Terre, as a party of adventurers commissioned by the Verzae Legion disrupted a ritual vital to the Iris Corruption's plan. Cultists and agents who call themselves *Acolytes of the Harbingers* have wreaked havoc in the lost forests in southeastern Verza, attempting to summon some entity within long forgotten ruins dating to the reign of the Forgotten Empire. Yet they are unsuccessful: The ritual broken, the leaders slain, and the Grove one step further away from the Enemy.
+
+Yet with these victories come a question long lost to time, whose absence was taken for granted for centuries long. The ruins are not of the Forgotten Empire, and whatever the cultists are trying to summon is certainly no simple as a mere fiend. From atop the Shattered Gate, generals of the Verzae Legion gazes towards the Iris Mist to the East, and finally ask themselves: *What was there in the Lost Lands, before the Iris claimed it all for oblivion?* 
+
+It is an question one cannot expect an answer from any time soon. Knowledge stricken from history come with great costs, if it can be recovered at all. For the moment, all that is known is an once all-powerful elven empire, whose real name erased from the history of this land, now under the assigned pseudonym Austella Sovereignty. 
+
+What was in the Lost Lands? What is the Iris Corruption, and how did it come about? What happened to the Sovereignty in the Awakening? And what of the scarcity of elvenkind in what remains of Terre? These are questions that call for answers, perhaps as soon as possible, and one can no longer deny the fact, that before it is too late, perhaps expeditions into the Lost Lands are finally in order.
