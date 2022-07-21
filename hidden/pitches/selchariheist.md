@@ -23,4 +23,4 @@ nav_exclude: true
 * * *
 
 See Also:
-- [Selchar](../../region/other/selchar)
+- [Selchar](../../region/others/selchar)
