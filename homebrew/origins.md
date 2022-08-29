@@ -79,7 +79,7 @@ Those born to the [Clock Tower](../region/labyrinthine) often dabble in the Neth
 - Guild Associate: You gain proficiency in **History** and one **Artisan's Tool** of your choice. Whenever a spell is cast, you may use your reaction to identify it. Whenever a spell-like ability is used, you may scan as a free action next turn.
 - Tower Bureaucrat: You gain proficiency in one **Charisma Skill** of your choice and one **Gaming Set** of your choice. You can cast **Unseen Servant** at will, with Intelligence as your spellcasting ability.
 - Clock Keeper: You gain proficiency in **Perception** and **Tinker's Tools**. You may move up to half your movement speed as part of a readied action.
-- Exiled Outcast: You gain proficiency in **Sleight of Hand**. You learn a **1st Level Spell** of your choice. You may cast it once per long rest, with Intelligence as your spellcasting ability.
+- Exiled Outcast: You gain proficiency in **Sleight of Hand**. Choose one **1st Level Spell**. You may cast it once per long rest with this trait, with Intelligence as your spellcasting ability.
 - Cloistered Bookkeeper: You gain proficiency in **Investigation** and your choice of **Calligrapher's** or **Painter's Supplies**. You may cast **Comprehend Languages** once per long rest, with intelligence as your spellcasting ability.
 - Enchanter Apprentice: *Under construction.*
 
@@ -90,7 +90,7 @@ Those born to the [Clock Tower](../region/labyrinthine) often dabble in the Neth
 - Merchantile: You gain proficiency in **Persuasion** and **Jeweler's Tools**. You have advantage on Persuasion and Deception checks used for bartering.
 - Vagabond: You gain proficiency in **Sleight of Hand** and **Thieves' Tools**. You gain a +1 to attack rolls and damage rolls with improvised weapons.
 - Brass Tinker: You gain proficiency in **Investigation**. You learn the **Mending** cantrip, except you can cast it as an action.
-- Wasteland Hunter: You gain proficiency in **Survival**. You gain resistance against poison damage.
+- Wasteland Hunter: You gain proficiency in **Survival**. You gain resistance against poison damage, and advantage on saving throws against being poisoned.
 - Road Agents: You gain proficiency in **Stealth** and **Poisoner's Kit**. You gain advantage on initiative checks.
 - Secret Operative: You gain proficiency in **Deception** and **Forgery Kit**. You may cast **Illusory Script** at will, with Charisma as your spellcasting ability. You may only have one effect active from this trait at a time.
 
@@ -102,7 +102,7 @@ The jungles of [Yharn](../region/yharn) hides more dangers than outsiders can im
 - Tribal Ambassador: You gain proficiency in **Insight** and **Calligrapher's Supplies**. You learn 2 additional languages. Whenever a creature you can hear speaks, you can identify which language it is speaking.
 - Beast Tracker: You gain proficiency in **Investigation** and **Poisoner's Kit**. You gain a +3 bonus to passive perception and passive investigation. This bonus does not stack with the Observant feat.
 - Arboreal: You gain proficiency in **Acrobatics**. You gain advantage on any skill checks and saving throws to avoid faling off an ledge.
-- Ritual Priest: You gain proficiency in **Nature** and **Potter's Tools**. You learn one 1st level ritual spell of your choice, and you may only cast it as a ritual, with Wisdom as your casting ability.
+- Ritual Priest: You gain proficiency in **Nature** and **Potter's Tools**. You learn one 1st level ritual spell of your choice, and you may only cast it as a ritual, with Wisdom as your spellcasting ability.
 - Night Guard: You gain proficiency in **Perception**. You have advantage on saving throws against being frightened.
 
 ## Okeanosian Origins

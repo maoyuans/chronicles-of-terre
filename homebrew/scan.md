@@ -17,7 +17,7 @@ To support this, most encounters in Chronicles of Terre consist of custom creatu
 A few example of common traits are listed below. Traits can be specific to a single creature or apply to some or all creatures in an encounter. There are rare traits that are not listed and may be applied to encounters as the DM deems appropriate.
 
 - Deadly: This creature is capable of dealing more damage than a normal creature of the same level.
-- Ruthless: This creature is capable of deliberating targeting downed creatures and attempt to finish them off.
+- Ruthless: This creature is capable of deliberately targeting downed creatures and attempting to finish them off.
 - Cunning: This creature is intelligent. While controlling the creature, the DM uses their own intelligence and will not intentionally make mistakes.
 - Tactician: This creature is observant and punishing. Whenever an action or movement is declared, or whenever a turn is declared to end, it cannot be undone.
 - Lord: This creature can summon minions and possesses abilities to interact with them to a significant extent.

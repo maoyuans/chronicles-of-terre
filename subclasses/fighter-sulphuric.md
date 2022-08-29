@@ -18,7 +18,7 @@ Starting at 3rd level, you learn to utilize your strength to stabilize yourself 
 
 ## Cull the Weak
 
-Starting at 3rd level, whenever you attack a creature within 5 ft of you with 10 or less hitpoints as part of an Attack action, you may instead subject it to a Dexterity saving throw. The DC of this saving throw is equal to your Culling DC, calculated as 8 + Prof + StrMod. On fail, the creature is defeated, and you gain temporary hitpoints equal to half of the creature’s hitpoint before being defeated.
+Starting at 3rd level, whenever you attack a creature within 5 ft of you with 10 or less hitpoints as part of an Attack action, you may instead subject it to a Dexterity saving throw. The DC of this saving throw is equal to your Culling DC, calculated as 8 + Prof + StrMod. On fail, the creature is reduced to 0 hitpoints, and you gain temporary hitpoints equal to half of the reduced amount.
 
 The culling threshold for execution increases to 20 at 10th level and 30 at 18th level.
 

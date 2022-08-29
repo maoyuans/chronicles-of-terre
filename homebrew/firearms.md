@@ -30,7 +30,7 @@ Firearms are simple to wield and powerful, but in the hands of a skilled individ
 
 The damage dice of firearms are often larger amounts of smaller dice, which will raise the overall expected damage, but are less likely to high roll.
 
-Additionally, damages of firearm attacks **does not** benefit from ability score bonuses inherently, unless specified otherwise. There are certain subclasses and [feats](feats) that allow characters to benefit from their ability score bonus, such as [Sulphric Militant](../subclasses/fighter-sulphric) fighter, [Arcane Warden](../subclasses/ranger-warden) ranger, or [Gunslinger](../subclasses/rogue-gunslinger) rogue.
+Additionally, damages of firearm attacks **does not** benefit from ability score bonuses inherently, unless specified otherwise. There are certain subclasses and [feats](feats) that allow characters to benefit from their ability score bonus, such as [Sulphric Militant](../subclasses/fighter-sulphric) fighter, [Arcane Warden](../subclasses/ranger-warden) ranger, or the Firearm Specialist feat.
 
 ## Properties
 

@@ -18,7 +18,7 @@ When you choose the arcane tradition at 2nd level, you gain proficiency in firea
 
 Starting at 2nd level, you devise a special arcane circuit, which you can engrave on a firearm to aid you in spellcasting. The engraving process takes 8 hours, and must be done on each firearm individually.
 
-The engraving enchants ammunitions fired by the firearm into conduits for your arcane prowess. Whenever you use the Attack action to attack with an engraved firearm and hits, you can cast an eligible spell as a bonus action on the same target, even if the spell normally requires an action. To be eligible, a spell must target only one creature. The ammunition fired is considered an arcane focus for this casting.
+The engraving enchants ammunitions fired by the firearm into conduits for your arcane prowess. Whenever you use the Attack action to attack with an engraved firearm and hits, you can cast an eligible spell as a bonus action on the same target, even if the spell normally requires an action. To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are.
 
 ## Far Projection
 

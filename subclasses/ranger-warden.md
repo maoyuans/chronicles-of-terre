@@ -18,7 +18,7 @@ Starting at 3rd level, your connection with nature and the leylines grants you e
 - 3rd level: Protection from Evil and Good
 - 5th level: Hold Person
 - 9th level: Dispel Magic
-- 13th level: Counter Spell
+- 13th level: Counterspell
 
 ## Snipe Cast
 

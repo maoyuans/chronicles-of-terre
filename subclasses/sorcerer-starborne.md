@@ -29,7 +29,7 @@ Starting at 1st level, you have resistance to force damage.
 
 ## Grasp of the Stars
 
-Starting at 6th level, you can pull on your enemies' existence from the Astral Sky. As a bonus action, select an enemy. You and the enemy both have disadvantage on all attack rolls, saving throws and ability checks for 1d2 + 1 rounds. If the enemy is defeated while under this effect, you gain advantage to these rolls equal to the number of rounds you suffered the disadvantage in this way (minimum of 1 round).
+Starting at 6th level, you can pull on your enemies' existence from the Astral Sky. As a bonus action, select an enemy. You and the enemy both have disadvantage on all attack rolls, saving throws and ability checks for 1d2 + 1 rounds. If the enemy is defeated while under this effect, you gain advantage to these rolls for one round.
 
 Once you use this feature, you cannot use it again until you finish a long rest.
 

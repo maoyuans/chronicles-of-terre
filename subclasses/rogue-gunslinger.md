@@ -10,7 +10,7 @@ description: "Chronicles of Terre is a medieval fantasy setting seven years in t
 
 ## Skirmish Trainings
 
-When you take this architype at 3rd level, you gain proficiency in (exotic) firearms. Additionally, firearms you wield have the [Point-Blank](../homebrew/firearms#Properties) property.
+When you take this architype at 3rd level, you gain proficiency in (exotic) firearms. Additionally, firearms you wield gain the [Point-Blank](../homebrew/firearms#Properties) property.
 
 ## Steel and Sulphur
 
@@ -24,6 +24,6 @@ Starting at 9th level, whenever you attack a target with a melee weapon attack, 
 
 Starting at 13th level, whenever you are attacked with a melee attack, you may use your reaction to attempt to parry, granting you +2 AC. You can use this reaction after the attack is declared, but before the attack roll is revealed.
 
-If this causes the attack to miss, you can make an attack of opportunity against the attacker with a light firearm you are holding. Sneak attack can be applied to this attack.
+If this causes the attack to miss, you can make an attack of opportunity against the attacker with a light firearm you are holding. Sneak Attack can be applied to this attack even if its normal conditions are not satisfied.
 
 You can use this feature a number of times equal to your dexterity modifier (minimum of once) per long rest.
