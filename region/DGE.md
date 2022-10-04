@@ -4,6 +4,7 @@ title: Divine Glorian Empire
 nav_order: 2
 description: "Chronicles of Terre is a medieval fantasy setting seven years in the writing, currently for dungeons & dragons 5th edition."
 parent: Regions & Factions
+nav_exclude: false
 ---
 
 # Divine Glorian Empire
@@ -18,7 +19,7 @@ parent: Regions & Factions
 - Approximate form of government: Theocratic monarchy
 - Head of State: Holy Emperor Ulrico Valeri
 
-Religion and faith are forces to be reckoned with on their own, even more so when combined with military and politics. The Divine Glorian Empire is the geographically largest, and perhaps the largest in many other aspects, political and religious entity. DGE spans the western half of the continent, from the shoreline and the boreal forests to the west, to the more temperate forests north of Astartia, to the eastern mires and the mounds bordering Maltross, housing a variety of different biomes and terrains. The empire is dedicated entirely to the goddess Gloria, with the Church of Gloria and the Inquisition division enforcing theocratic laws and smiting evil heretics in her name.
+Religion and faith are forces to be reckoned with on their own, even more so when combined with military and politics. The Divine Glorian Empire is the geographically largest, and perhaps the largest in many other aspects, political and religious entity. DGE spans the western half of the continent, from the shoreline and the boreal forests to the west, to the more temperate forests north of Astartia, to the eastern mires and the mounds bordering Maltross, housing a variety of different biomes and terrains. The empire is dedicated entirely to the goddess [Gloria](../religion/maioris/Gloria), with the Church of Gloria and the Inquisition division enforcing theocratic laws and smiting evil heretics in her name.
 
 ## Imperial Lands
 
@@ -38,7 +39,7 @@ The Empire's heart, Crestwatch, is a glorious city of ivory and gold, sitting on
 
 ## Religion in the Empire
 
-Religion in DGE is, on the surface, quite straightforward. Most empire residents worship Gloria, the goddess of Light, Justice, and Courage, and the namesake of the Empire. While being a monotheistic theocracy, the church does not outlaw the worshipping of most other deities, and shrines to them can be seen across the Empire in different locations, although not as prominent, as expected. Even the evil-inclined deities are tolerated within imperial borders, as long as such related actions are not done in public, and the reason to such worship is justifiable: For example, Tiefling worship of [Goetia](../religion/maioris/goetia) is within reason and only frowned upon, but truthfully the history this continent had with Tieflings are perhaps a more major reason than their religious beliefs.
+Religion in DGE is, on the surface, quite straightforward. Most empire residents worship Gloria, the goddess of Light, Justice, and Courage, and the namesake of the Empire. While being a monotheistic theocracy, the church does not outlaw the worshipping of most other deities, and shrines to them can be seen across the Empire in different locations, although not as prominent, as expected. Even the evil-inclined deities are tolerated within imperial borders, as long as such related actions are not done in public, and the reason to such worship is justifiable: For example, Tiefling worship of [Goetia](../religion/maioris/Goetia) is within reason and only frowned upon, but truthfully the history this continent had with Tieflings are perhaps a more major reason than their religious beliefs.
 
 ## The Monarchy & The Theocracy
 
