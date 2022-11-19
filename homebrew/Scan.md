@@ -9,7 +9,19 @@ nav_exclude: false
 
 # Scan
 
-Scan is a new bonus action option innate to each character, similar to actions like dash, disengage, and help. When a character uses the scan bonus action, they observe the enemy to identify their characteristics and abilities. The player chooses one ability from the list of abilities that the DM reveals, or an existing effect on the battlefield, and learns all or a part of the effects of that ability.
+Scan is a new bonus action option innate to each character, similar to actions like dash, disengage, and help. When a character uses the scan bonus action, they observe the enemy to identify their characteristics and abilities. The player chooses one ability from the list of abilities that the DM reveals, or an existing effect on the battlefield, and learns all or a part of the effects of that ability. Alternatively, the player chooses an attribute or stat of the enemy and learn it.
+
+Applicable characteristics that can be identified with Scan includes:
+- One ability;
+- The creature's attributes compared to yours;
+- Maximum hitpoints;
+- Armor class;
+- Movement speed;
+- Damage vulnerabilities;
+- Damage resistances and immunities;
+- Condition immunities;
+- Creature type;
+- Anything else to the DM's discretion.
 
 To support this, most encounters in Chronicles of Terre consist of custom creatures not found in published sources, and enemy abilities often contain extra information eyond the dice roll. Powerful monsters have multiple initiatives per round instead of legendary actions, and each initiative comes with skills and abilities unique to that initiative. Certain encounters have traits of various kinds to help give the players an expectation of the overarching theme of the encounter and what to expect from the enemies.
 
