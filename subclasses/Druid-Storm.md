@@ -2,7 +2,7 @@
 layout: default
 title: Druid - Storm
 parent: Subclasses
-nav_order: 31
+nav_order: 32
 description: "Chronicles of Terre is a medieval fantasy setting seven years in the writing, currently for dungeons & dragons 5th edition."
 nav_exclude: false
 ---
