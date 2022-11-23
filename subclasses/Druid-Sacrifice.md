@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Druid - Circle of Sacrifice
 
-Over millenia of isolation, the dense and suffocating jungles of Yharn have since given birth to a form of druidism distinct from the rest of Terre. Nature here is unforgiving and unrelenting, and the residents, children of Xbeltz'aloc, must seize every mean necessary to survive and appease the Three-Eyed nightcrawler, even those as morbid as sacrificing the blood of others and their own. 
+Over millenia of isolation, the dense and suffocating jungles of [Yharn](../region/Yharn) have since given birth to a form of druidism distinct from the rest of Terre. Nature here is unforgiving and unrelenting, and the residents, children of [Xbeltz'aloc](../religion/patronus/Xbeltz'aloc), must seize every mean necessary to survive and appease the Three-Eyed nightcrawler, even those as morbid as sacrificing the blood of others and their own. 
 
 While often ostracized and branded as blasphemous elsewhere, for Yharnic tribals, the practicing of blood sacrifice is as natural as the ground beneath them. After all, the definition of morality has never been simple, even less so in the face of survival.
 
