@@ -16,9 +16,8 @@ You have contracted this curse, whether by misfortune, forced, or out of conscio
 Make no mistake of finding comfort in this newfound power, however, as you are a monster, a freak of nature, rejected by society and morality. And whatever mistake you make, remember foundly to not give in to this parasitic power.
 
 <span style="color:#800000">
-DO NOT GIVE IN
-DO NOT GIVE IN
-
+DO NOT GIVE IN<br>
+DO NOT GIVE IN<br>
 Ḋ̶̢̡̛̛̟͙̦͋͌̒̎̽̇̈͆̚͝Ơ̴̹͇̻͚̥̙͈̠̫̻͕͓̳͙͙̮͆̈́̇̒̐͂̿̃̒̾̌̅̈́͒̿͘̚̕͜ͅ ̷̡̡̪̣̰̤̱̮̟̦̣̬̖̹̖̹̻̟̮̪́̍͆̍̈́͠͝N̴̡̬̖̞̙̬̳̙̯͚̮̩̲̓O̶̧̹͉̬̪͈̬̠̞͗̈̽̃͛͝ͅŢ̴̡̛̛͎͓̠̖̬̗͍͎͔̮͕͙̫̻͖̰̺̬̘̏́̊̓̎̓̂͒̆́̇̚͠͠ ̵̨̹̩͊̿̇́̃̓̌̆͒̉̾͗̈́Ģ̴̘̠͘Í̶̡̨̲̳̥͍̦͙̗̣͔̫̅͗̒͊͘ͅͅV̶̭̝͚͚̻̖̱͍͎̳̙̭̞̤͖̟͈̄͌͗͋̿̂́̓̒̓̿̇̎̔̉͛̇̒̍̕Ę̵̡̝̳̥̳͎̖͎̻͙̆̎̈́̒̀̿ͅ ̶̛̺̠̗̦̽͂̌̈̊͋̚ͅḬ̴̛̱̦͇̖̄͂̓̋͌͛̅͂̔̚͝Ň̸̖̬̰̞̟̻̘̹̻̪͙̀̾̐̒́̆̏̀̀̓̈͘
 </span>
 
