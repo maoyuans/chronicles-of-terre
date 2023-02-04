@@ -11,6 +11,18 @@ nav_exclude: false
 
 Note that due to using a modified version of firearms, the Gunner feat in TCE is not available.
 
+## Antagonizer
+
+You are talented at antagonizing others, provoking them to focus their attention on you. You gain the following benefits:
+- Increase your Wis or Cha score by 1, to a maximum of 20.
+- As a bonus action, you can antagonize and distract a creature within 30 ft that can see or hear you, and force them to make a Wis save. The DC for this save is equal to 8 + Prof + the modifier for the ability increased by this feat. On a fail, until the end of its next turn, the creature has disadvantage on all attacks against targets other than you. You can use this feature a number of times equal to your proficiency modifier per long rest.
+
+## Bastion
+
+You stand guard on the battlefield between your friends and your foes, shielding those behind you from attacks. You gain the following benefits:
+- Increase your Str or Con score by 1, to a maximum of 20.
+- When a creature within 5 ft of you makes an attack against a target other than you, or when a creature makes an attack against a target within 5 ft of you, you can use your reaction to become the target of this attack instead.
+
 ## Firearm Specialist
 
 You are trained in the usage of firearms, with proficiency comparable to that of a skilled hunter with bows and arrows. You gain the following benefits:
@@ -51,8 +63,17 @@ You take preference in lightweight firearms and can weave in quick shots between
 - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a light firearm you are holding.
 - Once per turn, you can draw one weapon as a free action instead of an item interaction.
 
+## Sharpshooter (Variant)
+
+*This variant replaces the original version of Sharpshooter.*
+
+You have mastered ranged weapons and can make shots that easily find weakspots on the enemy. You gain the following benefits:
+- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- Your ranged weapon attacks ignore half cover and three-quarters cover.
+- Your ranged weapon attacks with advantage have -1 to critical range.
+
 ## Shield Breaker
 
 Your skill in the martial arts has focused on overwhelming the heavy armor of your foes. You gain the following benefits:
-- As a bonus action, you can enhance one of the attacks you are about to make this turn. If the enchanced attack hits, the target has their AC lowered by 2 until the end of your next turn. Subsequent hits enhanced by this feat refreshes the duration instead of lowering the AC.
+- As a bonus action, you can enhance one of the melee weapon attacks you are about to make this turn. If the enchanced attack hits, the target has their AC lowered by 2 until the end of your next turn. Subsequent hits enhanced by this feat refreshes the duration instead of lowering the AC.
 - When you score a critical hit to a creature wielding a Shield, you can remove their shield's bonus to AC temporarily until the end of your next turn.
