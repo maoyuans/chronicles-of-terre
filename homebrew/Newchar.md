@@ -53,7 +53,7 @@ Characters gain an additional ASI at 1st level. Note that ASIs in Chronicles of 
 
 In Chronicles of Terre, hitpoints gained when leveling up are calculated by rolling the hit dice, with the average as the minimum. Roll untill you hit a value at least the average.
 
-## Ability Score Improvements
+## Better Ability Score Improvements
 
 In Chronicles of Terre, ASIs consist of improving one ability score by 1, and selecting a feat. This also applies to the additional ASI at 1st level.
 
