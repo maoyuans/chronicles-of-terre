@@ -27,4 +27,4 @@ These Aspects manifest in the planes of Terre as projections of themselves from 
 - Dynasty: Triumphant authority. Understand the importance of harmony and stability, even if the conditions are not ideal. There is still more life to live after the hardship is endured.
 - Nostalgia: Crystallized remembrance. Lay your ambitions to rest knowing that the moment has passed you by. Remembers the teachings of history, lest past glory be replaced by an inferior imitation.
 - Babel: Shared design. Ask a thousand men, and you shall receive a thousand answers. Let a thousand men talk amongst themselves, then you may find consensus, or the acknowledgement of a lack thereof - in either case, unity.
-- Pandemonium: Cycle breaker. It is easy to look back and think that you are destined to walk the path you walk, as such is the manifestation of cowardice. Venture, explore, and have confidence that your will is your own.
+- Pandemonium: Cycle breaker. It is easy to look back and think that you are destined to walk the path you walk, as such is the manifestation of cowardice. Venture, explore, and have confidence that your will is your own.  

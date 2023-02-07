@@ -59,6 +59,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 ## Warlock Subclasses
 
 - [Lunar](Warlock-Lunar) : A pact to a patron that is a manifestation of the moon, granting their followers the blessing and protection of the cold night.
+- [Accursed Blood](Warlock-Crimson) : A pact to a horrible curse that mutilates the flesh and the mind, granting you power of blood magic, in exchange for your eventual descent into primal bloodthirsty madness.
 
 ## Wizard Subclasses
 
