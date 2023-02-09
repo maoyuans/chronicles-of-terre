@@ -23,7 +23,7 @@ Applicable characteristics that can be identified with Scan includes:
 - Creature type;
 - Anything else to the DM's discretion.
 
-To support this, most encounters in Chronicles of Terre consist of custom creatures not found in published sources, and enemy abilities often contain extra information eyond the dice roll. Powerful monsters have multiple initiatives per round instead of legendary actions, and each initiative comes with skills and abilities unique to that initiative. Certain encounters have traits of various kinds to help give the players an expectation of the overarching theme of the encounter and what to expect from the enemies.
+To support this, most encounters in Chronicles of Terre consist of custom creatures not found in published sources, and enemy abilities often contain extra information beyond the dice roll. Powerful monsters have multiple initiatives per round instead of legendary actions, and each initiative comes with skills and abilities unique to that initiative. Certain encounters have traits of various kinds to help give the players an expectation of the overarching theme of the encounter and what to expect from the enemies.
 
 ## Traits
 

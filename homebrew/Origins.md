@@ -22,9 +22,9 @@ The forests of [Verza](../region/Verza) connects its inhabitants to the Land its
 - Legionnaire: You gain proficiency in your choice of **Athletics** or **Acrobatics**, and one martial weapon of your choice. If you are already proficient with all martial weapons, you may instead choose a weapon and gain +1 to attack rolls with them.
 - Grove Keeper: You gain proficiency in **History** and **Woodcarver's Tools**. You may cast Speak with Plants once per long rest, and you have advantage on persuasion checks against plants.
 - Druid-in-Training: You gain proficiency in **Animal Handling** and {**Herbalism Kit**. You learn a Druid cantrip, with Wisdom as your casting ability.
-- Gate Warden: You gain proficiency in **Arcana**. You may cast **Detect Magic** with this trait a number of times equal to your proficiency bonus, recharging on long rest. Wisdom is your spellcasting ability for this trait.
-- Ruin Scholar: You gain proficiency in **Investigation** and **Mason's Tool**. You may cast **Identify** at will without material components, with Wisdom as your spellcasting ability.
-- Nether-Influenced: You gain proficiency in **Deception**. You learn a Wizard, Sorcerer, or Warlock cantrip, with Charisma as your spellcasting ability.
+- Gate Warden: You gain proficiency in **Arcana**. You may cast **Detect Magic** with this feature a number of times equal to your proficiency bonus per long rest. Wisdom is your spellcasting ability for this feature.
+- Ruin Scholar: You gain proficiency in **Investigation** and **Mason's Tool**. You may cast **Identify** at will without material components. Wisdom is your spellcasting ability for this feature.
+- Nether-Influenced: You gain proficiency in **Deception**. You learn a Wizard, Sorcerer, or Warlock cantrip of your chocie. Charisma is your spellcasting ability for this feature.
 - Forest Hermit: You gain proficiency in **Survival** and **Carpenter's Tools**. You can automatically feed a number of party members by foraging depending on the environment, with a maximum of three in rich environments such as that of Verza.
 
 ## Hollunberg Origins
@@ -52,13 +52,13 @@ The nomadic traditions of [Maltross](../region/Maltross) requires strong arms an
 
 Widespread worshipping of [Gloria](../religion/maioris/Gloria) and religious practices in [Divine Glorian Empire](../region/DGE) puts you one step closer to the gods. You gain +1 to **Charisma** and proficiency in **Religion**.
 
-- Paladin-in-Training: You gain proficiency in **Athletics**. You may cast **Detect Evil and Good** with this trait a number of times equal to your proficiency bonus, recharging on long rest. Charisma is your spellcasting ability for this trait.
-- Churchworker: You gain proficiency in **History**. You learn a Cleric cantrip, with Wisdom as your spellcasting ability.
+- Paladin-in-Training: You gain proficiency in **Athletics**. You may cast **Detect Evil and Good** with this feature a number of times equal to your proficiency bonus, recharging on long rest. Charisma is your spellcasting ability for this feature.
+- Churchworker: You gain proficiency in **History**. You learn a Cleric cantrip of your choice. Wisdom is your spellcasting ability for this feature.
 - Empire Courier: You gain proficiency in **Sleight of Hand** and **Cartographer's Tools**. Your walking speed is increased by 10 ft. 
 - Mire Dweller: You gain proficiency in **Survival**. When you use the Dash, Disengage, or Dodge action, difficult terrain doesn't cost you extra movement on that turn.
 - Noble Lineage: You gain proficiency in **Persuasion** and **Calligrapher's Supplies**. You start your career with 500 gp extra.
-- Dark Servant: You gain proficiency in **Deception** and **Forgery Kit**. You learn a Warlock cantrip, with Charisma as your casting ability.
-- Healer of Faith: You gain proficiency in **Medicine**. You may cast **Healing Word** at 1st level once per long rest, with Wisdom as your spellcasting ability.
+- Dark Servant: You gain proficiency in **Deception** and **Forgery Kit**. You learn a Warlock cantrip of your choice. Charisma is your spellcasting ability for this feature.
+- Healer of Faith: You gain proficiency in **Medicine**. You may cast **Healing Word** at 1st level with this feature once per long rest. Wisdom is your spellcasting ability with this feature.
 
 ## Astartian Origins
 
@@ -70,18 +70,18 @@ The martial and honor-bound cultures of [Astartia](../region/Astartia) train pow
 - Mercyful Heart: You gain proficiency in **Persuasion**. All damage you deal can be non-lethal. Whenever you spare an enemy this way, you gain temporary hitpoints equal to your proficiency bonus.
 - Shadow Warrior: You gain proficiency in **Stealth** and **Disguise Kit**. You have advantage on stealth checks while in darkness.
 - Legacy of Steel: You gain proficiency in **History**. You carry a martial melee weapon of your choice. It is magical, and you are proficient with it.
-- Spiritual Visions: You gain proficiency in **Religion**. You may cast Speak with Dead once per long rest, with Wisdom as your spellcasting ability, and you have advantage on persuasion checks against spirits and undeads.
+- Spiritual Visions: You gain proficiency in **Religion**. You may cast **Speak with Dead** with this feature once per long rest, and you have advantage on persuasion checks against spirits and undeads. Wisdom is your spellcasting ability for this feature.
 
 ## Labyrinthian Origins
 
 Those born to the [Clock Tower](../region/Labyrinthine) often dabble in the Netheric arcanes at a young age. You gain +1 to **Intelligence** and proficiency in **Arcana**. You can also cast **Prestidigitation** at will.
 
-- Academy Student: You gain proficiency in one **Skill** of your choice and one **Artisan's Tool** of your choice. You learn a Wizard cantrip, with Intelligence as your spellcasting ability.
-- Guild Associate: You gain proficiency in **History** and one **Artisan's Tool** of your choice. Whenever a spell is cast, you may use your reaction to identify it. Whenever a spell-like ability is used, you may scan as a free action next turn.
-- Tower Bureaucrat: You gain proficiency in one **Charisma Skill** of your choice and one **Gaming Set** of your choice. You can cast **Unseen Servant** at will, with Intelligence as your spellcasting ability.
+- Academy Student: You gain proficiency in one **Skill** of your choice and one **Artisan's Tool** of your choice. You learn a Wizard cantrip of your choice. Intelligence is your spellcasting ability for this feature.
+- Guild Associate: You gain proficiency in **History** and one **Artisan's Tool** of your choice. Whenever a spell is cast, you may use your reaction to identify it. Whenever a spell-like ability is used, you may scan as a free action on your next turn.
+- Tower Bureaucrat: You gain proficiency in one **Charisma Skill** of your choice and one **Gaming Set** of your choice. You can cast **Unseen Servant** at will. Intelligence is your spellcasting ability for this feature.
 - Clock Keeper: You gain proficiency in **Perception** and **Tinker's Tools**. You may move up to half your movement speed as part of a readied action.
-- Exiled Outcast: You gain proficiency in **Sleight of Hand**. Choose one **1st Level Spell**. You may cast it once per long rest with this trait, with Intelligence as your spellcasting ability.
-- Cloistered Bookkeeper: You gain proficiency in **Investigation** and your choice of **Calligrapher's** or **Painter's Supplies**. You may cast **Comprehend Languages** once per long rest, with intelligence as your spellcasting ability.
+- Exiled Outcast: You gain proficiency in **Sleight of Hand**. Choose one **1st Level Spell**. You may cast it with this feature once per long rest. Intelligence as your spellcasting ability for this feature.
+- Cloistered Bookkeeper: You gain proficiency in **Investigation** and your choice of **Calligrapher's** or **Painter's Supplies**. You may cast **Comprehend Languages** with this feature once per long rest. Intelligence is your spellcasting ability for this feature.
 - Enchanter Apprentice: *Under construction.*
 
 ## Perani Origins
@@ -93,17 +93,17 @@ Those born to the [Clock Tower](../region/Labyrinthine) often dabble in the Neth
 - Brass Tinker: You gain proficiency in **Investigation**. You learn the **Mending** cantrip, except you can cast it as an action.
 - Wasteland Hunter: You gain proficiency in **Survival**. You gain resistance against poison damage, and advantage on saving throws against being poisoned.
 - Road Agents: You gain proficiency in **Stealth** and **Poisoner's Kit**. You gain advantage on initiative checks.
-- Secret Operative: You gain proficiency in **Deception** and **Forgery Kit**. You may cast **Illusory Script** at will, with Charisma as your spellcasting ability. You may only have one effect active from this trait at a time.
+- Secret Operative: You gain proficiency in **Deception** and **Forgery Kit**. You may cast **Illusory Script** at will. Charisma is your spellcasting ability for this feature. You may only have one effect active from this feature at a time.
 
 ## Yharnian Origins
 
 The jungles of [Yharn](../region/Yharn) hides more dangers than outsiders can imagine. You gain +1 to **Dexterity** and proficiency in **Survival**.
 
-- Witch Doctor: You gain proficiency in **Medicine** and **Herbalism Kit**. You may cast **Detect Poison and Disease** with this trait a number of times equal to your proficiency bonus, recharging on long rest. Wisdom is your spellcasting ability for this trait.
+- Witch Doctor: You gain proficiency in **Medicine** and **Herbalism Kit**. You may cast **Detect Poison and Disease** with this feature a number of times equal to your proficiency bonus per long rest. Wisdom is your spellcasting ability for this feature.
 - Tribal Ambassador: You gain proficiency in **Insight** and **Calligrapher's Supplies**. You learn 2 additional languages. Whenever a creature you can hear speaks, you can identify which language it is speaking.
 - Beast Tracker: You gain proficiency in **Investigation** and **Poisoner's Kit**. You gain a +3 bonus to passive perception and passive investigation. This bonus does not stack with the Observant feat.
 - Arboreal: You gain proficiency in **Acrobatics**. You gain advantage on any skill checks and saving throws to avoid faling off an ledge.
-- Ritual Priest: You gain proficiency in **Nature** and **Potter's Tools**. You learn one 1st level ritual spell of your choice, and you may only cast it as a ritual, with Wisdom as your spellcasting ability.
+- Ritual Priest: You gain proficiency in **Nature** and **Potter's Tools**. You learn one 1st level ritual spell of your choice, and you may only cast it as a ritual with this feature. Wisdom is your spellcasting ability for this feature.
 - Night Guard: You gain proficiency in **Perception**. You have advantage on saving throws against being frightened.
 
 ## Okeanosian Origins
@@ -121,7 +121,7 @@ The jungles of [Yharn](../region/Yharn) hides more dangers than outsiders can im
 
 Inhabitants of the desert of [the Barrens](../region/Barrens) despise the civility of the inlanders and take pride in their strength and ferocity. You gain +1 to your choice of **Strength** or **Constitution**, and proficiency in **Survival**.
 
-- Warring Clans: You gain proficiency in **Martial**. Whenever you kill an enemy, you gain temporary hitpoints equal to your Constitution modifier.
+- Warring Clans: You gain proficiency in **Athletics**. Whenever you kill an enemy, you gain temporary hitpoints equal to your Constitution modifier.
 - Wall Raider: You gain proficiency in **Acrobatics** and **Mason's Tools**. You gain a climbing speed equal to your walking speed.
 - Spawn of the Sea: You gain proficiency in **Perception**. You gain a swimming speed of 30 ft. You can hold your breath for 1 hour.
 - Sand Strider: You gain proficiency in **Nature** and **Cobbler's Tools**. You have advantage on saving throws against exhaustion, and your speed cannot be reduced to below half. This does not allow movement when under effects that disable moving.
