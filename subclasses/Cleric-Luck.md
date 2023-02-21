@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Luck Domain
 
-Some seem to live a charmed life. This could be the outlook of the jealous and spiteful or a literal translation of divine providence, none can really be sure, but things seem to go the desired way. 
+There are those between us that seems to have at life a lot easier. Things tend to go their way, be it an opportune stroke of fortune, or a timely avoidance of disaster. While this could be the outlook of the jealous and the spiteful, you understand and interpret this unnatural luck as a literal translation of divine providence, and to respect this disparity will earn you the favor of those who pull the strings.
 
 ## Domain Spells
 
@@ -30,7 +30,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ## Channel Divinity: Lucky Save
 
-Starting at 2nd level, you can use your Channel Divinity to infuse an ally with luck against an effect. As a reaction you can cause an ally that has just rolled a saving throw, but of which the results have not been revealed to gain a +5 to that roll. 
+Starting at 2nd level, you can use your Channel Divinity to infuse an ally with luck against an effect. As a reaction when an ally you can see within 30 ft of you fails a saving throw, you can grant them +5 to the save, potentially turning it into a success.
 
 ## Improved Critical
 

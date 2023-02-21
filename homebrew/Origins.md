@@ -24,7 +24,7 @@ The forests of [Verza](../region/Verza) connects its inhabitants to the Land its
 - Druid-in-Training: You gain proficiency in **Animal Handling** and {**Herbalism Kit**. You learn a Druid cantrip, with Wisdom as your casting ability.
 - Gate Warden: You gain proficiency in **Arcana**. You may cast **Detect Magic** with this feature a number of times equal to your proficiency bonus per long rest. Wisdom is your spellcasting ability for this feature.
 - Ruin Scholar: You gain proficiency in **Investigation** and **Mason's Tool**. You may cast **Identify** at will without material components. Wisdom is your spellcasting ability for this feature.
-- Nether-Influenced: You gain proficiency in **Deception**. You learn a Wizard, Sorcerer, or Warlock cantrip of your chocie. Charisma is your spellcasting ability for this feature.
+- Nether-Influenced: You gain proficiency in **Deception**. You learn a Wizard, Sorcerer, or Warlock cantrip of your choice. Charisma is your spellcasting ability for this feature.
 - Forest Hermit: You gain proficiency in **Survival** and **Carpenter's Tools**. You can automatically feed a number of party members by foraging depending on the environment, with a maximum of three in rich environments such as that of Verza.
 
 ## Hollunberg Origins

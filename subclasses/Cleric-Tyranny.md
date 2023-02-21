@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Tyranny Domain
 
-Domination arises in every form imaginable, not just in hearts full of destruction and chaos. These are the masters who arrange things to ensure that whatever happens, they always win. Know that there is no cost too great for glory. 
+Domination arises in every form imaginable, not just in hearts full of destruction and chaos. These are the masters who arrange things to ensure that whatever happens, they always win in the end. Know that there is no cost too great for glory. 
 
 ## Domain Spells
 
@@ -30,9 +30,7 @@ Starting at 1st level, as an action you can coerce allies to comply with your or
 
 ## Channel Divinity: Demand Tribute
 
-Starting at 2nd level, you can use your Channel Divinity to rightfully take what is yours from the unworthy. As an action, you present your holy symbol, dominating over another creature within 30 ft. When the affected creature would gain advantage on an attack roll, saving throw, or ability check, you may choose to demand tribute from them. They lose that advantage, and you gain advantage the next time you make a check of the same type.
-
-You can only use this feature once on the same creature, twice when you reach 6th level, and thrice when you reach 18th level.
+Starting at 2nd level, you can use your Channel Divinity to rightfully take what is yours from the unworthy. As a reaction when another creature within 30 ft of you makes an attack roll, saving throw, or ability check with advantage, you may present your holy symbol to dominate over it, and take this advantage as a tribute. The creature loses advantage on that roll, and you gain advantage on your next roll of the same type.
 
 ## Oppressing Faith
 

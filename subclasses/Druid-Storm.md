@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Druid - Circle of the Storm
 
+Wind, rain, and storm are the most primal and ferocious aspect of nature. Druids worshipping this aspect embodies the unrefined and unpredictable prowess of the storm and the sea within them.
+
 ## Master of the Storm
 
 At 2nd level, add the following cantrips and spells to your druid spell list, and you learn one cantrip from this list.

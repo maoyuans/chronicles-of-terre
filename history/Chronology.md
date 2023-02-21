@@ -21,7 +21,7 @@ At a time, a fairy oak sprouted under Hollunberg, irrigated by the mountain spri
 
 ## The Empire
 
-In the beginning year of the Ascendant Calendar, a Gate to the Nether realms is forged by the god of arcane, [Arcanum](../religion/maioris/Arcanum), in nowadays southern Verza. Tieflings through the Gate escaped the Nether in an act of Ascension, and brought order onto Terre for the first time in thousands of yaers. The Forgotten Empire - then simply known as 'The Empire' - under the rule of Ascendants, divided western Terre into a dozen provinces, each with its own imperator, while the Ascendant rules over all of them in their palace in the now-Shattered Gate.
+In the beginning year of the Ascendant Calendar, a Gate to the Nether realms is forged by the god of arcane, [Zelarch](../religion/maioris/Zelarch), in nowadays southern Verza. Tieflings through the Gate escaped the Nether in an act of Ascension, and brought order onto Terre for the first time in thousands of yaers. The Forgotten Empire - then simply known as 'The Empire' - under the rule of Ascendants, divided western Terre into a dozen provinces, each with its own imperator, while the Ascendant rules over all of them in their palace in the now-Shattered Gate.
 
 The Tieflings are not intrinsic evil creatures. In fact, they are much more civil than the inhabitants of Terre at that time. The Empire's settling down was met with resistances, numerous but futile, as stone and cold iron are no match against netheric arcana. The aboriginals soon found out that the rule of the Empire is more of a boon than a misfortune: society advanced rapidly with the Empire's help, as blades are forged and spells are cast.
 

@@ -21,7 +21,7 @@ Furion appears in depiction in various animal forms, but in his humanoid form he
 
 ## Relationship with Other Deities
 
-As a druidic deity, Furion allies with [Faevan](../patronus/Sylph&Faevan), the wood elven druidic god, and is cautious of [Arcanum](Arcanum), who the druidic society of Terre considers an invader together with his creation, the netheric arcane.
+As a druidic deity, Furion allies with [Faevan](../patronus/Sylph&Faevan), the wood elven druidic god, and is cautious of [Zelarch](Zelarch), who the druidic society of Terre considers an invader together with his creation, the netheric arcane.
 
 While Furion holds dominion over the land of Terre, [Mizu'karas](Mizu'karas) domains over its oceanic expanse as the goddess of tide and tempest. While the whimsical nature of Mizu'karas can lead to conflicts, Furion and her largely operate in independence.
 

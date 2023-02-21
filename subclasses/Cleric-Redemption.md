@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Redemption
 
-To err is mortal, to redeem is divine. These words hold sway over the world. You may have committed a great crime or seek to show others another way. In whichever case, you summon up this power to control your own fate and the power of amends is potent. 
+To err is mortal, to redeem is divine. These words hold sway over the world. The gods look down favorably upon both the redeemer and the redeemed. Be it someone who have committed a great sin and seek to correct this past mistake, or someone who seeks to show others a way to change for the better, you have summoned up this power to turn the fates around and make amends with the past and the present.
 
 ## Domain Spells
 

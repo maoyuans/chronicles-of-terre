@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Freedom Domain
 
-Freedom is more than an ideal it is a force, a living breathing soul that beats in thew heart of every creature. You can feel this pulse, it calls to you and you answer.
+Freedom is more than an ideal, it is a force, a living breathing soul that beats in the heart of every creature, powering them to break the chains cast upon them. You can feel this pulse, it calls to you and you answer. It is now your duty to give this gift of freedom to others that desire it.
 
 ## Domain Spells
 

@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Balance Domain
 
-To every action there is an opposite and equal reaction, to light there is dark, to hot there is cold, these are the natural forces that hold the world in balance. This balance is the source of your faith and belief.
+To every action there is an opposite and equal reaction, to light there is dark, to fire there is ice, these are the natural forces that hold the world in balance. This balance is the source of your faith and belief, and those who dare defy this delicate balance shall suffer your wrath.
 
 ## Domain Spells
 
@@ -22,7 +22,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 ## Balanced Scales
 
-You are immune to the effects of advantage and disadvantage. Additionally, creatures cannot have advantage or disadvantage on attack rolls that target you.
+You are unaffected by the effects of advantage and disadvantage. Additionally, creatures cannot have advantage or disadvantage on attack rolls that target you.
 
 ## Balancing Surge
 

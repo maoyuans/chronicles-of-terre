@@ -9,11 +9,11 @@ nav_exclude: false
 
 # Bard - College of Jest
 
+The most hurting of words often come from the most comedic and lighthearted of characters. While others of their kind tend to travel the roads singing tunes and telling tales, of heroes, sages, and the like, jesters, bards studying the college of Jest, make a living from deprecation of both others and themselves. They know best the true power of one's sense of self-worth, and as such their mockery is deep cutting and destructive.
+
 ## Scarring Mockery
 
-Starting at 3rd level, the Jester knows the true power of one's sense of self-worth. As such their mockery is deep cutting and destructive.
-
-The Vicious Mockery cantrip is empowered for you. The base damage die of the Vicious Mockery cantrip is now 1d8 and all scaling uses this die as well. This mockery can be empowered further by expending one use of your Bardic Inspiration to roll the die and add the number rolled as extra damage to the cantrip. 
+Starting at 3rd level, the **Vicious Mockery** cantrip is empowered for you, and you learn it if you did not know it already. The base damage die of the Vicious Mockery cantrip is now 1d8, and all scaling uses this die as well. This mockery can be empowered further by expending one use of your Bardic Inspiration to roll the die and add the number rolled as extra damage to the cantrip. 
 
 ## Gallows Humor
 
