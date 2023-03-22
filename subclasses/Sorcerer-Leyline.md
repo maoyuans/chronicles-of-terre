@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Sorcerer - Leyline Legacy
 
-These sorcerers draw their power from the land itself. The power of Nature is untamed, meant to be harnessed by the true children of Terre. 
+These sorcerers draw their power from Nature itself, from the land, the ocean, or the sky. The power of Nature is untamed, meant to be harnessed by only the true children of Terre. 
 
 ## Natural Prowess
 

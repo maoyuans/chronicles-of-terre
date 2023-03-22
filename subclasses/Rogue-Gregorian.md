@@ -9,6 +9,10 @@ nav_exclude: false
 
 # Rogue - Gregorian
 
+From the ivory towers of [Crestwatch](../region/DGE.md) to the deepest chambers under [the Viridian Grove](../region/Verza.md), residents of Terre, noble or peasant, all look up and pray to the higher powers watching and guiding their every move. The power of religion is a significant one, and with this significance comes those who aim to use it as a tool for themselves, not a belief.
+
+To a Gregorian, faith is such a powerful weapon that one can fluidly shape and utilize. They may devote themselves to one deity on one day, and act as a priest for another faith the other day. Some might call Gregorians thieves of beliefs, but how are they different from those priests and cardinals anyways?
+
 ## Utilitarian Faith
 
 When you take this architype at 3rd level, choose a Deity to serve and one of their domains to follow. You may change this Deity and domain once per level up. In addition, you can cast a 1st level spell provided by your chosen domain's spells. Intelligence is your spellcasting ability for this feature. Once you use this feature, you can't use it again until you finish a long rest.

@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Fighter - Battle Herald
 
+Even the clashes and screams on the battlefield cannot drown out your inspiring presence as a herald of battle. You know best how to inspire and motivate your companions within the chaos, rallying, commanding, and invigorating them, fueling their purpose.
+
 ## Rallying Cry
 
 At 3rd level, you learn how to inspire your allies to fight on past their injuries. When you use your Second Wind class feature, all allies that can see or hear you within 60 feet heal an equal amount of hit points that you healed. 

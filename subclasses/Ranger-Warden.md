@@ -9,6 +9,10 @@ nav_exclude: false
 
 # Ranger - Arcane Warden
 
+[The Shattered Gate](../region/Verza.md#the-shattered-gate) has been sealed by [the Verzae Legion](../region/Verza.md) for many years, and legionnaires are often dispatched to take care of the residues of this plague known as the netheric arcane, be it evil magi wreaking havoc, fiends slipping through a breach between the planes, or some ambitious elfling toying with curious power they do not understand.
+
+As a specialist assassin of the arcane, you know quite well how to safely analyze your target and neutralize them with your range advantage, or assist your companions in combat from afar.
+
 ## Firearm Training
 
 When you take this archetype at 3rd level, you receive training in uncenventional means to counter mages and casters. You gain proficiency in (exotic) firearms, and you may add your Dexterity modifier to your firearm's damage rolls. 

@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Warlock - Pact of the Lunar
 
+The moon is a mysterious force. It safeguards the people from the terror of darkness within the night, yet it leads out as well the most lunatic side of the deranged and the desperate. You have been chosen by this entity to serve as its representative and carry out its will, and in return it protects you from harm with pure, flowing moonlight.
+
 ## Expanded Spell List
 
 The Lunar lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.

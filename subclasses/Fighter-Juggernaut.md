@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Fighter - Juggernaut
 
+As the frontline of combat, you are a fortress on the battlefield, unbreakable, unflinching, unyielding, and unrelenting.
+
 ## Hard as Steel
 
 Starting at 3rd level, you reduce all damage you would take from any source by an amount equal to your proficiency bonus. This stacks with other damage reduction sources but is applied before resistances.  

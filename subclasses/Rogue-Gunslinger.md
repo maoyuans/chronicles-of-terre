@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Rogue - Gunslinger
 
+A rapier in one hand, a pistol in another, most likely wearing a dazzlingly grandeur hat, Gunslingers are the epitome of bravery and agility. Trained in skirmish tactics, Gunslingers specialize in dancing with danger on the battlefield, agile and daring, weaving in and out of the frontline, fighting in both close-quarter and mid-range.
+
 ## Skirmish Trainings
 
 When you take this architype at 3rd level, you gain proficiency in (exotic) firearms. Additionally, firearms you wield gain the [Point-Blank](../homebrew/Firearms#Properties) property.

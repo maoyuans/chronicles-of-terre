@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Rogue - Ninja
 
+A good assassin is not one who schemes the most, nor one whose aim is the steadiest; A good assassin is one who can strike from the most unexpected angles. A ninja is such a character, able to throw out a fan of daggers to overwhelm one or many opponents while being empty-handed a blink of the eye ago.
+
 ## Quick Draw
 
 Starting at 3rd level, you can draw your weapon for free as part of a thrown attack with it. 

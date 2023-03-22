@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Fighter - Sulphuric Militant
 
+Between the suffocating smoke and the smell of sulphur and death on the battlefield stands stalwartly a machine of slaughter, striking fear into those fortunate enough to survive the onslaught. As a specialist in close-quarter firearm combat, you prefer to be up close and personal with these sweet contraptions, challenge your foes head-on, and punish the cowardice of those who hesitates for the tiniest moment.
+
 ## Slayer Training
 
 When you take this archetype at 3rd level, you gain proficiency in (exotic) firearms and Intimidation.
