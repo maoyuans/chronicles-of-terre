@@ -23,6 +23,14 @@ You stand guard on the battlefield between your friends and your foes, shielding
 - Increase your Str or Con score by 1, to a maximum of 20.
 - When a creature within 5 ft of you makes an attack against a target other than you, or when a creature makes an attack against a target within 5 ft of you, you can use your reaction to become the target of this attack instead.
 
+## Familial Tactician
+
+*Prerequisite: Access to a familiar*
+
+You specialize your familiar in reconnoitre and analysis, allowing it to evasively survey the battlefield and your enemies. You gain the following benefits:
+- You can temporarily dismiss your familiar into a pocket dimension as an reaction instead of an action.
+- Your familiar can use their action to Scan.
+
 ## Firearm Specialist
 
 You are trained in the usage of firearms, with proficiency comparable to that of a skilled hunter with bows and arrows. You gain the following benefits:
