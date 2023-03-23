@@ -28,7 +28,7 @@ You stand guard on the battlefield between your friends and your foes, shielding
 *Prerequisite: Access to a familiar*
 
 You specialize your familiar in reconnoitre and analysis, allowing it to evasively survey the battlefield and your enemies. You gain the following benefits:
-- You can temporarily dismiss your familiar into a pocket dimension as an reaction instead of an action.
+- You can temporarily dismiss your familiar into a pocket dimension as a reaction instead of an action.
 - Your familiar can use their action to Scan.
 
 ## Firearm Specialist
