@@ -54,6 +54,8 @@ To which he frowns. "Eloisa, you should cull your-"
 
 "Oh, don't be so shy! We're no strangers to each other, right?" She pulls out the armchair across the desk, meant for the most esteemed guests with the honor to sit with the Don, and hops on it casually, sitting on top of its back as opposed to in it, bringing her up to his height. "Just call me Blue. I don't mind."
 
+---
+
 A brief moment of fear sweeps across his mind. "Come! Get this crazy woman out of here!" Rom raises his voice, shouting towards the door. A long, dreadful silence follows.
 
 "Bah, don't worry about your henchmen barging into your meeting." Blue chuckles lightly, with a hand covering her mouth. "Their shift ends at midnight, aint it? Darling, you should know this better than I do!"
@@ -63,6 +65,24 @@ A brief moment of fear sweeps across his mind. "Come! Get this crazy woman out o
 "Shhhh..." She leans in, "You forgot, didn't you? Hehe, you always do, old man. You're having a special meeting tonight with the most esteemed guest, and you don't wany anyone disturbing you, right?"
 
 ...Did he? Rom pauses and thinks back to his orders earlier. Vague fragments of recollection and memory slowly slip back into his memory - <span style="color:#9FC5E8">Yes, maybe he did, that will explain it</span>... But why?
+
+The old Don shakes off the dizziness forcefully. He doesn't know what is wrong with him... But he will not be made a fool so easily. From under his coat Rom pulls out a gilded handgun - an action he has much practice in - and points it towards the unexpected guest.
+
+His sight wanders between his firearm... and Blue. Something within him stirs - some repressed memory, <span style="color:#9FC5E8">screaming, churning, begging him to put the gun down</span>. "Stay back! D-Don't make me do this." His voice trembles and cracks, even to his surprise.
+
+"Woah, woah... Calm down, don't be scared..." The gnome stands up, and reaches a hand forward.
+
+Rom bites his teeth. He closes his eyes, aims the gun towards the ground next to her, and pulls the trigger. The booming sound echoes within his study, as Blue jumps back a step, with hands raised up towards the old Don. "Hey! That's quite rude."
+
+"The next shot won't be a warning shot." Rom grips the handgun harder, and aims it back towards her. Yes, he can still put a bullet through her any moment... but his fingers feel <span style="color:#9FC5E8">heavier and heavier</span>.
+
+"Ah, dear... Look how scared you've become." Blue sighs, yet there's still a smile on her face. "I mean you no harm! **I mean, if I'd wanted to kill you, I would've done so long ago!**"
+
+What... is she... The old Don's focus disperses. <span style="color:#9FC5E8">No, she's got a point.</span> If she has any ill intentions, why are they still having this <span style="color:#9FC5E8">friendly</span> conversation?
+
+He looks between his trembling hands, and the gnome slowly reaching towards him with open hands. His frail shoulders feels a gentle pat, the touch of another kindred spirit, once more after so many years. Old sentiments overwhelm him like waves, and finally he collapses back into his chair, eyes clouded with thoughts.
+
+What is this...? Rom looks into himself. A kaleidoscopic storm of emotions swirls within his mind - grief, fear, <span style="color:#9FC5E8">nostalgia</span>, regret, confusion - yet he can't make any rationality out of this sense of dissonance.
 
 ---
 
