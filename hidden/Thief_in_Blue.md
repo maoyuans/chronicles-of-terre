@@ -132,7 +132,7 @@ The doors slowly close shut, as the merry footsteps fade into the distance. All 
 
 Rom silently stands up. The dignity and sanctity of the old Don is nowhere to be found. He opens the cabinet in the corner, turns the knob on his safe a few cycles, and takes out a ragged and worn-out teddy bear.
 
-Putting the bear besides the wooden doll, tossed haphazardly onto his table, Rom sits back into his armchair, lost in his own thoughts. The red scarf and the blue cap fly quite distinct colors, but as tears blur his vision, the old man can no longer tell.
+Putting the bear besides the wooden doll, tossed haphazardly onto his table, Rom sits back into his armchair, lost in his own thoughts. The red scarf and the blue cap fly quite distinct colors, but as tears blur his vision, <span style="color:#9FC5E8">the old man can no longer tell.</span>
 
 ---
 
