@@ -82,7 +82,57 @@ What... is she... The old Don's focus disperses. <span style="color:#9FC5E8">No,
 
 He looks between his trembling hands, and the gnome slowly reaching towards him with open hands. His frail shoulders feels a gentle pat, the touch of another kindred spirit, once more after so many years. Old sentiments overwhelm him like waves, and finally he collapses back into his chair, eyes clouded with thoughts.
 
-What is this...? Rom looks into himself. A kaleidoscopic storm of emotions swirls within his mind - grief, fear, <span style="color:#9FC5E8">nostalgia</span>, regret, confusion - yet he can't make any rationality out of this sense of dissonance.
+"What is this...?" He mumbles. Rom looks into himself: A kaleidoscopic storm of emotions swirls within his mind - grief, fear, <span style="color:#9FC5E8">nostalgia</span>, regret, confusion - yet he can't make any rationality out of this sense of dissonance.
+
+---
+
+There is a long silence, broken only occasionally by the upbeat whistling of Blue. She dances around the study, looking curiously at the books and statuettes displayed on shelves and in cabinets, giving the old Don plenty of time. She doesn't seem to be in a hurry.
+
+"Quite the collection you've got here!" She picks out a few books from the middle shelf - having to do a small hop to grab them - and gasps. "Oh, oh! The first edition of *Biblio Mageirikis tou Okeanos*! This one has all the original recipes, before the immediate revisions - I can't believe you have a copy!"
+
+<span style="color:#9FC5E8">The compliment comforts him a bit.</span> He does take pride in his cooking, and - No, that's not the point. Rom gathers pieces of his sanity to pull himself together, and asks: "You- You sent the letter, right? What do you want from me then, just th-this worthless sword?"
+
+"Ah, right!" Blue snaps back from her book-binging, and looks toward the display case. "I do need to take this back." She takes out a bundle of keys from her pocket, picks out one of them, and with ease unlocks the case.
+
+"The macuahuitl may be worthless to you, but the tribespeople you took it from values it dearly." Blue slowly tells, taking a piece of silk from her pouch, and carefully wraps it up. "It is what ties them back to their family and ancestors after all. I think you'd understand, being a family man and all."
+
+"But... What's in it for you? Just out of the kindness of your heart?" Rom looks up from his slumped posture, and asks in disbelief. More fragments of memory floats up from the depth: He was once caring and passionate as well, to all those around him - <span style="color:#9FC5E8">since when did these virtues fade away?</span>
+
+"Well," The gnome dances laughs heartily, "in part, yes. Those tribals also pay well too - they don't value gems and artifacts as much as we do! They have their keepsake back, I get some money to spend, and you get to be a good person again - we all win in the end, isn't that awesome?"
+
+Was he ever a good person to begin with? Rom doesn't know - exhaustion takes hold over his wisdom. <span style="color:#9FC5E8">Perhaps</span>, perhaps not; It doesn't matter anymore.
+
+---
+
+His hand feels cold steel suddenly - the hand of the old Don, lifelessly dangled to his side, still grips the handgun tightly. Sense and sentiment sieges over each other within him.
+
+He watches silently, as Blue, humming her happy tunes, stores the wrapped macuahuitl within her sack. She quickly turns around and plucks up the recipe book from the pile of literature she has raided before, tucking it into the sack as well.
+
+She turns around, and dances a little swirl. "Well, before I take my leave, any more questions, my dear?"
+
+"You... walked into my world... humiliated- <span style="color:#9FC5E8">preached to my virtues</span>... and took me, Romani Vento, for a fool... <span style="color:#9FC5E8">a good man?</span>" With what remains of his reason and determination, Rom aligns his sight and his aim towards the intruder - <span style="color:#9FC5E8">or is it an old friend?</span> - and mumbles, "Is there a reason I shouldn't just bla- blast you into the nether at this moment?"
+
+Time as if slows down around the old Don. Blue, however, smiles joyously as ever. She reaches into the sack, and shuffles around, before pulling out something. **A small wooden doll,** rough craftsmanship all around, with a pointed cap made of tattered fabric in <span style="color:#9FC5E8">blue</span>. 
+
+Rom freezes in place. His visions focus onto the doll. <span style="color:#9FC5E8">Where has he seen it before?</span>
+
+"You can, of course. I won't stop you from doing so." The Thief looks down toward her doll as well, playing around with it mindlessly. "If this is who you want to be, no amount of persuasion can give you an redemption you do not want to receive."
+
+"But, is this who you want to be?" She shifts her attention back to Rom, eyes sharp like a kind mother looking at her lost lamb. "Is this who those who cared about you want you to be?"
+
+Ah... <span style="color:#9FC5E8">How familiar.</span> Slowly, and slowly, his arms lower, dropping down to his side once more. "I don't want to see you again." He murmurs.
+
+Blue laughs. "Of course, my dear. Let's hope that's the case."
+
+She hops towards the door, pushes it wide open, and dances out. The gnome stops her steps one last time, and looks back towards the slumped old man with a big smile. "I knew I could talk some senses into you. **See? You're not a bad guy after all.**"
+
+---
+
+The doors slowly close shut, as the merry footsteps fade into the distance. All is quiet as night.
+
+Rom silently stands up. The dignity and sanctity of the old Don is nowhere to be found. He opens the cabinet in the corner, turns the knob on his safe a few cycles, and takes out a ragged and worn-out teddy bear.
+
+Putting the bear besides the wooden doll, tossed haphazardly onto his table, Rom sits back into his armchair, lost in his own thoughts. The red scarf and the blue cap fly quite distinct colors, but as tears blur his vision, the old man can no longer tell.
 
 ---
 
