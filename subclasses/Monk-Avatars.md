@@ -40,7 +40,7 @@ Starting from 6th level, the sight and scent of blood entices you, driving you i
 
 ## Bestial Blessings
 
-At 11th level, your devotion to the Night Avatars bestow you with unnatural blessings. You gain the benefit corresponding to your devotion:
+At 11th level, your devotion to the Night Avatars bestow you with aberrant blessings. You gain the benefit corresponding to your devotion:
 
 ***Jaguar's Pounce.*** Whenever you use Step of the Wind to take the dash action, you can pounce towards a target within your reach during your movement. The target must make a Strength saving throw against your Ki save DC, being knocked prone on a fail.
 
