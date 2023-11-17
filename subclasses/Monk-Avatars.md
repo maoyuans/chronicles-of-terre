@@ -15,9 +15,7 @@ The tribespeople of [Yharn](../region/Yharn) finds worship in the Nocturne Parad
 <summary><span style="color:#FF0000">
 Alternative
 </span></summary>
-
 <span style="color:#FF0000">While the tribespeople of [Yharn](../region/Yharn) accepts the Night Avatars' influence willingly, there are those who fall victim to [Xbeltz'aloc](../religion/patronus/Xbeltz'aloc)'s curse, obtaining such power against their will. For them, Way of the Yolkateomeh takes on an appearance that is less animalistic, and instead more eldritch and horrific, in the form of aberrant blood and warped flesh. </span>
-
 </details>
 
 ## Heightened Instincts
