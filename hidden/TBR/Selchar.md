@@ -22,3 +22,22 @@ Many envies the treasures the Grand Selchari Vault holds, be it thieves on the r
 
 Despite the fame and notority of the Grand Vault, the lower docks of Selchar still houses all the wanna-be's who daydream of wealth and success. Between thieves, pirates, and outlaws, many have to resort to waylaying merchant or traveller ships on their way to store, retrieve, visit, or steal, hoarding wealth, resources, and experience, before making a name for themselves, breaking the unbreakable vault, scoring the grandest heist of all time.
 
+## The Grand Selchari Vault
+
+
+
+## Gangs in the Streets
+
+### Water Cartel
+
+### Lower Raiders
+
+### Jewelers
+
+### Black Breath's Henchmen
+
+### Dredgers of Driftwood
+
+
+
+## Sirenkin of Clearwater Gulf

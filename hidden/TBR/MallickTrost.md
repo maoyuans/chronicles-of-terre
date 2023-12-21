@@ -6,6 +6,6 @@ search_exclude: true
 nav_exclude: true
 ---
 
-# The Reaper of Issan's Gate
+# The Reaper of Issan's Maw
 
 Mallick Trost, Glorian Inquisitor.

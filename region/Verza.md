@@ -69,8 +69,18 @@ The most catastrophic breach incident happened around AC 1343, in Cinderfalls, a
 
 ## The Cataclysm in Verza
 
+### Fall of the Viridian Grove
+
 Following the Cataclysm and the fall of Bladefall in late spring of AC 1411, for a time Verzae Legion evacuated into Shattered Gate, setting up administration in the Grand Ward under the Shattered Gate.
 
 One of the most severe consequences of the Cataclysm, second only to the loss of Bladefall and the Old Guardian, is the Corruption getting a hold on the Viridian Grove. With the sole focus of the druidic leylines within Enemy hand, the uppermost hierarchy of druidic practitioners have their power diminished significantly, and has to rely on tactics and strategy to fight back.
 
 The Legion, together with Terre, is racing against time, however. Iris Corruption slowly seeps through the lost territories, and it is only a matter of time before they are erased from records forever, just like the Lost Lands to the east. Whatever plan the Legion and Terre devises, haste must be made.
+
+### The Legion's First Steps
+
+Despite the militaristic inclinations of the Legion, large scale military operations to reclaim Viridian Grove raises concerns - The Legionnaires are trained in fighting Corrupted creatures from beyond the High Wall, and they are aware that it is no simple task.
+
+In a desperate attempt to level the field, the Legion gathered groups of adventurers to infiltrate into enemy backlines, both within Viridian Grove, and in the larger region of eastern Verza. Most prominently, between the two groups led by heroes of Bladefall's Cataclysm, one pinpointed the Corrupted servant stationed within Viridian Grove, breached into the Grove itself, and assassinated this leader; the other investigated traces of cultist activities, and unveiled a plot to summon powerful entities from an ancient civilization lost to the Corruption, putting a stop to it.
+
+With these initial successes, the occupation forces from the Corruption weakens significantly, idling aimlessly without a lead. Over the Fall and Winter of AC 1412, the Verzae Legion managed to wrestle control of Viridian Grove from the Enemy, and pushed the frontline of the war east of the great tree. Although the devastation to the great fairy oak and its surrounding settlement will take much longer to rebuild, this is a vital first victory against what people have thought to be impossible to defeat.
