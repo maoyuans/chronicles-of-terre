@@ -1,6 +1,6 @@
 title: "Chronicles of Terre"
 remote_theme: just-the-docs/just-the-docs
-description: "A dungeons & dragons setting."
+description: "A medieval fantasy setting."
 
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/logo.png"
@@ -36,7 +36,7 @@ search:
 # Footer content
 # appears at the bottom of every page's main content
 # Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust markup / liquid-based content.
-footer_content: "Copyright &copy; 2021-2022 M.R.S."
+footer_content: "Copyright &copy; 2021-2024 M.R.S."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

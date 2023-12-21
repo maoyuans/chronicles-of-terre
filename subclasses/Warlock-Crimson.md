@@ -3,7 +3,7 @@ layout: default
 title: Warlock - Accursed Blood
 parent: Subclasses
 nav_order: 101
-description: "Chronicles of Terre is a medieval fantasy setting seven years in the writing, currently for dungeons & dragons 5th edition."
+description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 nav_exclude: false
 ---
 
@@ -56,6 +56,6 @@ Starting at 10th level, as you draw your blood to fuel your arcane fury, a resid
 
 Starting at 14th level, the Curse within you trembles with anticipation for new blood and flesh. As an action, you can bestow a lesser version of the Curse upon another creature, sharing a portion of your misfortune. The target must make a Constitution saving throw against your warlock spell save DC, unless it is a Beast or Monstrosity, for which the save automatically fails.
 
-If the target fails the save, the curse weakens its body and mind. Until the next dawn, all its attributes other than Constitution are reduced by 4, to a minimum of 1. In addition, any other creature that damages the weakened target for the first time gains 4d6 hitpoints.
+If the target fails the save, the curse weakens its body and mind. Until the next dawn, all its attributes other than Constitution are reduced by 4, to a minimum of 1. In addition, any other creature that damages the weakened target for the first time gains 4d6 temporary hitpoints that last until they finish a short or long rest.
 
 Once you use this feature, you cannot use it again until you finish a long rest. 
