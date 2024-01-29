@@ -42,7 +42,7 @@ When you take the Oath of Tradition at 3rd level, you gain the following two Cha
 
 ## Aura of Prestige
 
-Starting at 7th level, you can bestow magical protection to allies that dominate mundane attacks without potency. You and friendly creatures within 10 ft of you have resistance to non-magical slashing, piercing, and bludgeoning damage.
+Starting at 7th level, you can bestow magical protection to allies that dominate mundane attacks without potency. You and friendly creatures within 10 ft of you have resistance to non-magical slashing, piercing, and bludgeoning damage, while you are not incapacitated.
 
 When you reach 18th level in this class, the range of the aura increases to 30 ft.
 
