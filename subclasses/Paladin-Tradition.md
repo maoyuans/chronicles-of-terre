@@ -56,4 +56,5 @@ At 20th level, you become a beacon of magic and the prosperity it brought to soc
 - You become immune to non-magical slashing, piercing, and bludgeoning damage, and gain resistance to magical slashing, piercing, and bludgeoning damage;
 - Whenever you or a friendly creature starts their turn within 30 ft of you, you may choose to grant them 15 temporary hitpoints that lasts until they finish a short or long rest;
 - You can cast 1st level spells without expending a spell slot.
+
 Once you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again. 

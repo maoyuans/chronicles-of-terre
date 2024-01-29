@@ -41,6 +41,14 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 - [Magebane](Fighter-Magebane) : An architype that seeks out and counters mages and casters, specialized in standing against their spells.
 - [Sulphuric Militant](Fighter-Sulphuric) : An architype that terrorizes the battlefield with short-range firearms, culling the weak and punishing fear.
 
+## Monk Subclasses
+
+- [Night Avatars](Monk-Avatars) : A tradition for animalistic brawlers and worshippers of [Xbeltz'aloc](../religion/patronus/Xbeltz'aloc), learning from the ferocious beasts and embodying the jungle as they fight.
+
+## Paladin Subclasses
+
+- [Tradition](Paladin-Tradition) : An oath that preaches the virtues of magic and denounces technology, imbuing allies with arcane power and protection from mundane weaponry.
+
 ## Ranger Subclasses
 
 - [Arcane Warden](Ranger-Warden) : An architype adopted by wardens of [Verzae Legion](../region/Verza) that uses technology and alchemy to trace down and counter those who abuse the arcane.
@@ -58,8 +66,8 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 
 ## Warlock Subclasses
 
-- [Lunar](Warlock-Lunar) : A pact to a patron that is a manifestation of the moon, granting their followers the blessing and protection of the cold night.
 - [Accursed Blood](Warlock-Crimson) : A pact to a horrible curse that mutilates the flesh and the mind, granting you power of blood magic, in exchange for your eventual descent into primal bloodthirsty madness.
+- [Lunar](Warlock-Lunar) : A pact to a patron that is a manifestation of the moon, granting their followers the blessing and protection of the cold night.
 
 ## Wizard Subclasses
 
