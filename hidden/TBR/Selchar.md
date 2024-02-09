@@ -3,7 +3,7 @@ layout: default
 title: Selchar
 nav_order: 12
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
-parent: Regions & Factions
+//parent: Regions & Factions
 nav_exclude: true
 ---
 

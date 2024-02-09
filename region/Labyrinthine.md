@@ -2,7 +2,7 @@
 layout: default
 title: Labyrinthine
 nav_order: 10
-description: "Chronicles of Terre is a medieval fantasy setting seven years in the writing, currently for dungeons & dragons 5th edition."
+description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 parent: Regions & Factions
 nav_exclude: false
 ---
@@ -14,7 +14,7 @@ nav_exclude: false
 - Official language: Infernal common
 - Common languages: Elvish (high), abyssal
 - Inhabitant races: Various
-- Population *as of AC 1411*: ~ 120,000
+- Population *as of AC 1411*: ~ 34,000
 - Demonym: Labyrinthian
 - Approximate form of government: Aristocratic Oligarchy
 - Head of State: Eight Lords of the Clock Tower
