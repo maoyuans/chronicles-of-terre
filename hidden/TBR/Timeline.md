@@ -36,6 +36,10 @@ Sil 24, AC 951: Druids of the Viridian Grove militarize. The Verzae Legion is fo
 
 Vul 2, AC 954: Throne of the Ascendant retreats into Okeanos; the Tide of Steel ends.
 
+Lyl 10, AC 954: King Esh'zerat founds the Central Kingdom of Esh'dun at Bound.
+
+Hel 11, AC 993: King Esh'zerat passes away, the Central Kingdom of Esh'dun dissolves into various entities.
+
 Ert 29, AC 1245: Demon King Miyatsuki Otoeda conquers all of Astartia.
 
 Hel 27, AC 1245: Miyatsuki Otoeda passes away. He signs an flawed contract with Apotheosis and returns as Kyokutei.

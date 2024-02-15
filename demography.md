@@ -30,7 +30,7 @@ Tieflings used to be the ruler of Terre, but have since fallen from grace. While
 
 ## Halffolks: Gnomes and Halflings
 
-The two good-minded and hospitable races formed close-knit communities together since the start of history. While not numerous, they dwell in the Mounds along the border between Maltross and the Divine Glorian Empire, or travel the roads between cities. They are welcomed across all places, just like they welcomed everyone around their bonfires.
+The two good-minded and hospitable races formed close-knit communities together since the start of history. While not numerous, they dwell in the Mounds along the border between Maltross and Albion's March, or travel the roads between cities. They are welcomed across all places, just like they welcomed everyone around their bonfires.
 
 ## Plane-touched: Aasimars and Genases
 

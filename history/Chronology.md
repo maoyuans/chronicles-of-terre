@@ -63,7 +63,7 @@ Stories and tall tales tell of a curse, crimson and sanguine, plaguing the far w
 
 ### Sovereignty Lost
 
-The mid summer wind brings hope to Terre, as a party of adventurers commissioned by the Verzae Legion disrupted a ritual vital to the Iris Corruption's plan. Cultists and agents who call themselves *Acolytes of the Harbingers* have wreaked havoc in the lost forests in southeastern Verza, attempting to summon some entity within long forgotten ruins dating to the reign of the Forgotten Empire. Yet they are unsuccessful: The ritual broken, the leaders slain, and the Grove one step further away from the Enemy.
+The mid summer wind brings hope to Terre, as a party of adventurers commissioned by the Verzae Legion disrupted a ritual vital to the Iris Corruption's plan. Cultists and agents who call themselves ***Acolytes of the Harbingers*** have wreaked havoc in the lost forests in southeastern Verza, attempting to summon some entity within long forgotten ruins dating to the reign of the Forgotten Empire. Yet they are unsuccessful: The ritual broken, the leaders slain, and the Grove one step further away from the Enemy.
 
 Yet with these victories come a question long lost to time, whose absence was taken for granted for centuries long. The ruins are not of the Forgotten Empire, and whatever the cultists are trying to summon is certainly no simple as a mere fiend. From atop the Shattered Gate, generals of the Verzae Legion gazes towards the Iris Mist to the East, and finally ask themselves: *What was there in the Lost Lands, before the Iris claimed it all for oblivion?* 
 
