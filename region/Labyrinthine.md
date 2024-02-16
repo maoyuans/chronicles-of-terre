@@ -19,15 +19,15 @@ nav_exclude: false
 - Approximate form of government: Aristocratic Oligarchy
 - Head of State: Eight Lords of the Clock Tower
 
-Along the upper-middle section of the coastline of Terre is a small and unassuming peninsula, if not for the constant shroud of storm clouds, striking lightning bolts of arcane energy towards the tip of the rock spires rising up from the ground. This trecherous, maze-like peninsula is known as Labyrinthine, the 'divine land' for all netheric arcane practitioners of Terre, in which Lords and associates of the Mages' Guild govern over the arcane society within the chambers of the Clock Tower at Labyrinthine.
+Within the middle-northern section of Terre, just above Lake Akardia, is the torn and ravaged wetlands of [Albion's March](Fracture), and at the heart of these Fractured Kingdoms sits the Ringed Sea, and a small and unassuming island, if not for the constant shroud of storm clouds, striking lightning bolts of arcane energy towards the tip of the rock spires rising up from the ground and the sea. This trecherous, maze-like island is known as Labyrinthine, the 'divine land' for all netheric arcane practitioners of Terre, in which Lords and associates of the Mages' Guild govern over the arcane society within the chambers of the Clock Tower at Labyrinthine.
 
 ## The Folly of Storm
 
-Labyrinthine is a fitting name for the peninsula. Protruding rocks, whether naturally forming or maliciously manipulated, form walls, spires, and pillars, a giant labyrinth of stone and storm. The land is void of life of any form, a misfortune brought by the fortunes of the Mages' Guild - the Folly of Storm.
+Labyrinthine is a fitting name for the island. Protruding rocks, whether naturally forming or maliciously manipulated, form walls, spires, and pillars, a giant labyrinth of stone and storm. The land is void of life of any form, a misfortune brought by the fortunes of the Mages' Guild - the Folly of Storm.
 
 While the arcane torrents originated from the Shattered Gate, that source has long dried out since the destruction of the Gate in the hands of the Verzae Legion. As the torrents shift and shy away from Verzae territory, they twist and refocus in the sky above Labyrinthine, one of the three foci on Terre, deep within the lightning in the eye of the storm. 
 
-The Folly of Storm itself is a tempest of crackling and swirling arcane energy, rendering casual entries to Labyrinthine neigh impossible. Mages trained enough in the arcane arts can form protective spells around them and their companions to shield them from such harms, but such feat is still one that requires masterful manipulation of the arcane torrents, and can lead to disasters with one single slip of the mind.
+The Folly of Storm itself is a tempest of crackling and swirling arcane energy, rendering casual entries to Labyrinthine neigh impossible. Mages trained enough in the arcane arts can form protective spells around them and their companions to shield them from such harms, but such feat is still one that requires masterful manipulation of the arcane torrents, and can lead to disasters with one single slip of the mind. Much of the traffic enters and leaves through Bound, the Gateway City south of the Ringed Sea in Albion's March, where the Mages' Guild have set up teleportation circles for safe passage; Nonetheless, traversing the storm in flesh and spirit is considered a rite of passage for spellcasters across the continent.
 
 ## The Mages' Guild
 

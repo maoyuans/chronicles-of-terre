@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Fractured Kingdoms
+title: Albion's March
 nav_order: 12
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 parent: Regions & Factions
 nav_exclude: false
 ---
 
-# Fractured Kingdoms
+# Fractured Kingdoms of Albion's March
 
 - Common languages: Various
 - Inhabitant races: Various
@@ -62,3 +62,7 @@ Two recently-split kingdoms located in the south-western part of Albion's March,
 ### Argian Island Coalition
 
 The coastal regions to the west of the Ringed Sea, as well as a couple of major islands form a coalition reliant on seafaring and aquaculture to survive. These islands are farthest away from the Folly of Storm, and thus are relatively calm.
+
+### Ancestral Kingdom of Skadyr
+
+On the far northern point of the Archipelago chain is a boreal and mountainous island, home to a kingdom of draconic worshippers. Their King claims to be the reincarnation of a True Dragon, Skadyr, that once roams Albion's March. The kingdom's fanaticism is often the laughing stock of their rivals, but the citizens seem to believe their King's imperial creed without a doubt.
