@@ -21,7 +21,7 @@ The newly built Church of Issan's Maw sits on the far southern edge of the villa
 
 ### Abandoned Tunnels
 
-One of the most excavated tunnels among many within the valley leading to the Maw. Raw gems and minerals were more than half of Issan's Maw's export before the massacre, so this tunnel sprawls several layers deep into the mountain side and the underground, driven by the abundance of iron and sapphire, and the rumors of cryonic ore struck in the deepest reaches.
+One of the most excavated tunnels among many within the valley leading to the Maw. Raw gems and minerals were more than half of Issan's Maw's export before the massacre, so this tunnel sprawls several layers deep into the mountain side and the underground, driven by the abundance of iron and sapphire, and the rumors of cryonic ore from a comet that struck the mountains long ago.
 
 A narrow side tunnel led to the mountainside east-northeast of the Maw's entrance, and was extensively used by first smugglers and then cultists. Until the massacre, that is, when the main and the side tunnels were all sealed shut by cave-ins both natural and artificial.
 
