@@ -8,6 +8,24 @@ nav_exclude: true
 
 # Into the Maw
 
+## Sangnis
+
+Five months after the disasters as Sangnis, the party will receive correspondence from Butio, about aiding a old friend of his. Of the party, only Sebastian would respond, while Zeekquirrk would refer to Dalor Bramblefoot, an acquaintance of hers. The two will meet at the tavern in Sangnis, to find a mysterious tiefling noblewoman from Okeanos, with the name of Lucia Veritania Azalea, accompanied by Sytri Hawkins, a strange man to all three of them.
+
+Sangnis has seen a steady process of reconstruction in the past months, spearheaded by local priest Galter Lorenzon. While the Crimson curse still occasionally manifests itself, sending small packs of tainted beasts towards the village, Hasili Suntrace, the paladin of Fass, has been able to fend them off after recovering from his injuries.
+
+Galter helped Azalea, who escaped Okeanos inland after contracting the Crimson Curse. He recognized that Azalea's Curse behaves quite differently than the mindless infestation that other creatures exhibit, and sheltered her so that she can recover from the travels. Azalea learned the party's involvement, and recognized Butio, thus contacted him for assistance.
+
+## Road to the Maw
+
+Azalea is upfront about his goals of returning to Okeanos to find out who is behind the Crimson Curse. She is adamant about visiting Issan's Maw first to retrieve lost items.
+
+The party would encounter bandits on the road to Issan's Maw, a two-day travel. Azalea refrains from using anything further than daggers and pistols, and would only show her power if situations are dire.
+
+At night the party would awaken to Azalea attempting to fight a bear. She needs to drink blood to quell her Curse, in lieu of ample supply of the Blood.
+
+The party might encounter a camp of bandit-mercenaries hunting a lonesome tiefling - without knowledge of Azalea's in-party status.
+
 ## Issan's Maw
 
 A destitute settlement near the Taignos Mountains bordering DGE and Okeanos. The Maw, a lesser-known, more treacherous pass through the mountain range is located behind the village. Most of the village is destroyed in an inquisition some 50 years ago.
@@ -22,7 +40,7 @@ Azalea on her journey inland passed through Issan's Maw, and almost lost control
 - The cellar is rumored to have rat issues that exacerbated the recent famine. There are noises coming from the cellar when it is quiet at night. Adrian the town drunk is hiding inside the cellar, after contracting the Curse from Azalea's Blood vial. Some part of the village's catch is used to feed him blood, and alcohol inundated his senses and helps quell the Curse.
 - Julia knows the daughter of a previous cartographer that used to chart the Maw and make maps for travelers. His tools and charting data are still buried in the Cemetery Ruins, with undead problems sometimes.
 - Local thief/drunk/urchin can be convinced to reclaim Venlo's farmstead to restart the poultry supply for the village.
-- Traces of smugglers and other shady stuffs. A smuggler's den operating behind Carra's farmstead. They have possibly illegally sourced stuffs, exotic items, and also odd sorts of jobs to give. Maybe - blackmail, getting documents from Venlo's farm, the local church, etc.
+- Traces of smugglers and other shady stuffs. A smuggler's den operating under Carra's farmstead. They have possibly illegally sourced stuffs, exotic items, and also odd sorts of jobs to give. Maybe - blackmail, getting documents from Venlo's farm, the local church, etc.
 
 ## Abandoned Tunnels
 
@@ -105,5 +123,15 @@ Mercenaries working for Vasilius, the Crimson General, would like to help Azalea
 ## Ataraxia
 
 Lady Ataraxia would contact the party when they need help or after they first enter the mines. She wants the celestial creature and the comet gone.
+
+Personally Lady Ataraxia wouldn't care about the Crimson Curse - if anything, it would seem like a great ally for her. She would hold a neutral attitude towards the Curse, and related topic, but ultimately provide reasonable aid to the party.
+
+## The Reaper of Issan's Maw
+
+The Reaper of Issan's Maw, Mallick Trost, is the Glorian inquisitor that caused the massacre at Issan's Maw some 49 years ago. Various parties hold differing opinions on his actions, but by the word of the law of the  Empire and the tenet of the Church, his actions are just. The fanatics' sect ultimately stationed him in Bladefall, as an inquisitor captain for his pious following of Gloria, and suppressed the mentioning of the massacre at large.
+
+A main concern of the villagers would be catching the attention of Trost or the fanatics in general, thus remain hostile or evasive of the party. They will often make mentions of the Reaper. If the party decides to confront the local inquisitor to a large degree, he will eventually arrange for the arrival of Trost.
+
+Trost is a high-level vengeance paladin of Glory who is gifted power by Gloria. The party is not expected to defeat him in combat - and should instead resort to persuasion and other methods to convince him to leave the village alone, or target the most important threat.
 
 ## Beyond the Maw
