@@ -52,6 +52,70 @@ Azalea lost her Blood case near the entrance, and thinks that her case is in the
 
 Julia will ask the party to figure out how to solve the problem, if they want, or for a favor of some kind.
 
+### Tunnel Structure
+
+The Abandoned Tunnels are divided into four level, each approximately designed for one character level, from 4th to 7th. The four levels forms a loosely downward slope, starting from the entrance to the Maw, going west to east into the mountain, before turning going south to north around the second level. A main shaft descends until the end of the third level, providing easy access once the various blockages are cleared. There are a few smaller passages between levels, some of them one-way descents, some of them too small for medium-sized creatures. The final section of the third level and the fourth level are composed of primitive tunnels dug by either miners or other creatures, and lacks a central shaft.
+
+### First Level - Mineshaft
+
+The first level is themed as a ordinary mineshaft - only overrun by tainted creatures. The central shaft descends from the entrance on the west towards the east. There is a few blockages in the central shaft; some can be cleared with explosives, some too heavy to clear and must be circumvented. The side shafts are relatively artificial, straight with sharp turns and little curves.
+
+The part of the central shaft towards the second level is blocked by heavy rubble and cannot be traversed. A chamber on the side holds a tunnel downwards, but is occupied by the boss of the floor - a hoarding spider that collects all kinds of rocks and minerals. Defeating the spider allows clearing the webbing and advancing to the next level.
+
+- A room is blocked off by a cloud of toxic gas - which originates from a gas leak on the second level. The room contains coins and pools of poison that can be extracted. The party can attempt to detonate the gas cloud, but the gas will refill in a short while, making the room dangerous to venture into without quick reaction. Disabling the gas leak on the second level will make the cloud dissipate.
+- There are support beams that will collapse when walked near. Can be detected as traps, and can be used to close off tunnels or damage enemies.
+- A heavily cobwebbed area contains a venomous spider nest. The spiders will battle tainted creatures and the party. Guarding gemstones and webbed gauntlets.
+- A dysfunctional elevator that must be repaired. There are mechanical parts around the first and second level. A repair manual is somewhere on the second floor, that allows someone to repair it with higher success rate. The elevator descends into the second level in a room with weapons. The room is locked from the inside. The elevator also descends into the third floor in a peripheral tunnel, but the tunnel is blocked from the outside.
+- Explosive pouches, bundles, and barrels are scattered across the mineshaft. Can be used to clear tunnels and collapses. Some explosives are unstable and might cause injuries.
+- A room with high ceilings and exposed silver ore veins. Uhhhh vertical combat region. Some pushing?
+- A section of the level overrun by tainted monsters. Expect a lot of blood and eating each other (?)
+- A minecart on rail that leads to a blockage. Supposed to load the cart with explosives and clear the blockage into treasure, gold, potions, and shit.
+
+### Second Level - Cultists
+
+The second level is themed around cultist activities that used to shadow the mineshaft and Issan's Maw. The central shaft continues from the first level on the west, but turns sharp in the middle and towards the north. The central shaft is mostly clear of blockages, but a ravine spans the middle of the floor and support has collapsed mostly. There are some natural cave tunnels but most of the side tunnels are mined out.
+
+The central shaft towards the third level is blocked off by a collapse caused by the Reaper - but there are no other passages towards the third level. An abandoned mining drill using Perani technology is near the blockage. The party needs to search energy cells that power the drill. Once the drill starts digging, it will draw in a lot of monsters including tainted and natural inhabitants - and maybe undeads. The party must defend themselves and the drill until it digs through the blockage.
+
+- The toxic gas cloud on the first floor comes from a pipe leak in a section on this floor. The party can attempt to seal it with some poison resistance gear or potion (conveniently found ont he floor). Sealing it will remove the gas leak, but redirect the gas to cause an explosion on ground level outside of the village. The pipe comes from a processing machine on the third floor - and the party can switch it off to solve all problems.
+- A lot of glowing moss that illuminates the floor.
+- A room locked from the inside that contains magical weapons and treasures and the elevator. The party should enter from the first floor after fixing he elevator.
+- A section near the south-east corner that is entirely over the ravine. Parkour or construction required? Maybe?
+- Rigged explosives because why not. The cultists need defenses.
+- A section near the south-west corner that is a cultist hideout. There's also smuggling happening. There will be profit. There is also a lot of undead and stuffs.
+- A room with strange pentagram rituals, that is almost complete. Please do not complete it. It will summon a demon, and I will have to write fiend lore for that.
+- The barracks/bunkers for cultists, turned into essentially a mass grave by the Reaper. A LOT of undead there. But also some cultist themed treasure idk.
+- A hidden tunnel that the cultists and smugglers use to quickly enter and exit the mines. Leads to a hiddel alcove out of town.
+- A passageway into the third level hidden under the ravine. The party is not supposed to find this until they come from the third level side.
+
+### Third Level - Elementals
+
+The third level is themed around elementals and golems, ice and fire, caused by residual elemental energy of the cryonic ore that the miners were after. The central shaft extends further into the mountain, going south to north, but varying in width and angle due to hardened rock profile, and ends at the middle of this level. A large part of the level consists of natural caverns, and features ice, water, and lava.
+
+There are various small tunnels towards the fourth level, one around the lava area, another around the ice area. The lava area tunnel is in a lava river flowing downwards, and is hard to access; The ice area tunnel is guarded by an ice elemental who is hostile to the party. The ice elemental draws heat from around it and vents heat to the other side of the central shaft, causing polar environments. Defeating the ice elemental is not required to advance - it can be argued with, but is very stubborn and will attack.
+
+- A tunnel in the south-western corner that connects to the elevator from the previous floors. The tunnel is blocked by a cave-in that is safe to clear from the third floor direction, allowing quick access in the future.
+- A section in the north wall between the ice and the lava that is submersed in water. There are water pumps left by the miners that can be repaired and activated to drain the water. The section contains a tunnel to the fourth level, but it drops down into an underwater area that the water pumps cannot reach.
+- A small cave in the south that leads to the underside of the ravine of the second floor. The party can see another hidden treasure on the cliffside that they can return to the second floor to retrieve.
+- The beginning of the central shaft that was blocked off by the Reaper contains many corpses of miners, trapped within the cave when the massacre happens. No undead this time, they deserve a rest after the drilling event last floor.
+- Near the end of the central shaft to the east, a control chamber that can activate the water pump, stop the gas leak, along with various other useless functions. The processor is malfunctional due to the increased temperature.
+- Exploding crystals. Lava bubbles bursting.
+- Mining equipments possessed by uhhhh mutant flesh monsters idk.
+- TBD?
+
+### Fourth Level - Cosmic
+
+The fourth level is themed around cosmic creatures as well as tainted creatures overdriven by the comet. The fourth level is much smaller in size compared to the other levels, and consists of narrow artificial and natural tunnels, fractured during meteor impact, or excavated by the miners. A lot of crystals exist within the cave system from the impact.
+
+Most of the paths to the comet impact site is sealed off by a shell. One large tunnel was assaulted by a strong tainted creature (boss, to be designed), which weakened the wall to allow demolition.
+
+The meteor impact site is a large and empty cavern with a comet shard in the middle. The party approaching the comet shard will be dragged into an encounter with the cosmic messenger.
+
+- The south-middle section is submersed in water. There is no water pump but there's uhhhh treasure. Yeah. The mandatory underwater section. Also man-eating fishes.
+- Some of the crystals are... Exalting crystals. They are alchemical blanks that does not react to magics really. Make up some lore - it's reaccuring elements. It's gonna be useless and interesting.
+- Some of the crystals are... mind-controlling? They will make the party obsessed with them, absolutely. Idk what they will do with it, make shit up on the fly.
+
+
 ## Lucia Veritania Azalea
 
 Mysterious tiefling from Okeanos, wants to figure out who 'V' is. Suspects own father, who is doing some weird shit. Asking the party for assistance.
