@@ -34,7 +34,10 @@ He sees failure manifest from all around him. "Will she come back if I know how 
 
 "Yes. I am too weak. I should become strong."
 
-He sees a smile. "Come with me then, on a pilgrimage. To my temple beyond the stars. For I am *?x?? [Author] ??.?*, and together we shall create the greatest of stories."
+He sees a smile. "Come with me then, on a pilgrimage. To my temple beyond the stars. For I am ***?x??*** *[Author]* ***??.?***, and together we shall create the greatest of stories."
 
-***WARNING:** [Author] cannot be properly parsed.*
+---
+
+***WARNING:*** *[Author] cannot be properly parsed.*
+
 *Add temporary translation to mapping?* ***YES/NO***
