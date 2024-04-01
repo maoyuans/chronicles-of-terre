@@ -14,19 +14,19 @@ Xonokonetl (lit. Spawn of Xonoch) are a species of bear found in Yharn, resembli
 
 **Xonokonetl**
 
-*Medium Beast, Unaligned*
+*Large Beast, Unaligned*
 
 ---
 
 **Armor Class** 11 (natural armor)
 
-**Hit Points** 19 (3d8+6)
+**Hit Points** 36 (4d10+14)
 
 **Speed** 40 ft., clime 30 ft.
 
 ---
 
-**STR** 15 (+2); **DEX** 10 (+0); **CON** 14 (+2); **INT** 2 (-4); **WIS** 12 (+1); **CHA** 9 (-1).
+**STR** 19 (+4); **DEX** 10 (+0); **CON** 16 (+3); **INT** 2 (-4); **WIS** 13 (+1); **CHA** 9 (-1).
 
 ---
 
@@ -36,7 +36,7 @@ Xonokonetl (lit. Spawn of Xonoch) are a species of bear found in Yharn, resembli
 
 **Languages** -
 
-**Challenge** 1/2 (100 XP)
+**Challenge** 1 (200 XP)
 
 **Proficiency Bonus** +2
 
@@ -48,6 +48,6 @@ Xonokonetl (lit. Spawn of Xonoch) are a species of bear found in Yharn, resembli
 
 ***Multiattack.*** The xonokonetl makes two attacks with its claws.
 
-***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
 
-***Shadow Phase (Recharge 5-6).*** If the xonokonetl is in dim light or darkness, it can melds into shadows, and reappear in another space within its movement range, provided it does not need to pass through bright light to move there. All creatures within 5 ft of the xonokonetl after the movement must succeed on a DC 11 Wisdom saving throw or be frightened of the xonokonetl until the end of its next turn.
+***Shadow Phase (Recharge 5).*** If the xonokonetl is in dim light or darkness, it can melds into shadows, and reappear in another space within its movement range, provided it does not need to pass through bright light to move there. All creatures within 5 ft of the xonokonetl after the movement must succeed on a DC 13 Wisdom saving throw or be frightened of the xonokonetl until the end of its next turn.
