@@ -42,7 +42,7 @@ San 18, AC 951: Residents of Scornwell (Modern-day southern Maltross) rebel agai
 
 Sil 24, AC 951: Druids of the Viridian Grove militarize. The Verzae Legion is founded.
 
-Vul 2, AC 954: Throne of the Ascendant retreats into Okeanos; the Tide of Steel ends.
+Vup 2, AC 954: Throne of the Ascendant retreats into Okeanos; the Tide of Steel ends.
 
 Lyl 10, AC 954: King Esh'zerat founds the Central Kingdom of Esh'dun at Bound.
 
@@ -86,4 +86,4 @@ Yon 18, AC 1412: The Grand Selchari Vault is heisted; Lord Miyatsuki reclaims th
 
 Sil 21, AC 1412: Lucia Veritania Azalea escapes Okeanos and passes through Issan's Maw, losing the case of Blood. The events of *Foul Harvest* transpires.
 
-Vul 4, AC 1412: Azalea gathers a party at Sangnis. The events of *Into the Maw* begins.
+Vup 4, AC 1412: Azalea gathers a party at Sangnis. The events of *Into the Maw* begins.

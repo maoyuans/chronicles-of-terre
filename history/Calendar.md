@@ -27,6 +27,28 @@ Each region and culture have different festivities to celebrate the Festival of 
 
 ## Youalitzli (Carnival of the Night)
 
-A festival celebrated amongst Yharnic tribals and followers of Xbeltz'aloc on **Helind 13th** of each year. The entirety of the jungles of Yharn is enshrouded in a caliginous gloom from dawn to dusk, blocking out even the dim sunlight that manages to penetrate through layers and layers of canopy. The Nocturne Parade is active throughout the entire day, making traversing the jungle extremely dangerous.
+A festival celebrated amongst Yharnic tribals and followers of [Xbeltz'aloc](../religion/patronus/Xbeltz'aloc) on **Helind 13th** of each year. The entirety of the jungles of [Yharn](../region/Yharn) is enshrouded in a caliginous gloom from dawn to dusk, blocking out even the dim sunlight that manages to penetrate through layers and layers of canopy. The Nocturne Parade is active throughout the entire day, making traversing the jungle extremely dangerous.
 
 The tribes hold ceremonial feasts and conduct ritual sacrifices to appease Xbeltz'aloc, in return for his blessing and protection. In the deep jungles, humanoid sacrifice are still in practice, where unfortunate prisoners and slaves are killed, flayed, or bloodletted as part of the ritual; For those who observe residing in parts of Terre where such gruesome sacrifices are outlawed or impractical, animals are used in place of humanoids.
+
+## Harvest Sunset
+
+A night festival hosted yearly on **Santra 25th** to commemorate the end of the harvest season, and to celebrate a good harvest. Rural villages across Terre, mostly in the Divine Glorian Empire and Astartia, where agriculture plays a prominent role, will host night markets for residents and travellers alike, with excess food, produce, games, and commerce for trade and sale. Harvest Sunset is often dedicated to [Astarte](../religion/maioris/Astarte), goddess of twilight, who holds domain over agriculture and furtility.
+
+Hoshihara, a hilltop village in Astartia, is famous for its night market. Every Harvest Sunset, the night sky around Hoshihara is illuminated by blue and violet starlight, attracting visitors across Terre, and the merchants and traders that follow in their footsteps. Legends say that the hill Hoshihara sits on is the altar to Astarte, who blesses this divine land with such miraculous boon one night each year.
+
+## Victory Day
+
+A commemorative festival celebrating the anniversary of the Forgotten Empire's retreat from Shattered Gate on **Vupen 2nd**, AC 954. The Throne of the Ascendant's retreat into Okeanos marks (the beginning of) the end of the Tide of Steel, when most regions and factions of Terre earned their respective independence from the Empire's crumbling rule towards the end of imperial times. While each region established their regime at different times, the retreat is recognized across Terre as the most significant event.
+
+A common form of celebration, in particular in Verza, Maltross, and the Divine Glorian Empire, is military parades, hosted at capitols or fortress settlements, for the kingdoms and empires to exhibit their military power to their citizens and enemies.
+
+## Greenblossom
+
+A festival celebrated around Viridian Grove in Verza on **Lylix 19th** every five years, ending on 0 or 5. The Viridian Grove, a Great Fairy Oak, blossoms every five years around that date, and to druids of the Verzae Legion holds special, divine meanings, signaling the start of spring and the victory of life.
+
+Druids of the Verzae Legion, worshippers of nature, and wood-elves in general converges within Viridian Grove on a pilgrimage to the druidic leylines. A celebration is held on Lylix 19th by the Legion.
+
+## Baywatch Day
+
+Coastal settlements around Clearwater Bay, mostly Astartian cities and villages, celebrate annually on **Vupen 23rd** as residents gather around vantage points along the coastline from daybreak to watch over the frozen-over ocean, searching for sightings of migrating oceanic animals. Sightings of whales, orcas, or sea leviathans breaking through the thinning sea ice are considered good fortune and omens for the upcoming spring, as well as a good year ahead for sowing and harvest.
