@@ -52,3 +52,13 @@ Druids of the Verzae Legion, worshippers of nature, and wood-elves in general co
 ## Baywatch Day
 
 Coastal settlements around Clearwater Bay, mostly Astartian cities and villages, celebrate annually on **Vupen 23rd** as residents gather around vantage points along the coastline from daybreak to watch over the frozen-over ocean, searching for sightings of migrating oceanic animals. Sightings of whales, orcas, or sea leviathans breaking through the thinning sea ice are considered good fortune and omens for the upcoming spring, as well as a good year ahead for sowing and harvest.
+
+## The Grand Bazaar
+
+Maltrossian tribal caravans convene around Gurbesu Hyip, an oasis in central Maltross, annually on **Silour 2nd**, to host the Grand Bazaar, a reunion and celebration of the past year. Caravaneers will feast, dance, trade for resources to prepare for the upcoming winter, and host an assortment of competitions, including archery, horse wizardry, cart racing, sharpshooting, and others, some with prizes, some for fun and glory. The Grand Bazaar is also a place for young adults to meet and mingle and get to know each other, in hope of finding a partner, the love of their life, get picked up by another caravan, or form a group to roam Maltross together.
+
+## Springcoming
+
+Maltrossian tradition requires young unmarried Maltrossians who have joined other caravans from their parents to return home around early spring in **the beginning of Lylix** to provide aid for the first five years of their departure. These times are marked by bittersweet reunions and celebrations, and sees individual travels across the region increased many fold.
+
+Venerable elder caravaneers who have retired from labors sometimes travel to join their childrens and families to celebrate Springcoming as well.
