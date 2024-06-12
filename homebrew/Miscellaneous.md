@@ -39,3 +39,6 @@ When measuring range or moving diagonally on a grid, the first diagonal square c
 
 When drinking a healing potion, a creature can choose to quickly down the potion as a bonus action, rolling the potion's healing as normal; Alternatively, the creature can choose to use an action to drink the potion carefully, recovering the maximum amount of healing granted by the potion.
 
+## Unarmed Smite
+
+Yes, you can use Paladin's Divine Smite feature with unarmed strikes.
