@@ -68,3 +68,8 @@ Venerable elder caravaneers who have retired from labors sometimes travel to joi
 Every year on the night of **Ertos 30th**, from sunset to sunrise on the next day, Legionnaires of the Verzae Legion settle down and engage in meditation, in an effort to commune with the Leylines of Terre. The Leylines are streams of soul energy, from which lives are born, and to which they return on death. Legionnaires, as well as many druidic practitioners seeks to strengthen their attunement to the Leylines and to receive wisdoms and guidance from their ancestors.
 
 The meditation is not to be interrupted unless under urgent circumstances, as ordered by a Captain or higher-ranked legionnaire, or the highest ranking legionnaire available in the regiment or encampment. Legionnaires on guard duty on the night are exempt from meditation. The effect of bonding with the Leylines helps alleviate fatigue and exhaustion, and allows non-elven legionnaires to enter conscious trance similar to elves.
+
+## Schmiedefeier (Celebration of the Forge)
+
+Dwarves of Unterbergstadt under the Hollunberg mountains celebrate dwarven craftsmanship and artistry on **Yondar 11th** during Schmiedefeier. The forges in the forge district on the lower layers are extinguished on Yondar 4th, after the celebration of the Festival of Fire, and throughout the next week are repaired, cleaned, and maintained, to prepare for the next year's service. On Schmiedefeier, the lava channels throughout Underbergstadt are refilled, and lava stream flows down the vertical structures of the city, a spectacle to behold for its inhabitants.
+
