@@ -37,7 +37,7 @@ Verzae Legion, current controllers of the region of Verza, is a legion of milita
 
 The Legion's alignments establish themselves as a force of the land, favoring druidic practices and opposing unregulated utilization of Netheric arcanes. Their diplomatic relationship with the Mages' Guild and the Provincial Empire of Okeanos, by extension the old Forgotten Empire, is thus rather tense at times, but both of these entities rarely interfere with the Legion and each other. For now, most of the Legion's forces are focused on the eastern front on Bladefall and the High Wall to fight and hold back the corruption from invading further, which in turn attracted many soldiers, mercenaries, and adventurers to associate with them and act under their commands.
 
-The Verzae Legion is led by the Emerald Council, a collection of highest-ranked legion generals, who convene in the chambers of the Viridian Grove to govern Verza and the Legion. Although generals are selected by special protocols and are usually appointed by life, most of them retire at the coming of old age, or perish in the frontlines before a natural cause.
+The Verzae Legion's ranks are in general as follows, from low to high: private, corporal, sergeant, lieutenant, captain, major, colonel, general. The Legion is led by Council generals of the Emerald Council, a collection of highest-ranked legion generals, who convene in the chambers of the Viridian Grove to govern Verza and the Legion. Although Council generals are selected by special protocols and are usually appointed by life, most of them retire at the coming of old age, or perish in the frontlines before a natural cause.
 
 ## Rise of the Legion
 

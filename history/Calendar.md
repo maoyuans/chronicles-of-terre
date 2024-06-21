@@ -45,7 +45,7 @@ A common form of celebration, in particular in Verza, Maltross, and the Divine G
 
 ## Greenblossom
 
-A festival celebrated around Viridian Grove in Verza on **Lylix 19th** every five years, ending on 0 or 5. The Viridian Grove, a Great Fairy Oak, blossoms every five years around that date, and to druids of the Verzae Legion holds special, divine meanings, signaling the start of spring and the victory of life.
+A festival celebrated around Viridian Grove in Verza on **Lylix 19th** every five years, ending on 1 or 6. The Viridian Grove, a Great Fairy Oak, blossoms every five years around that date, and to druids of the Verzae Legion holds special, divine meanings, signaling the start of spring and the victory of life.
 
 Druids of the Verzae Legion, worshippers of nature, and wood-elves in general converges within Viridian Grove on a pilgrimage to the druidic leylines. A celebration is held on Lylix 19th by the Legion.
 
@@ -62,3 +62,9 @@ Maltrossian tribal caravans convene around Gurbesu Hyip, an oasis in central Mal
 Maltrossian tradition requires young unmarried Maltrossians who have joined other caravans from their parents to return home around early spring in **the beginning of Lylix** to provide aid for the first five years of their departure. These times are marked by bittersweet reunions and celebrations, and sees individual travels across the region increased many fold.
 
 Venerable elder caravaneers who have retired from labors sometimes travel to join their childrens and families to celebrate Springcoming as well.
+
+## Leymune
+
+Every year on the night of **Ertos 30th**, from sunset to sunrise on the next day, Legionnaires of the Verzae Legion settle down and engage in meditation, in an effort to commune with the Leylines of Terre. The Leylines are streams of soul energy, from which lives are born, and to which they return on death. Legionnaires, as well as many druidic practitioners seeks to strengthen their attunement to the Leylines and to receive wisdoms and guidance from their ancestors.
+
+The meditation is not to be interrupted unless under urgent circumstances, as ordered by a Captain or higher-ranked legionnaire, or the highest ranking legionnaire available in the regiment or encampment. Legionnaires on guard duty on the night are exempt from meditation. The effect of bonding with the Leylines helps alleviate fatigue and exhaustion, and allows non-elven legionnaires to enter conscious trance similar to elves.
