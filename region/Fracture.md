@@ -66,3 +66,7 @@ The coastal regions to the west of the Ringed Sea, as well as a couple of major 
 ### Ancestral Kingdom of Skadyr
 
 On the far northern point of the Archipelago chain is a boreal and mountainous island, home to a kingdom of draconic worshippers. Their King claims to be the reincarnation of a True Dragon, Skadyr, that once roams Albion's March. The kingdom's fanaticism is often the laughing stock of their rivals, but the citizens seem to believe their King's imperial creed without a doubt.
+
+### Inselundi Barony
+
+A collection of small islands surrounding the larger island of Lund, at the northeastern part of the Archipelago chain of Albion's March. Occult worships and dark magic seems abundant within the Barony's borders; For some reason, the dead do not tend to rest well on these islands.

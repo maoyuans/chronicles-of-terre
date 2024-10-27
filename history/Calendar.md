@@ -13,7 +13,7 @@ The current calendar of Terre is based on the one used by the Forgotten Empire, 
 
 There are eight months in a single year, in the following order: Yondar, Ertos, Santra, Silour, Vupen, Lylix, Quivea, Helind.
 
-**The current calendar day is Vupen 7th, AC 1412.**
+**The current calendar day is Vupen 12th, AC 1412.**
 
 ---
 
@@ -21,7 +21,7 @@ Several festivals and holidays happen on an annual basis, following the Ascendan
 
 ## The Festival of Fire
 
-Celebrated all across Terre on **Yondar 1st** of each calendar year, the Festival of Fire marks the start of a new year across Terre. The Ascendant Calendar is dated so that the beginning of a new year is summer solstice of Terre, when Elemental Fire is at its prime, so that tieflings can most reliable pierce the veil separating Terre from the Nether during the Ascension.
+Celebrated all across Terre on **Yondar 1st** of each calendar year, the Festival of Fire marks the start of a new year across Terre. The Ascendant Calendar is dated so that the beginning of a new year is summer solstice of Terre, when Elemental Fire is at its prime, so that tieflings can most reliable pierce the veil separating Terre from the Nether during the Ascension. For Okeanosian tieflings, the festival is also know as Ascension Day.
 
 Each region and culture have different festivities to celebrate the Festival of Fire, but common between all of them is the lighting of fireworks as the calendar date crosses from Helind 30th, the Eve of Fire, to Yondar 1st of the next year. Many regions, including the Divine Glorian Empire, Maltross, and Okeanos, keeps the tradition of ceremonial burning, of paper talismans or wicker-mans, to symbolize the removal of bad fortune or past regrets and mistakes.
 
@@ -73,3 +73,8 @@ The meditation is not to be interrupted unless under urgent circumstances, as or
 
 Dwarves of Unterbergstadt under the Hollunberg mountains celebrate dwarven craftsmanship and artistry on **Yondar 11th** during Schmiedefeier. The forges in the forge district on the lower layers are extinguished on Yondar 4th, after the celebration of the Festival of Fire, and throughout the next week are repaired, cleaned, and maintained, to prepare for the next year's service. On Schmiedefeier, the lava channels throughout Underbergstadt are refilled, and lava stream flows down the vertical structures of the city, a spectacle to behold for its inhabitants.
 
+## Imperial Examination Day
+
+The Imperial College of the Arcanes of then the Empire, now the Provincial Empire of Okeanos, holds its annual final examinations on **Helind 20th**, just before the celebrations for Ascension Day, or the Festival of Fire. As a society heavily reliant on magecraft, most Okeanossians attend the College in their teenage years, and indulge in academic studies of theories of applications of arcane magic, while delegating manual and dumb labors to foreign subjects, or automating these tasks with magic.
+
+While final examinations for the lowest echelons of mages only involve written tests, and that for the highest-aspiring scholars requires private presentations and oral defenses, many graduates of the Imperial College are publicly tested at the local College campuses' examination grounds with a variety of tasks according to their subject, including spellcasting presentations, exhibition of arcane controls, or even trials by established faculties of the College for the most capable candidates. For this, residents of Okeanos tend to visit nearby campuses on Examination Day to watch the public exams, cheer for their families or friends, or just to have a good time enjoying the showcase.

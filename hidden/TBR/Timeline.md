@@ -32,7 +32,7 @@ nav_exclude: true
 
 Yon 1, AC 1: Tieflings ascend through the Gate. Netheric arcane refills the arcane torrents of Terre. The Empire is founded.
 
-Lyl 15, AC 1: The Empire signs non-interference treaties with Untergebirgsreich.
+Lyl 15, AC 1: The Empire signs non-interference pacts with Untergebirgsreich.
 
 Yon 1, AC 4: The Empire retreats from Yharn, setting borders.
 
