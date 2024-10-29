@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Minerals of Terre
-nav_order: 6
+nav_order: 7
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 parent: History
 ---
