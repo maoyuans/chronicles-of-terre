@@ -96,6 +96,8 @@ While not inherently magical, chlorophyte's plant-like ability makes it an extre
 
 ## Uelivium
 
+## Hallowed Silver
+
 ## Void Suevite
 
 ## Meteorite Steel
