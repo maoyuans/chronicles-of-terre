@@ -4,6 +4,7 @@ title: Minerals of Terre
 nav_order: 7
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 parent: History
+nav_exclude: false
 ---
 
 # Minerals of Terre
@@ -86,13 +87,17 @@ While not inherently magical, chlorophyte's plant-like ability makes it an extre
 
 ## Luminite
 
+Luminite is a common innate metal. It is a rough substance that forms spherical structures naturally, with a dull blue color, and shimmers with dim light at all times. It is found on top of high mountain peaks, forming on rocky surfaces, all across Terre, and in particular in Astartia. It is theorized that the growth of luminite is a result of constant and long-term exposure to moonlight.
+
+Luminite is a somewhat brittle substance and shatters easily, but releases a brilliant flash of light when destroyed. It can be used as consumables or ammunitions to flash, blind, or disorient enemies in emergency situations. When fashioned for permanent use, luminite is usually intended as an exotic light source
+
 ## Bismuth
 
 ## Cryonic
 
 ## Scoria
 
-## Perennial
+## Perennia
 
 ## Uelivium
 
