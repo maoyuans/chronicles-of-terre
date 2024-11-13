@@ -3,6 +3,7 @@ layout: default
 title: Calendar
 nav_order: 1
 description: “Chronicles of Terre is a medieval fantasy setting many years in the writing.”
+parent: History
 nav_exclude: false
 ---
 
