@@ -40,6 +40,10 @@ Snuff out the light, have to hide. Hear distant screams?
 
 Labyrinthine's triage team thinks it's just tinnitus, trauma related. Briefly mention dreams.
 
+## Diary: To see stars
+
+Can't sleep, go out for a walk. The stars seems different, much less stars, some disappear in a blink. Maybe vision problems too.
+
 ## Letter: Other slates
 
 Slates from other sites arrived: they record the exact same poem. Confusion as to why. A larger meaning?
@@ -55,10 +59,6 @@ Diary page; more and more strange dreams and tinnitus, devolving into madness no
 ## Letter: Response to order
 
 Lord Aslingarde has instructed archaeology to vacate the site. Reasons unclear. Prof Martonne protests in a letter. Mentions lack of report and missing personnel. Date earlier.
-
-
-
-
 
 ## Recording: A visitor
 
