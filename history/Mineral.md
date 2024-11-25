@@ -23,7 +23,7 @@ Common mundane metal ores, such as copper, tin, iron, aluminum, exists in Terre,
 
 ## Silver
 
-Silver is an uncommon precious mundane metal. It is found in small veins all across Terre, but with slightly higher concentration around central Divine Glorian Empire, around the Crest of Terre.
+Silver is an uncommon precious innate metal. It is found in small veins all across Terre, but with slightly higher concentration around central Divine Glorian Empire, around the Crest of Terre.
 
 Silver has slight magical properties tied to warding and abjuration. It is traditionally used to fend off evil and monsters, and as spellcasting materials. Alloys of silver are circulated as currency.
 
@@ -92,6 +92,10 @@ Luminite is a common innate metal. It is a rough substance that forms spherical 
 Luminite is a somewhat brittle substance and shatters easily, but releases a brilliant flash of light when destroyed. It can be used as consumables or ammunitions to flash, blind, or disorient enemies in emergency situations. When fashioned for permanent use, luminite is usually intended as an exotic light source
 
 ## Bismuth
+
+Bismuth is a rare magical metal. It is chromatic metal with crystalline structures forming in shapes of cubes, with colors constantly changing depending on the angle of refraction. Bismuth outcrops are found exclusively in regions with prolonged exposure to arcane magic, such as Albion's March and Okeanos. Bismuth has been excavated in regions around Shattered Gate, but the Verzae Legion has outlawed usage of Bismuth.
+
+Bismuth is infused with heavy elemental magic and rather unstable in its raw form, often lashing out its energy into the surroundings. When processed and alloyed with mundane substances, Bismuth can act as catalysts for arcane casting, amplifying the power of all elementals at the same time, and is as thus highly sought after by spellcasters of Labyrinthine and Okeanos. Bismuth is the Provincial Empire's sole import, through strict trade treatises with the Labyrinthine Mages' Guild.
 
 ## Cryonic
 
