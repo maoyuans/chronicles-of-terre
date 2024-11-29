@@ -69,15 +69,43 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 - *Recommended Treatment and Prescription*: 120mg powdered calming essence, twice per day, before meals. Ample amount of rest. 
  
 
-## Diary: To see stars
+## Ertos 26th, AC 1125
 
-Can't sleep, go out for a walk. The stars seems different, much less stars, some disappear in a blink. Maybe vision problems too.
+I really don't know what the big people at the faculty are thinking with this. It's not like these go anywhere after we're back from the excavation, so why are we writing diaries like they are formal reports?
 
-## A Theory of the dark forest
+Anyhow, can't fall asleep. Of course not, not after what happened a few days ago. I'm glad that most of us are okay, I suppose, but I could've died so easily... I'm going out for a night walk, look at the stars, and using the transcriber to write this entry.
+
+I didn't sign up for this! Well, I did sign up for something, but... not this. 
+
+The tinnitus - it's not getting any better, but hopefully it will soon. I am still unsettled though, despite knowing that it is just the stress playing tricks. It just feels so... uncanny and real.
+
+Also, I feel like my eyesight is getting worse as well. Could be a side effect of stress and lack of sleep too. It's getting much harder to see around at night - almost tripped on a stray vine. I should get that checked out next time too, and hopefully it's not going to be a big problem.
+
+And hopefully I can have some sleep tonight.
+
+
+## A Theory of the dark forest; Helind 20th, AC 427
+
+The Yharnian tribals have exhibited an unusual degree of seclusion and hostility towards each other throughout history. Scholars have summarized this phenomenon of primitive tribes of Yharn with the "dark forest theory". 
+
+Imagine a forest shrouded in eternal darkness, in which a hunter stalks and prowls, with bow and arrows loaded and primed. Suppose the lone hunter sees a stray light approaching. It is to the hunter's best interest to hide their presence, since they do not know if the source of the light is friend or foe.
+
+Suppose further that the light draws near, revealing itself to be the lantern of a fellow hunter. The lone hunter with bow and arrow in hand should aim to eliminate the holder of the lantern as quickly as possible. Not only may they be hostile, their presence can also attract the attention of more potential enemies.
+
+Populating the dark forest with many hunters, and the theory will apply to everyone independently. We thus have a forest filled with hunters prowling the trees like ghosts, ready to attack anyone who reveals themselves.
+
+One hypothesis scholars have proposed as a solution to the dark forest is to reach a consensus between the hunters that they shall retain peace inbetween them to avoid mutual destruction. Should the hunters establish communications between each other, the hostility towards each other can be eliminated effectively.
+
+However, the premise this hypothesis builds on collapses in the face of dangers beyond the collective abilities of the hunters, that roams the dark forest as apex predators, ready to devour anything in its way.
+
 
 ## Letter: Other slates
 
 Slates from other sites arrived: they record the exact same poem. Confusion as to why. A larger meaning?
+
+## Recording: A night walk
+
+Looking at the stars, uhhh random talks, losing sleep, watch a star disappear?
 
 ## Dream: Ascendant and witch
 
