@@ -84,7 +84,7 @@ Also, I feel like my eyesight is getting worse as well. Could be a side effect o
 And hopefully I can have some sleep tonight.
 
 
-## A Theory of the dark forest; Helind 20th, AC 427
+## Helind 20th, AC 427
 
 The Yharnian tribals have exhibited an unusual degree of seclusion and hostility towards each other throughout history. Scholars have summarized this phenomenon of primitive tribes of Yharn with the "dark forest theory". 
 
