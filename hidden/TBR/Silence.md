@@ -96,12 +96,19 @@ Populating the dark forest with many hunters, and the theory will apply to every
 
 One hypothesis scholars have proposed as a solution to the dark forest is to reach a consensus between the hunters that they shall retain peace inbetween them to avoid mutual destruction. Should the hunters establish communications between each other, the hostility towards each other can be eliminated effectively.
 
-However, the premise this hypothesis builds on collapses in the face of dangers beyond the collective abilities of the hunters, that roams the dark forest as apex predators, ready to devour anything in its way.
+However, the premise this hypothesis builds on collapses in the face of dangers beyond the collective abilities of the hunters, that roams the dark forest as apex predators, ready to devour anything that makes its presense known.
 
 
-## Letter: Other slates
+## Ertos 29th, AC 1125
 
-Slates from other sites arrived: they record the exact same poem. Confusion as to why. A larger meaning?
+Professor Martonne,
+
+Day 40. The slates from the Millictl site have arrived earlier today. This took the couriers longer than expected, but I can't really blame them given that they are willing to traverse the horrifying jungles.
+
+It only took me an hour or two to figure out what the slates are about - believe it or not, these record the exact same texts with 14. ~~What is~~ The similarities extend beyond the textual content - the glyphs used are exactly identical as well, while normally regional dialects will result in multiple presentations of the same meaning.
+
+I'm not sure what is going on here, to be honest. Does this imply some greater meaning between these two slates? Does the poem in 14 depicts an event that influences across the entire Yharnic jungle? I didn't really have time to hypothesize further; ~~It's tiring~~ Sorry, I think I am still recovering from Incident 021125-I34. I should have more to elaborate on in my next report.
+
 
 ## Recording: A night walk
 
