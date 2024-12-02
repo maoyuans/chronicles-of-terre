@@ -73,7 +73,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 
 I really don't know what the big people at the faculty are thinking with this. It's not like these go anywhere after we're back from the excavation, so why are we writing diaries like they are formal reports?
 
-Anyhow, can't fall asleep. Of course not, not after what happened a few days ago. I'm glad that most of us are okay, I suppose, but I could've died so easily... I'm going out for a night walk, look at the stars, and using the transcriber to write this entry.
+Anyhow, can't fall asleep. Of course not, not after what happened a few days ago. I'm glad that most of us are okay, I suppose, but I could've died so easily... I'm going out for a night walk, looking at the stars, and using the transcriber to write this entry.
 
 I didn't sign up for this! Well, I did sign up for something, but... not this. 
 
@@ -110,13 +110,40 @@ It only took me an hour or two to figure out what the slates are about - believe
 I'm not sure what is going on here, to be honest. Does this imply some greater meaning between these two slates? Does the poem in 14 depicts an event that influences across the entire Yharnic jungle? I didn't really have time to hypothesize further; ~~It's tiring~~ Sorry, I think I am still recovering from Incident 021125-I34. I should have more to elaborate on in my next report.
 
 
-## Recording: A night walk
+## Ertos 30th, AC 1125
 
-Looking at the stars, uhhh random talks, losing sleep, watch a star disappear?
+These report duties are getting kind of annoying. It's always write this, submit that - never anything useful. At least make us read some recent journal publishes that will have the slimmest chance to help!
 
-## Dream: Ascendant and witch
+But I guess there's not much to do under these blasted night skies when sleeping sound is out of the options.
 
-Old times; the heavily ill ascendant is visited by an occult witch, who prophesied his death. A star disappears.
+It's boring. Pathetically boring. Could've counted the stars, find the constellations that Aslingarde used to teach us about; now I really have to squint to see anything through the haze. One second you find Candle VI, the next you blink and it's gone.
+
+I don't know anymore. When can this stop? The screams and the hazes... Nethers take them, when will they stop?
+
+
+## Dream: Ascendant and witch; Vupen 14th, AC 682
+
+The Ascendant struggles to sit up from his bed, gazing past the opened door. No longer fit in health to rule from the throne, he has retreated to his residence, surrounded by incenses and elixirs.
+
+The guards escort in his visitor. A mad woman, ragged and unkept, laughing under her weakened breathing. "Ah, yes... aren't you a sight for sore eyes! A flickering candle on his deathbed, moments away from-"
+
+A forceful slap across the face send her into a coughing fit.
+
+"...Let the witch answer." The Ascendant orders, with what authority and dignity he has remaining. "Who are you to brandish these omens like a prophet of the gods?"
+
+The witch coughs up some blood, the stains quickly prestidigitated away by a chamberlain. "A prophet I am...! Just, not of gods and mortals - the stars! That which no eyes can see, that which no ears can hear, that which you do not have domain over, ha..."
+
+"Madness." He scoffs. "Which one of your stars did you say was...?"
+
+"Two hours sharp before midnight, first of Ertos, 617 of the Calendar. Petrichor fifteen. A dying star."
+
+The old man raises a brow, but gestures to the chamberlain. "It was, your highness. The court astromancers have confirmed no discord." His servant answers, chanting a spell to reveal the night sky above, through layers of marble frieze and tympanum.
+
+The attention of those in the room shifts toward a small dot among a sea of lights, as it flickers and fades.
+
+"Hahaha! It was prophesized as such! The Silence claims you both!" She laughs hysterically, deafening in a room void of words.
+
+The Ascendant passed soon after.
 
 ## Diary: Dream and screams
 
