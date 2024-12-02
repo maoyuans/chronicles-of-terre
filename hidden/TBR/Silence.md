@@ -121,7 +121,7 @@ It's boring. Pathetically boring. Could've counted the stars, find the constella
 I don't know anymore. When can this stop? The screams and the hazes... Nethers take them, when will they stop?
 
 
-## Dream: Ascendant and witch; Vupen 14th, AC 682
+## Vupen 14th, AC 682
 
 The Ascendant struggles to sit up from his bed, gazing past the opened door. No longer fit in health to rule from the throne, he has retreated to his residence, surrounded by incenses and elixirs.
 
