@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Star Eater
-description: “A short story.”
+description: A short story.
 search_exclude: true
 nav_exclude: true
 ---
