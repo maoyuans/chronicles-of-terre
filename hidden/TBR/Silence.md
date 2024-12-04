@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The Star Eater
-description: “Chronicles of Terre is a medieval fantasy setting many years in the writing.”
+description: “A short story.”
 search_exclude: true
 nav_exclude: true
 ---
