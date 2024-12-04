@@ -8,8 +8,7 @@ nav_exclude: true
 
 # The Star Eater
 
-## ????a?? 14??, ?73? BA
-
+## **????a?? 14??, ?73? BA**
 
 Xochipilli / Xochipilli / forsake us not
 
@@ -25,8 +24,7 @@ Mother and Father / Xbeltz'aloc / forsake us not
 
 ---
 
-## Ertos 22nd, AC 1125
-
+## **Ertos 22nd, AC 1125**
 
 Professor Martonne,
 
@@ -60,6 +58,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 
 *[Silence.]* "...what is that screaming?"
 
+---
 
 ## Ertos 25th, AC 1125
 
@@ -73,6 +72,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 - *Diagnosis*: Trauma-induced tinnitus, general anxiety.
 - *Recommended Treatment and Prescription*: 120mg powdered calming essence, twice per day, before meals. Ample amount of rest. 
  
+---
 
 ## Ertos 26th, AC 1125
 
@@ -88,6 +88,7 @@ Also, I feel like my eyesight is getting worse as well. Could be a side effect o
 
 And hopefully I can have some sleep tonight.
 
+---
 
 ## Helind 20th, AC 427
 
@@ -103,6 +104,7 @@ One hypothesis scholars have proposed as a solution to the dark forest is to rea
 
 However, the premise this hypothesis builds on collapses in the face of dangers beyond the collective abilities of the hunters, that roams the dark forest as apex predators, ready to devour anything that makes its presense known.
 
+---
 
 ## Ertos 29th, AC 1125
 
@@ -114,6 +116,7 @@ It only took me an hour or two to figure out what the slates are about - believe
 
 I'm not sure what is going on here, to be honest. Does this imply some greater meaning between these two slates? Does the poem in 14 depicts an event that influences across the entire Yharnic jungle? I didn't really have time to hypothesize further; ~~It's tiring~~ Sorry, I think I am still recovering from Incident 021125-I34. I should have more to elaborate on in my next report.
 
+---
 
 ## Ertos 30th, AC 1125
 
@@ -125,6 +128,7 @@ It's boring. Pathetically boring. Could've counted the stars, find the constella
 
 I don't know anymore. When can this stop? The screams and the hazes... Nethers take them, when will they stop?
 
+---
 
 ## Vupen 14th, AC 682
 
@@ -150,6 +154,7 @@ The attention of those in the room shifts toward a small dot among a sea of ligh
 
 The Ascendant passed soon after.
 
+---
 
 ## Santra 3rd, AC 1125
 
@@ -175,6 +180,7 @@ Please.
 
 PLEASE. MAKE. IT. STOP. Make it stop. MAKE IT STOP. make it stop make it stop make it STOP PLEASE STOP PLEASE PLEASE PLEASE MAKE IT STOP STOP IT PLEASE MAKE IT STOP make it stop make it stop make it STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE
 
+---
 
 ## Ertos 25th, AC 1125
 
@@ -190,6 +196,7 @@ Sincerely,
 Kulmani Martonne
 W. Hellenke Professor of Archaeology, Svard, Labyrinthine
 
+---
 
 ## Santra 3rd, AC 1125
 
@@ -211,6 +218,7 @@ W. Hellenke Professor of Archaeology, Svard, Labyrinthine
 
 "...Understood. *[unintelligible]* Where are you taking me?"
 
+---
 
 ## Ertos 28th, AC 1125
 
@@ -227,6 +235,7 @@ May the Bringer of Arcane watch over all of us.
 Lord Lenska Svard
 Ertos 28th, AC 1125
 
+---
 
 ## Sometime, Somewhere
 
@@ -270,7 +279,7 @@ Yes, I hear screaming no longer.
 
 Yes, I love them too.
 
-
+---
 
 
 
