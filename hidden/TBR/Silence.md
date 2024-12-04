@@ -276,5 +276,5 @@ Yes, I love them too.
 
 ---
 
-*December 3rd. West Lafayette, Indiana.*
+*December 3rd, 2024.*
 
