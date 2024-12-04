@@ -36,7 +36,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 
 ---
 
-## Ertos 23rd, AC 1125
+## **Ertos 23rd, AC 1125**
 
 *[Hurried footsteps approach. A door is quickly slam shut, followed by heavy breathing.]*
 
@@ -60,7 +60,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 
 ---
 
-## Ertos 25th, AC 1125
+## **Ertos 25th, AC 1125**
 
 - *Patient Name*: ■■■■■■■■■■■■■■
 - *Patient Age*: ■■■■
@@ -74,7 +74,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
  
 ---
 
-## Ertos 26th, AC 1125
+## **Ertos 26th, AC 1125**
 
 I really don't know what the big people at the faculty are thinking with this. It's not like these go anywhere after we're back from the excavation, so why are we writing diaries like they are formal reports?
 
@@ -90,7 +90,7 @@ And hopefully I can have some sleep tonight.
 
 ---
 
-## Helind 20th, AC 427
+## **Helind 20th, AC 427**
 
 The Yharnian tribals have exhibited an unusual degree of seclusion and hostility towards each other throughout history. Scholars have summarized this phenomenon of primitive tribes of Yharn with the "dark forest theory". 
 
@@ -106,7 +106,7 @@ However, the premise this hypothesis builds on collapses in the face of dangers 
 
 ---
 
-## Ertos 29th, AC 1125
+## **Ertos 29th, AC 1125**
 
 Professor Martonne,
 
@@ -118,7 +118,7 @@ I'm not sure what is going on here, to be honest. Does this imply some greater m
 
 ---
 
-## Ertos 30th, AC 1125
+## **Ertos 30th, AC 1125**
 
 These report duties are getting kind of annoying. It's always write this, submit that - never anything useful. At least make us read some recent journal publishes that will have the slimmest chance to help!
 
@@ -130,7 +130,7 @@ I don't know anymore. When can this stop? The screams and the hazes... Nethers t
 
 ---
 
-## Vupen 14th, AC 682
+## **Vupen 14th, AC 682**
 
 The Ascendant struggles to sit up from his bed, gazing past the opened door. No longer fit in health to rule from the throne, he has retreated to his residence, surrounded by incenses and elixirs.
 
@@ -156,7 +156,7 @@ The Ascendant passed soon after.
 
 ---
 
-## Santra 3rd, AC 1125
+## **Santra 3rd, AC 1125**
 
 Last night the wolves are gnawing on my bones. I still feel the grinding of their teeth through my flesh My skins crawl so much it is still crawling
 
@@ -182,7 +182,7 @@ PLEASE. MAKE. IT. STOP. Make it stop. MAKE IT STOP. make it stop make it stop ma
 
 ---
 
-## Ertos 25th, AC 1125
+## **Ertos 25th, AC 1125**
 
 Lord Aslingarde,
 
@@ -198,7 +198,7 @@ W. Hellenke Professor of Archaeology, Svard, Labyrinthine
 
 ---
 
-## Santra 3rd, AC 1125
+## **Santra 3rd, AC 1125**
 
 *[Quiet sobbing.]* "Make it stop..."
 
@@ -220,7 +220,7 @@ W. Hellenke Professor of Archaeology, Svard, Labyrinthine
 
 ---
 
-## Ertos 28th, AC 1125
+## **Ertos 28th, AC 1125**
 
 Dear members of the Faculty of Archaeology,
 
@@ -237,7 +237,7 @@ Ertos 28th, AC 1125
 
 ---
 
-## Sometime, Somewhere
+## **Sometime, Somewhere**
 
 Yes, I hear the screams too.
 
