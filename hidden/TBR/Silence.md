@@ -281,5 +281,5 @@ Yes, I love them too.
 
 ---
 
-
+*December 3rd. West Lafayette, Indiana.*
 
