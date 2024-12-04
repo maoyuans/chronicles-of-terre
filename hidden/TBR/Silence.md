@@ -10,6 +10,7 @@ nav_exclude: true
 
 ## ????a?? 14??, ?73? BA
 
+
 Xochipilli / Xochipilli / forsake us not
 
 light in the dark / forsake us not
@@ -22,7 +23,10 @@ Eyes disturb / the sin of knowing
 
 Mother and Father / Xbeltz'aloc / forsake us not
 
+---
+
 ## Ertos 22nd, AC 1125
+
 
 Professor Martonne,
 
@@ -32,6 +36,7 @@ It is day 33 of the excavation. Attached are the transcripts of slate 14. 14 is 
 
 What I find curious is that the word "star-eater" seems to be a direct concatenation of "star" and "... who eats" in contemporary oldtongue. Maybe this suggests that these words did not evolve at all over the past millenia? Compared to a lot of other linguistic evolutions, this is certainly an interesting phenomenon.
 
+---
 
 ## Ertos 23rd, AC 1125
 
@@ -125,9 +130,9 @@ I don't know anymore. When can this stop? The screams and the hazes... Nethers t
 
 The Ascendant struggles to sit up from his bed, gazing past the opened door. No longer fit in health to rule from the throne, he has retreated to his residence, surrounded by incenses and elixirs.
 
-The guards escort in his visitor. A mad woman, ragged and unkept, laughing under her weakened breathing. "Ah, yes... aren't you a sight for sore eyes! A flickering candle on his deathbed, moments away from-"
+The guards escort in his visitor. A mad woman, ragged and unkept, laughing under her weakened breath. "Ah, yes... aren't you a sight for sore eyes! A flickering candle on his deathbed, moments away from-"
 
-A forceful slap across the face send her into a coughing fit.
+A forceful slap across the face sends her into a coughing fit.
 
 "...Let the witch answer." The Ascendant orders, with what authority and dignity he has remaining. "Who are you to brandish these omens like a prophet of the gods?"
 
@@ -145,25 +150,125 @@ The attention of those in the room shifts toward a small dot among a sea of ligh
 
 The Ascendant passed soon after.
 
-## Diary: Dream and screams
 
-Diary page; more and more strange dreams and tinnitus, devolving into madness now.
+## Santra 3rd, AC 1125
 
-## Letter: Response to order
+Last night the wolves are gnawing on my bones. I still feel the grinding of their teeth through my flesh My skins crawl so much it is still crawling
 
-Lord Aslingarde has instructed archaeology to vacate the site. Reasons unclear. Prof Martonne protests in a letter. Mentions lack of report and missing personnel. Date earlier.
+Night before that I was king and witches cursed me. And before that was monsters chasing me I was blind and deaf can't see can't hear but IT WAS LIBERATING! EVEN if I was DYING!
 
-## Recording: A visitor
+I want it gone. What I wouldn't do for
 
-Someone arrived to take protag somewhere.
+Just never sleep again!
 
-## Obituary
+but I can still hear the SCREAMING all of them all the time all at once. That part is ■■■■■, that part the dying ■■■■ that is ■■■■■■ which is good because I hate him. This is ■■■■■■■ it hasn't disappeared yet but I'm sure it'll be gone JUST LIKE everyone else.
 
-Announcement of death of name redacted. Killed by the parade, throat mangled.
+I think I'm going crazy PLEASE STOP I'm not crazy it is all real.
 
-## Sometime somewhere
+NO ONE ~~talks to me~~ I CAN'T HEAR anyone anymore. I sent the report HOW long ago was it? But NO ONE cared anymore WHY DON'T HE WRITE BACK?
 
-The stars disappear. The scream remains. The screams die down. Have to hide ourselves. Silence self to keep others not silent.
+I don't want to do this anymore. Please make it stop. THE SCREAMING.
+
+Please make it stop.
+
+Please.
+
+PLEASE. MAKE. IT. STOP. Make it stop. MAKE IT STOP. make it stop make it stop make it STOP PLEASE STOP PLEASE PLEASE PLEASE MAKE IT STOP STOP IT PLEASE MAKE IT STOP make it stop make it stop make it STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE IT STOP MAKE
+
+
+## Ertos 25th, AC 1125
+
+Lord Aslingarde,
+
+I have received your orders. Site YH4 in Sitlalchtli will be shutting down. I've sent the notice to start staff relocation procedures. No asset will be catalogued.
+
+As a faculty of Archaeology, I do not wish to question your decisions; Yet as a scholar and researcher, I must protest against the closure of Site YH4. Excavations in YH4 has already unearthed many culturally and linguistically important artifacts, and more are being deciphered and maintained by my research group. Such a sudden closure without reason is unreasonable by all standards, and will undoubtly have a profound negative impact to the entire field.
+
+I understand that there is a recent lack of report from the site, but there have been precedences in which external environmental circumstances have caused a temporary cease in physical courier or Sending services. If this is the reason behind your decision, I urge you to reconsider and allow at least a week of intermission.
+
+Sincerely,
+Kulmani Martonne
+W. Hellenke Professor of Archaeology, Svard, Labyrinthine
+
+
+## Santra 3rd, AC 1125
+
+*[Quiet sobbing.]* "Make it stop..."
+
+*[Quiet sobbing, interrupted occasionally by short screeches of pain.]*
+
+"Go-go away! *[unintelligible]* who's there?"
+
+*[Light, irregular footsteps. A door creaks open slowly.]*
+
+"You... I... you are...?"
+
+*[Static.]*
+
+"Follow you...?"
+
+*[Static.]*
+
+"...Understood. *[unintelligible]* Where are you taking me?"
+
+
+## Ertos 28th, AC 1125
+
+Dear members of the Faculty of Archaeology,
+
+It is with a heavy heart that I announce that after two days of searching operations, ■■■■■■■■■■■■■■, a beloved member of our community, has tragically passed away after he went missing on Ertos 22nd, AC 1125. ■■■■■■■■■■■■■■ is a Secondary Investigator stationed in Site YH4, and has contributed significantly to the serialization of pre-Ascension oldtongue. He is beloved by colleagues and friends, and will forever live on in our memories of him. 
+
+From a more personal note, I fondly remember serving on ■■■■■■■■■■■■■■'s committee and having many passionate debates then as an acting professor. He was a brilliant student and a very good friend. My condolences go out to his family and friends.
+
+I wish to remind everyone that the Faculty of Archaeology, the Department of Spiritual Advention, and Labyrinthine as a whole all provides many support resources in these times of hardness. I urge any faculty, staff, or student to seek out these resources, or contact a counselor to schedule a consultation session, should there be need, of themselves, or of their friends and colleagues. 
+
+May the Bringer of Arcane watch over all of us.
+
+Lord Lenska Svard
+Ertos 28th, AC 1125
+
+
+## Sometime, Somewhere
+
+Yes, I hear the screams too.
+
+...
+
+Yes, I hear their pain and sorrow.
+
+...
+
+Will I be one of them?
+
+Will I be screaming too?
+
+...
+
+Yes, I can see stars.
+
+I see them extinguished. Devoured. Eaten alive.
+
+But their scream remains.
+
+...
+
+I understand.
+
+I must hide from it. I must be quiet.
+
+I will be silent. I will be blind.
+
+...
+
+Yes, I see stars no longer.
+
+...
+
+Yes, I hear screaming no longer.
+
+...
+
+Yes, I love them too.
 
 
 
