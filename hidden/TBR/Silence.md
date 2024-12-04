@@ -192,8 +192,8 @@ As a faculty of Archaeology, I do not wish to question your decisions; Yet as a 
 
 I understand that there is a recent lack of report from the site, but there have been precedences in which external environmental circumstances have caused a temporary cease in physical courier or Sending services. If this is the reason behind your decision, I urge you to reconsider and allow at least a week of intermission.
 
-Sincerely,
-Kulmani Martonne
+Sincerely,  
+Kulmani Martonne  
 W. Hellenke Professor of Archaeology, Svard, Labyrinthine
 
 ---
@@ -232,7 +232,7 @@ I wish to remind everyone that the Faculty of Archaeology, the Department of Spi
 
 May the Bringer of Arcane watch over all of us.
 
-Lord Lenska Svard
+Lord Lenska Svard  
 Ertos 28th, AC 1125
 
 ---
@@ -247,24 +247,19 @@ Yes, I hear their pain and sorrow.
 
 ...
 
-Will I be one of them?
-
+Will I be one of them?  
 Will I be screaming too?
 
 ...
 
-Yes, I can see stars.
-
-I see them extinguished. Devoured. Eaten alive.
-
+Yes, I can see stars.  
+I see them extinguished. Devoured. Eaten alive.  
 But their scream remains.
 
 ...
 
-I understand.
-
-I must hide from it. I must be quiet.
-
+I understand.  
+I must hide from it. I must be quiet.  
 I will be silent. I will be blind.
 
 ...
