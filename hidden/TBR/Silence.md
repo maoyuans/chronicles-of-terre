@@ -50,7 +50,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 
 *[Dead silence. A gasp.]* "I-it comes, The Travelers be with me..."
 
-*[A distant humming can be heard, and quickly amplifies into a howling, snarling, wailing wind. Wooden walls and frames creak agains the impact. The cacophony persists for approximately two minutes before slowly fading away, leaving only faint, but audible heavy breathing.]*
+*[A distant humming can be heard, and quickly amplifies into a howling, snarling, wailing wind. Wooden walls and frames creak against the impact. The cacophony persists for approximately two minutes before slowly fading away, leaving only faint, but audible heavy breathing.]*
 
 "I-is it gone? Am I- *[hurried steps]* It's so... dark. Why is it s-so dark out there..."
 
@@ -68,7 +68,7 @@ What I find curious is that the word "star-eater" seems to be a direct concatena
 - *Responder Designation*: FTO204-A138
 - *Date of Report*: Ertos 25th, AC 1125
 
-- *Symptoms or Injuries*: Patient describes hearing persistent noises, about as loud as "A boiling teapot sizzling in the next room". Symptoms began after the Nocturne Parade siege, with increased amplitude as time progresses. Symptoms are more severe in quiet, isolated environments, such as at night. Patient have scrape injuries on their right palm, right elbow, and both knees, but no other visible major injuries, and passes all physical and mental examinations. Patient describes having "strange dreams and nightmares" of unspecified content.
+- *Symptoms or Injuries*: Patient describes hearing persistent noises, about as loud as "A boiling teapot sizzling in the next room". Symptoms began after the Nocturne Parade siege, with increased amplitude as time progresses. Symptoms are more severe in quiet, isolated environments, such as at night. Patient has scrape injuries on their right palm, right elbow, and both knees, but no other visible major injuries, and passes all physical and mental examinations. Patient describes having "strange dreams and nightmares" of unspecified content.
 - *Diagnosis*: Trauma-induced tinnitus, general anxiety.
 - *Recommended Treatment and Prescription*: 120mg powdered calming essence, twice per day, before meals. Ample amount of rest. 
  
@@ -114,7 +114,7 @@ Day 40. The slates from the Millictl site have arrived earlier today. This took 
 
 It only took me an hour or two to figure out what the slates are about - believe it or not, these record the exact same texts with 14. ~~What is~~ The similarities extend beyond the textual content - the glyphs used are exactly identical as well, while normally regional dialects will result in multiple presentations of the same meaning.
 
-I'm not sure what is going on here, to be honest. Does this imply some greater meaning between these two slates? Does the poem in 14 depicts an event that influences across the entire Yharnic jungle? I didn't really have time to hypothesize further; ~~It's tiring~~ Sorry, I think I am still recovering from Incident 021125-I34. I should have more to elaborate on in my next report.
+I'm not sure what is going on here, to be honest. Does this imply some greater meaning between these two slates? Does the poem in 14 depict an event that influences across the entire Yharnic jungle? I didn't really have time to hypothesize further; ~~It's tiring~~ Sorry, I think I am still recovering from Incident 021125-I34. I should have more to elaborate on in my next report.
 
 ---
 
