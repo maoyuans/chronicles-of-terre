@@ -52,3 +52,5 @@ When you reapply the hex in this way, you do not benefit from the Essence Drain 
 Starting at 14th level, you may graft a branch of the great fairy oak to the ground, providing sanctuary for your allies and unleashing wrath on your foes. As an Action, you may choose a point you can see within 30 ft of you. A spectral sapling grows and blossoms on the ground, providing the following benefits:
 - Whenever a friendly creature within 30 ft of the sapling receives healing, it gains temporary hitpoints equal to the double amount of hitpoints recovered.
 - Once per turn when the creature hexed by your Seed of Hexation is hit by an attack while within 30 ft of the sapling, its hex activates as if it took an Action.
+
+Once you use this feature, you cannot use it again until you finish a long rest.
