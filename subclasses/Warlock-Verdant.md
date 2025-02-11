@@ -33,6 +33,7 @@ Starting at 1st level, you can call upon the Grove to plant a sapping hex upon a
 While hexed, the creature's movement speed is decreased by 10 ft. Additionally, whenever the hexed creature takes an Action, you may choose one of the following:
 - The hexed creature takes 2d4 damage of the chosen type.
 - A creature of your choice within 30 ft of the hexed creature recovers 2d4 hitpoints.
+
 The damage and healing of your hexes increases by 1d4 with your proficiency bonus at 5th, 9th, 13th, and 17th level.
 
 Once you use this feature, you cannot use it again until you finish a short or long rest.
