@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subclasses/Warlock-Crimson.md",
+                "file": "subclasses/Warlock-Lunar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock-Crimson"
+              "title": "Warlock-Lunar"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "subclasses/Warlock-Crimson.md",
+            "file": "subclasses/Warlock-Lunar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "subclasses/Warlock-Crimson.md",
+            "file": "subclasses/Warlock-Lunar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "subclasses/Warlock-Crimson.md",
+            "file": "subclasses/Warlock-Lunar.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,8 +157,8 @@
   },
   "active": "c412e6f759722379",
   "lastOpenFiles": [
-    "subclasses/Warlock-Lunar.md",
     "subclasses/Warlock-Crimson.md",
+    "subclasses/Warlock-Lunar.md",
     "subclasses/Druid-Sacrifice.md",
     "demography.md"
   ]
