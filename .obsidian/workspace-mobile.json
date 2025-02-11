@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subclasses/Warlock-Lunar.md",
+                "file": "history/Mineral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock-Lunar"
+              "title": "Mineral"
             }
           }
         ]
@@ -86,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "ed186345f51a7195",
@@ -98,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "subclasses/Warlock-Lunar.md",
+            "file": "history/Mineral.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "subclasses/Warlock-Lunar.md",
+            "file": "history/Mineral.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "subclasses/Warlock-Lunar.md",
+            "file": "history/Mineral.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -157,9 +158,19 @@
   },
   "active": "c412e6f759722379",
   "lastOpenFiles": [
+    "history/ForgottenEmpire.md",
+    "history/Mineral.md",
+    "history/History.md",
     "subclasses/Warlock-Crimson.md",
-    "subclasses/Warlock-Lunar.md",
+    "subclasses/Warlock-Verdant.md",
+    "subclasses/Monk-Avatars.md",
     "subclasses/Druid-Sacrifice.md",
+    "subclasses/Fighter-Sulphuric.md",
+    "subclasses/Paladin-Tradition.md",
+    "subclasses/Rogue-Gunslinger.md",
+    "subclasses/Warlock-Lunar.md",
+    "subclasses/Wizard-Spellslinger.md",
+    "404.md",
     "demography.md"
   ]
 }

@@ -9,13 +9,13 @@ nav_exclude: false
 
 # Minerals of Terre
 
-## Types of Metals
+## Types of Minerals
 
-**Mundane metals** are non-magical materials that do not possess much characteristics beyond their physical form.
+**Mundane minerals** are non-magical materials that do not possess much characteristics beyond their physical form.
 
-**Innate metals** are generally considered non-magical, but possesses magical-like, or borderline magical natural abilities.
+**Innate minerals** are generally considered non-magical, but possesses magical-like, or borderline magical natural abilities.
 
-**Magical metals** are minerals infused with latent energy, whose abilities are generally more powerful, but can also be hindered by anti-magical means.
+**Magical minerals** are minerals infused with latent energy, whose abilities are generally more powerful, but can also be hindered by anti-magical means.
 
 ## Traditional Metals
 
@@ -87,7 +87,7 @@ While not inherently magical, chlorophyte's plant-like ability makes it an extre
 
 ## Luminite
 
-Luminite is a common innate metal. It is a rough substance that forms spherical structures naturally, with a dull blue color, and shimmers with dim light at all times. It is found on top of high mountain peaks, forming on rocky surfaces, all across Terre, and in particular in Astartia. It is theorized that the growth of luminite is a result of constant and long-term exposure to moonlight.
+Luminite is a common innate crystal. It is a rough substance that forms spherical structures naturally, with a dull blue color, and shimmers with dim light at all times. It is found on top of high mountain peaks, forming on rocky surfaces, all across Terre, and in particular in Astartia. It is theorized that the growth of luminite is a result of constant and long-term exposure to moonlight.
 
 Luminite is a somewhat brittle substance and shatters easily, but releases a brilliant flash of light when destroyed. It can be used as consumables or ammunitions to flash, blind, or disorient enemies in emergency situations. When fashioned for permanent use, luminite is usually intended as an exotic light source
 
@@ -99,13 +99,39 @@ Bismuth is infused with heavy elemental magic and rather unstable in its raw for
 
 ## Cryonic
 
+Cryonic is an uncommon magical crystal that is infused with elemental ice and water energy. In isolation, Cryonic is a deep blue-purple rock crystal substance, but when exposed to ambient mana in the air, quickly forms light blue crystalline spikes growing from the node. Cryonic is mostly excavated beneath mountains in cold environments, most notably in Mount Taignos Range bordering Divine Glorian Empire and Okeanos, as rough crystal nodules embedded in rock. Handling Cryonic requires special precautions, since prolonged exposure can quickly drain heat and cause hypothermia.
+
+Cryonic is not a very sturdy substance and is reactive and brittle, but can be alloyed with other sturdy metals to infuse them with elemental ice magic. Apart from acting as a conduit and catalyst for ice magic, cryonic alloys can also concentrate atmospheric mana into crystals for harvesting or other uses.
+
 ## Scoria
+
+Scoria is an uncommon magical metal that is infused with elemental fire energy. It is a dark rocky substance similar in texture to basalt, obsidian, and other lava rocks, with veins of molten magma embedded in them. Scoria is excavated deep underground in areas with heavy lava activity, most prominently under Untergebirgsreich in the Hollunberg mountains. Raw Scoria nodules is warm to the touch, and often blends in with the mundane lava rocks in the environment, but breaking open the nodule can cause bursts of flame and lava from within, and thus must be handled and processed with care.
+
+When processed, Scoria alloys are quite sturdy and resistant, and are often infused into martial weapons and armors, adding heat to the usual destructiveness of armaments. On the other hand, raw scoria is more practical to work with for spellcasters, who can better control and utilize the latent energy within the ore to their benefit.
 
 ## Perennia
 
+Perennia is a rare magical metal, often associated with poison, death, and decay. Similar to chlorophyte, Perennia possesses many plant-like characteristics, taking on a dull brown appearance like dead wood. Curiously, patches of dark green coloration similar to damp moss will appear occasionally on pure perennia ore, alternating between mossed and unmossed states with a cycle of roughly four and a half years. Perennia is found in small and sparse patches buried shallowly underground near the surface, often adjacent to ancient mass burials and graves.
+
+Mossed and unmossed perennia possesses slightly different magical properties, but is overall associated with destructive poisonous and necrotic properties, unlike chlorophyte or palladium. Equipments made of perennia can debilitate enemies with curse-like and debuffing statuses, but must be crafted with care, since a shift in the state of its material might cause unintended effects.
+
 ## Uelivium
 
+Uelivium is an uncommon magical metal that is infused with elemental earth energy. Raw and processed uelivium are both dull in color not unlike dirt, but is much sturdier and heavier, and tend to vibrate and quake very slightly. Uelivium is excavated as small patch of clustered nodules embedded in dirt underground near the surface, around the mountainous regions bordering Peran, Divine Glorian Empire, and Yharn. While uelivium nodules are almost harmless in isolation, sizable clusters can often vibrate in synchronization when disturbed to produce localized earthquakes, causing cave-ins and other hazards.
+
+Uelivium is most commonly smelted into materials for heavy armor and armaments, that can channel the might of the elemental earth both offensively and defensively. Consequently, it is very unwieldy in large amount for spellcasters and people who prefer lightweight equipment, unless made into expensive alloys.
+
+## Gausstone
+
+Gausstone is an uncommon magical metal that is infused with elemental lightning and air energy. With appearances much like unoxidized copper in both its raw and processed form, gausstone possesses additional static electricity that courses and zips through its surface like small bolts of bright yellow lightning. Gausstone builds up static charge, which can discharge on contact, either as a harmless zap or a powerful shock depending on the buildup magnitude; handling of gausstone is thus dangerous, and proper equipments such as rubber gloves and other forms of insulation is required. Gausstone is mostly found in regions with frequent storms in coastal areas, such as around the Clearwater Gulf or the outer islands of Albion's March.
+
+Gausstone is valued for it's lightning affinity by spellcasters, but its innate electricity buildup is also valuable to use for armors and armaments. Equipments forged with gausstone can store these electric energies and lash out at enemies at the appropriate time.
+
 ## Hallowed Silver
+
+Hallowed silver is a rare magical metal with holy, divine properties and associated with radiant damage. Hallowed silver shares many physical properties with normal silver, as a colorless metallic substance, with a slight golden hue and a dimly shimmering aura. It is said that those impure of heart will feel a deep sense of guilt when approaching hallowed silver ores and veins. Most of the hallowed silver deposits on Terre are located within the Crest of Terre, and controlled by the Church of Gloria within the Divine Glorian Empire.
+
+Inquisitors and priests of the Church of Gloria values hallowed silver for their holy properties, and equipments forged from hallowed silver are extra effective against evil beings and outsiders such as fiends and undeads.
 
 ## Void Suevite
 

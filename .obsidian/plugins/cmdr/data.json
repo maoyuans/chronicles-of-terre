@@ -14,14 +14,7 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "cmdr:macro-0",
-      "icon": "lucide-arrow-up-circle",
-      "name": "Commander: Commit",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [
     {
