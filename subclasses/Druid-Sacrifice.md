@@ -43,7 +43,7 @@ The blood beast manifests for as long as your Wild Shape feature lasts, until it
 
 ## Vessel of Sacrifice
 
-Starting at 6th level, your life is marked as a vessel of sacrificial blood, and Xbeltz'aloci exerts his influence as you inch closer between life and death. While your hitpoint is at or below half of its maximum amount, you gain the following features:
+Starting at 6th level, your life is marked as a vessel of sacrificial blood, and Xbeltz'aloc exerts his influence as you inch closer between life and death. While your hitpoint is at or below half of its maximum amount, you gain the following features:
 - You and your blood beast's attacks are magical.
 - You are resistant to physical and necrotic damage.
 - The amount of healing you receive is rolled with advantage.

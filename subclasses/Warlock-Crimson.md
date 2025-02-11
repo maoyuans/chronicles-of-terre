@@ -21,6 +21,8 @@ DO NOT GIVE IN<br>
 Ḋ̶̢̡̛̛̟͙̦͋͌̒̎̽̇̈͆̚͝Ơ̴̹͇̻͚̥̙͈̠̫̻͕͓̳͙͙̮͆̈́̇̒̐͂̿̃̒̾̌̅̈́͒̿͘̚̕͜ͅ ̷̡̡̪̣̰̤̱̮̟̦̣̬̖̹̖̹̻̟̮̪́̍͆̍̈́͠͝N̴̡̬̖̞̙̬̳̙̯͚̮̩̲̓O̶̧̹͉̬̪͈̬̠̞͗̈̽̃͛͝ͅŢ̴̡̛̛͎͓̠̖̬̗͍͎͔̮͕͙̫̻͖̰̺̬̘̏́̊̓̎̓̂͒̆́̇̚͠͠ ̵̨̹̩͊̿̇́̃̓̌̆͒̉̾͗̈́Ģ̴̘̠͘Í̶̡̨̲̳̥͍̦͙̗̣͔̫̅͗̒͊͘ͅͅV̶̭̝͚͚̻̖̱͍͎̳̙̭̞̤͖̟͈̄͌͗͋̿̂́̓̒̓̿̇̎̔̉͛̇̒̍̕Ę̵̡̝̳̥̳͎̖͎̻͙̆̎̈́̒̀̿ͅ ̶̛̺̠̗̦̽͂̌̈̊͋̚ͅḬ̴̛̱̦͇̖̄͂̓̋͌͛̅͂̔̚͝Ň̸̖̬̰̞̟̻̘̹̻̪͙̀̾̐̒́̆̏̀̀̓̈͘
 </span>
 
+***Pact Theme.*** The Pact of the Accursed Blood is centered around blood magic and flesh and body horror. The powers and magicks granted to you by this blood curse mutates and contorts your flesh and blood to assault others. The Eldritch Blast cantrip, for example, can take forms of magically propelled bone spikes separated from your body, or your hands turning into a tentacle spike that stabs out at targets over long distances. Inflict Wounds, on the other hand, may manifest as you slicing through a creature with an abhorrent arm of flesh and bone blade bursting out from your forearm.
+
 ## Expanded Spell List
 
 Your accursed blood lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
