@@ -11,7 +11,7 @@ nav_exclude: false
 
 While the teachings of druidism tells of drawing life forces and energies from the branches and streams of the leyline flowing throughout the earth, some practitioners of druidic magic are gifted with boons from the [Viridian Grove](../region/Verza#viridian-grove) itself, the great fairy oak that mothers all of the druidic leylines of Terre. With verdant blessings in hand, these spellcasters harnesses life and nature around them to hinder their foes and heal their allies.
 
-***Pact Theme.*** The Pact of the Verdant is centered around nature, both the life and the decay of it. Spellcastings and magics of this pact manifests around such concepts - the Eldritch Blast cantrip, for example, can take forms of a spectral wood spike or a thorn whip, while the Arms of Hadar invokes thorn and vine tentacles to assault nearby enemies.
+***Pact Theme.*** The Pact of the Verdant is centered around nature, both the life and the decay of it. Spellcastings and magics of this pact manifests around such concepts - the Eldritch Blast cantrip, for example, can take forms of a spectral wood spike or a thorn whip, while Arms of Hadar invokes thorn and vine tentacles to assault nearby enemies.
 
 ## Expanded Spell List
 

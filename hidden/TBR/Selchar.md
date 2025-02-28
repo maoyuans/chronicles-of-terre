@@ -24,7 +24,11 @@ Despite the fame and notority of the Grand Vault, the lower docks of Selchar sti
 
 ## The Grand Selchari Vault
 
+Constructed by architects and engineers of the Perani Trading Corporation at the turn of the millennium, the Grand Selchari Vault has acted as the most prominent bank and museum of artifacts found across the land of Terre. Initially envisioned as an offshore asset storage for the higher executives of the Corporation, the Vault was quickly expanded in scale and functionality into a banking organization open to the entire continent, that puts selected items on exhibition, in order to establish the island of Selchar as a trading and tourism center in the middle of the Clearwater Gulf, and profit off the naval traffic.
 
+The vault itself is located deep underground, with the reception lobby just below the main halls on the ground floor, housing the exhibitions. While the underground sections are usually closed off to the public, the Grand Selchari Vault offers tours of the defensive and security mechanisms safeguarding the vaults to potential customers. The design of the vault proper was led by Phillip M. Canter, a lead engineering consultant at the Trading Corporation with joint appointment at Fleethall at Maltross, and hosts a variety of features, but the finer details of the mechanisms are kept as top secrets. In addition to heavily-guarded corridors, there are also giant constructs that guards the inner gates, labyrinths constantly shifting and changing, and even mysterious barriers that does not allow passage unless you are simply the owner of the item you want to access.
+
+The main halls of the vault are repurposed into a museum and exhibition open to the public. While not as heavily guarded, the area is still under heavy surveillance and reinforced with magic circles and glyphs engraved on the glass exhibit case as well as the area in general. Each artifact on show is unique and priceless, with a long history behind it - but for some reason, the experienced rogues and thieves with the ability to break through the exhibition don't seem too interested to pull a heist there, and instead focus their attention on the proper vault instead...
 
 ## Gangs in the Streets
 

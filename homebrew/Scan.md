@@ -37,5 +37,3 @@ A few example of common traits are listed below. Traits can be specific to a sin
 - Combo: This creature have abilities that synergizes with each other, and can combine to greater effects.
 - Recovery: This creature have abilities that can recover hitpoints in large amounts.
 - Debilitator: This creature have abilites that weaken their enemy and relies heavily on debuffs in battle.
-- Magical Mastery: This creature have mastery over magic, and will utilize magical abilities to their advantage.
-- Martial Mastery: This creature have mastery over martial arts, and will utilize martial abilites to their advantage.

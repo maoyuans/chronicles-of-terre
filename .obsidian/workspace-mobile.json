@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "history/Mineral.md",
+                "file": "subclasses/Warlock-Verdant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mineral"
+              "title": "Warlock-Verdant"
             }
           }
         ]
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "history/Mineral.md",
+            "file": "hidden/TBR/Timeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,19 +158,31 @@
   },
   "active": "c412e6f759722379",
   "lastOpenFiles": [
-    "history/ForgottenEmpire.md",
+    "hidden/TBR/Selchar.md",
     "history/Mineral.md",
+    "hidden/TBR/Timeline.md",
+    "hidden/TBR/IssansMaw.md",
+    "region/others/Ataraxia.md",
+    "region/others/Selchar.md",
+    "region/Fracture.md",
+    "hidden/TBR/TlavuiAggorat.md",
+    "hidden/TBR/Yharonaxidus.md",
+    "hidden/Ahuatotli_PC.md",
+    "hidden/TBR/Silence.md",
+    "hidden/TBR/OldHaunts.md",
+    "hidden/TBR/Morne.md",
+    "hidden/TBR/MallickTrost.md",
+    "hidden/TBR/IntoTheMaw.md",
+    "hidden/TBR/HeistPlan.md",
+    "hidden/TBR/Cultists.md",
+    "hidden/TBR/Aspects.md",
+    "hidden/TBR/Ahuatotli.md",
     "history/History.md",
-    "subclasses/Warlock-Crimson.md",
-    "subclasses/Warlock-Verdant.md",
-    "subclasses/Monk-Avatars.md",
     "subclasses/Druid-Sacrifice.md",
-    "subclasses/Fighter-Sulphuric.md",
-    "subclasses/Paladin-Tradition.md",
-    "subclasses/Rogue-Gunslinger.md",
-    "subclasses/Warlock-Lunar.md",
-    "subclasses/Wizard-Spellslinger.md",
-    "404.md",
-    "demography.md"
+    "subclasses/Druid-Sacrifice-old.md",
+    "homebrew/Scan.md",
+    "homebrew/Origins.md",
+    "homebrew/Newchar.md",
+    "homebrew/Miscellaneous.md"
   ]
 }
