@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Old Haunts
-description: “Chronicles of Terre is a medieval fantasy setting many years in the writing.”
+description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
 search_exclude: true
 nav_exclude: true
 ---

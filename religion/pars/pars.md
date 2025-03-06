@@ -3,7 +3,7 @@ layout: default
 title: Divinus Pars - Minor Deities
 nav_order: 3
 parent: Religion & Spirituality
-description: "Divinus Pars is a pantheon of lesser deities of Terre, each holding domain over aspects of life."
+description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
 has_children: true
 ---
 

@@ -14,7 +14,7 @@ nav_exclude: false
 - Official language: Infernal common
 - Common languages: Dwarvish, elvish (wood), goblin, celestial
 - Inhabitant races: Human, dwarf
-- Population *as of AC 1411*: ~ 10,950,000
+- Population *as of AC 1411*: ~ 8,950,000
 - Demonym: Astartian
 - Approximate form of government: Feudal monarchy
 - Head of State: Emperor Horoku

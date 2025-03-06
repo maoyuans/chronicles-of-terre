@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Deliverance
-description: “A short origin story of Ahuatotli, cleric of Death of Xbeltz'aloc.”
+description: A short origin story of Ahuatotli, cleric of Death of Xbeltz'aloc.
 search_exclude: true
 nav_exclude: true
 ---

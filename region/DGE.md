@@ -15,7 +15,7 @@ nav_exclude: false
 - Common languages: Various
 - Inhabitant races: Various
 - Demonym: Glorian
-- Population *as of AC 1411*: ~ 56,800,000
+- Population *as of AC 1411*: ~ 26,800,000
 - Approximate form of government: Theocratic monarchy
 - Head of State: Holy Emperor Ulrico Valeri
 

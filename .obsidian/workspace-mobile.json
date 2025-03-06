@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subclasses/Warlock-Verdant.md",
+                "file": "hidden/TBR/HeistPlan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Warlock-Verdant"
+              "title": "HeistPlan"
             }
           }
         ]
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "hidden/TBR/Timeline.md",
+            "file": "hidden/TBR/HeistPlan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,31 +158,33 @@
   },
   "active": "c412e6f759722379",
   "lastOpenFiles": [
-    "hidden/TBR/Selchar.md",
     "history/Mineral.md",
-    "hidden/TBR/Timeline.md",
+    "hidden/TBR/HeistPlan.md",
+    "hidden/TBR/Ahuatotli.md",
+    "hidden/maps/Miyatsuki-Label.jpg",
+    "hidden/pitches/SelchariHeist.md",
+    "hidden/TBR/Aspects.md",
+    "hidden/TBR/Cultists.md",
+    "hidden/TBR/IntoTheMaw.md",
     "hidden/TBR/IssansMaw.md",
-    "region/others/Ataraxia.md",
-    "region/others/Selchar.md",
-    "region/Fracture.md",
+    "hidden/TBR/MallickTrost.md",
+    "hidden/TBR/Morne.md",
+    "hidden/TBR/OldHaunts.md",
+    "hidden/TBR/Selchar.md",
+    "hidden/TBR/Silence.md",
+    "hidden/TBR/Timeline.md",
     "hidden/TBR/TlavuiAggorat.md",
+    "hidden/TBR/Xonokonetl.md",
+    "hidden/TBR/Xonokonetl-img.png",
     "hidden/TBR/Yharonaxidus.md",
     "hidden/Ahuatotli_PC.md",
-    "hidden/TBR/Silence.md",
-    "hidden/TBR/OldHaunts.md",
-    "hidden/TBR/Morne.md",
-    "hidden/TBR/MallickTrost.md",
-    "hidden/TBR/IntoTheMaw.md",
-    "hidden/TBR/HeistPlan.md",
-    "hidden/TBR/Cultists.md",
-    "hidden/TBR/Aspects.md",
-    "hidden/TBR/Ahuatotli.md",
-    "history/History.md",
-    "subclasses/Druid-Sacrifice.md",
-    "subclasses/Druid-Sacrifice-old.md",
-    "homebrew/Scan.md",
-    "homebrew/Origins.md",
-    "homebrew/Newchar.md",
-    "homebrew/Miscellaneous.md"
+    "hidden/Thief_in_Blue.md",
+    "hidden/Reflection.md",
+    "hidden/Eternity.md",
+    "history/Calendar.md",
+    "history/Chronology.md",
+    "history/Corruption.md",
+    "history/Cosmology.md",
+    "history/Crimson.md"
   ]
 }

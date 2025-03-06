@@ -11,7 +11,7 @@ nav_exclude: false
 
 - Common languages: Various
 - Inhabitant races: Various
-- Population *as of AC 1411*: ~ 580,000
+- Population *as of AC 1411*: ~ 1,380,000
 
 Between the temperate forests of the [Divine Glorian Empire](DGE) and the savanna grassland where [Maltrossian](Maltross) caravans graze, the spires and towers of [Labyrinthine](Labyrinthine) are first and foremost, but in their shadows lies the torn and ravaged land of Albion's March. Since the political sundering of Central Kingdom of Esh'dun some four hundred years ago, the marshes and archipelagos surrounding Labyrinthine has been constantly plagued by war and conflict, between dozens nations and states fighting for scarse resources and shelter from the hostile environment.
 

@@ -3,7 +3,7 @@ layout: default
 title: Divinus Patronus - Patron Deities
 nav_order: 2
 parent: Religion & Spirituality
-description: "Divinus Patronus is a pantheon of patron deities of Terre, worshipped by respective races for their progenity."
+description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
 has_children: true
 ---
 

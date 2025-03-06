@@ -1,12 +1,28 @@
 ---
 layout: default
 title: Heist Plan
-description: “Chronicles of Terre is a medieval fantasy setting many years in the writing.”
+description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
 search_exclude: true
 nav_exclude: true
 ---
 
 # Heist Plan
+
+## Defenses of the Grand Vault
+
+- The above-ground halls. Guards regularly patrol the area, and the doors are locked during after-hours.
+- An elevator connecting the main halls to the underground sections. The elevator only activates with special keycards held by authorized personnels, and usually guarded by an operator.
+- The underground passageways leading to the vault proper. There is a manned checkpoint at the exit of the elevator, checking the credentials of vault staffs and screening visitors for any potential weapons. The passageway themselves are straight and narrow, and monitored by scrying eyes that see through even invisibility.
+- The Guardian chamber. An empty cavern-chamber with a platform above a bottomless pit, overseen by an enormous construct known as the "Vault Guardian", and its control room on an overhang on the opposite side. The Guardian itself is autonomous to some degree, using electricity and blunt force to repel any unwanted intrusions, and is protected by a think shell of titanium alloy, that is extremely durable and resistant. The chamber is also equipped with a quartz crystal, the "Glass Moon", that can reveal shapeshifters, invisibility, and dispel magic periodically.
+- The labyrinth. A system of corridors that connects the entrance guarded by the Vault Guardian to individual chambers housing the vault's treasures, that is constantly shifting and changing, and almost impossible to directly navigate. Vault staffs are provided with an enigmatic cipher tablet that reverse-engineers the labyrinth's shifts and gives real-time directions to navigate towards the desired destination.
+- The identity verification. As a final and most impenetrable layer of defense, a barrier of force within each vault chamber protects the storage case itself. Designed and cast by Labyrinthine high mages, this barrier is normally dormant, but once bound to an owner and activated can only be disarmed by its owner or their designated proxy, verifying their identity on a conceptual level, to prevent unauthorized access from within or without the vault.
+- A final lock. The complex but mundane mechanical lock on the storage case that is opened by a matching titanium key, given to the owner upon confirmation of storage.
+
+
+
+
+
+---
 
 We need to plan a heist. But how?
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Eternity (WIP)
-description: "A short origin story of Jin & Scathan Steelsong."
+description: 
 search_exclude: true
 nav_exclude: true
 ---
