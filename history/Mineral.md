@@ -135,6 +135,14 @@ Inquisitors and priests of the Church of Gloria values hallowed silver for their
 
 ## Void Suevite
 
+Void suevite is a rare innate metal with strong blanking, antimagic potentials. With physical characteristics similar to that of iron with a very dark hue, void suevite is often known as "voidsteel", and possesses nullifying properties, that can negate the potency of most magics within its vicinity, and thus serves as a speciality material for anti-magical purposes. Void suevite are especially scarce, is in constant high demand, and requires a lot of effort to smith and work with, which causes extremely inflated prices on the market.
+
+Equipments made of void suevite can protect their wielders from magical onslaught, or cut through an opponent's spells with ease. However, very commonly they will also deny their owner from effectively casting spells and magics of most kind.
+
 ## Meteorite Steel
+
+Meteorite steel is an metallic alloy of iron, adamantine, and meteorite fragments that lands on Terre from the Astral Sea. It is a dark reddish-brown substance with glittering light across its surface. While physically soft and malleable, meteorite is prized as a speciality magical catalyst, that can often fundamentally and drastically modify the spellcasting signature of energies that passes through it, resulting in stable, albeit unpredictable changes. 
+
+The supply of meteorite steel is limited by descending meteorites that is large enough to not completely burn out upon entry to the material plane, and thus it is a highly sought-after material. Most meteorite steel equipments are from the hand of master crafters, made specifically to order of those who is powerful and wealthy enough to afford such equipments.
 
 *Under Construction.*
