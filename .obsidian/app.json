@@ -1,4 +1,5 @@
 {
   "showLineNumber": true,
-  "mobilePullAction": ""
+  "mobilePullAction": "",
+  "promptDelete": false
 }

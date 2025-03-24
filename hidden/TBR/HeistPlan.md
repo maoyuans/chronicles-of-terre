@@ -35,9 +35,13 @@ Catch the opportunity as the semiannual Perani inspection delegation arrives at 
 - Through disguises and careful identity theft, one can pass as the inspector general from Peran to disable the Guardian's outer shell for maintenance, which exposes its core for forced disabling.
 
 ### The Labyrinth
+- The cipher tablets used by vault staffs can be stolen, but will appear as scrambled text unless properly deciphered with linguistics.
+- Lady Ataraxia can provide a master cipher only held by Clock Tower lords, that completely bypasses the labyrinth by altering the walls and mechanisms directly.
+- A minotaur navigator with a natural sense of direction within mazes can be recruited eventually to help them clear a path.
 
 ### The Identity Verification
-
+- Kyokutei will eventually provide the party a blood vial rumored to be filled with Miyatsuki's blood.
+- A pendant the party finds will turn out to be Miyatsuki's relic; the party can learn of the relic's true name and use his voice to bypass the barrier.
 
 ---
 
