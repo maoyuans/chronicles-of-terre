@@ -48,6 +48,7 @@ Rap, tap, tap. Fourty-seven, fourty-six, fourty-five. The tappings halt along wi
 
 Quiet chantings leak through the shut curtains behind the window besides him, oblivious of what is about to strike.
 > *"Omnia nihil, omnia licent."*
+> 
 > *"Omnia nihil, omnia licent."*
 
 "Is that so..." Cardinal lets out a long sigh. Maybe this time, these cultists are onto something after all. Sometimes it does feel like what they said. Time and time again he struggles to find some dose of adrenaline from these works, as he did in ample amount in greener times; nowadays, there's only an infinite expanse of void where his burning beating heart once was.
