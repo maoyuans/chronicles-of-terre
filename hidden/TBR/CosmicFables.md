@@ -15,7 +15,7 @@ The famine has ravaged her family, her fields, and her grumbling stomach. The gi
 
 A glint of light caught her eyes, off the road and into the bushes painted wildfire by the dusking sky. Old folk tales of feys and wisps warn her to ignore these signs, but hunger champions over rationale in hard times.
 
-She is greeted with a serene meadow, hidden behind branches and vines, seemingly otherworldly compared to the drought and famine without. She can hear the singing and chiming of insects and birds --- like a midsummer night's dream in the girl's distant memories.
+She is greeted with a serene meadow, hidden behind branches and vines, seemingly otherworldly compared to the drought and famine without. She can hear the singing and chiming of insects and birds - like a midsummer night's dream in the girl's distant memories.
 
 The glint greets her silently. Standing in the middle of the meadow is a shard of quaint, azure crystals, glowing and pulsing gently. This might fetch a good price, the girl thinks. She reaches out to the shard, sending a prayer to the stars.
 
@@ -38,13 +38,13 @@ She feels as if she has come to know this world, yet without any strand of compr
 
 "Cardinal to Nest, I am at the quarry, descending in thirty seconds, over."
 
-Without waiting for a reply, the man shuts down his transmitter, jams it into his jacket pocket, and rappels down the wall of this building. The midnight glory of Barohaven high above from the upper floors does not illuminate this part of the Midtown, nor the sewer houses further below. He is well-accustomed to these environments, however --- the ace detective of the Investigation Bureau have too many cases on his belt to be fazed by simple darkness and some depravity. 
+Without waiting for a reply, the man shuts down his transmitter, jams it into his jacket pocket, and rappels down the wall of this building. The midnight glory of Barohaven high above from the upper floors does not illuminate this part of the Midtown, nor the sewer houses further below. He is well-accustomed to these environments, however - the ace detective of the Investigation Bureau have too many cases on his belt to be fazed by simple darkness and some depravity. 
 
 And he just want to finish this case quickly and go back to home.
 
 Descending in silence, with only the light, unperceived tapping of his foot on the bleached brick walls, Cardinal lets his thought loose for a moment. Rap, tap, tap. How many times had he done so over the past years, hanging on by a thread between life and death, between heaven and hell? Rap, tap, tap. These reckless ventures feel routine to him at the current point, like chores on a Tuesday afternoon.
 
-Rap, tap, tap. Fourty-seven, fourty-six, fourty-five. The tappings halt along with the descent --- this should be where the cult hideout is operating from. The detective flips his wrist, locking the mounted pulley mechanism in place, and with his other hand pulls out the shock pistol from the holster. 
+Rap, tap, tap. Fourty-seven, fourty-six, fourty-five. The tappings halt along with the descent - this should be where the cult hideout is operating from. The detective flips his wrist, locking the mounted pulley mechanism in place, and with his other hand pulls out the shock pistol from the holster. 
 
 Quiet chantings leak through the shut curtains behind the window besides him, oblivious of what is about to strike.
 > *"Omnia nihil, omnia licent."*
@@ -65,9 +65,39 @@ However, only silence follows this time. His eyes sweeps across the room in surp
 
 "Oh shut it. What is this to you anyways, or your meaningless worships? Isn't it as you said, that *all is void, all is-*"
 
-Something trembles in his heart. The detective drops what he is holding, and reaches for his face. His touch is greeted by sweet nothingness --- all his fingertips feel are just a featureless, smooth sensation.
+Something trembles in his heart. The detective drops what he is holding, and reaches for his face. His touch is greeted by sweet nothingness - all his fingertips feel are just a featureless, smooth sensation.
 
 Falling to the ground, the man scrambles to pick up the pendant again. He doesn't know since when, but in the reflection within the onyx gemstone, his face has donned the perfectly cut mask as well.
 
 ---
 ## Apotheosis
+
+Come, little one! You have finally reached upon our court! We have patiently awaited your arrival.
+
+Look down at this world that you once resided in... Sundered, shattered, piece by piece reduced to mass and shape, much like those that came before yours. At this end of time, it is ready for a grander purpose - to be reshaped into perfection, in your image.
+
+And your image alone shall populate our new realm as the exemplar, little one. We have watched your journey over seven million cycles. We watched as you rose up from the mud, taking on a greater aspiration; We watched as you lit your fire, harnessing our greatest gift; We watched as you bathed in ancient lights, inspired to reshape the fabrics with these powers; We watched as your hands touched the beacon, ready to ascend to a perfect meridian.
+
+Now, you stand upon our court. The meridian draws nigh. Come see, little one! Come see how we shape your image into reality!
+
+Take these mass that are distilled from the remains. It possesses weight and emanates presence. It is the Body of our new exemplar. Body is simple, featureless, without sophistication, but it is the fundamental of your being, that gives physical frames to greater purposes.
+
+We can shape the Body into different forms, to grant them design. It is intangible compared to mass, and we have to capture it very delicately. Look at it - do you see yourself in this creation? Design is complex, yet it allows purposes into the Body, attaching strings to the joints, the limbs, that moves the body into a dance. This is Will. Will drives the silent into motion.
+
+Our exemplar remains without a pilot, something to puppeteer the strings. This will do - a Soul. You may recognize this! We planted the same seed seven million cycles ago, whose fruit you have brought back to our court. Now, look around you - the tiny wisps dancing and weaving around us are all your kin.
+
+Little one, it is done! The union of Body and Soul, joined together by the bridge of Will, is the exemplar made in your image. When they finally visit our new world, they shall see a lack of imperfection, and exhaustion of potential - what we have all failed to find in many other stars.
+
+And to them we can offer your image, for them to write their own stories.
+
+... Yet we see your eyes fixated on something else that we cannot see. We have watched you standing beside others that left before you, with that same light in your eyes. We are familiar with this matter, yet we cannot understand it like you do. What you described as Emotion... Is it missing from the equation?
+
+Perhaps we have failed to distill and filter out these impurities from this world's substances. It is not too late, however, little one, to let go of this Emotion. In our perfect world, it is of no use to us and our exemplars.
+
+...
+
+We see. It is a request we cannot grant you, however. Our exemplar cannot be compound and impure. Is it really what you seek to be cast back into the maelstrom?
+
+If you insist, we will return you to the fractured world, little one. You will be reduced to your primordial components, to be made whole again in another image, without the impurities that have failed us before.
+
+Good night, little one. We wait patiently for your return, seven million cycles later.
