@@ -144,7 +144,7 @@ The chamberlain gasped, but Solian only chuckled amusedly at the scene.
 
 As the golden carriages rode back into the palace surrounded by blaring trumpets and cheers, father patted him on the head, and asked: "The people hail me as a great king, Solian. Why do you think that is?"
 
-Solian answered without hesitation. "You are a powerful king, capable of conquering any enemy. They fear your glory, and have no choice to follow you to the world's end. With such strengths that you have, no one shall ever defeat you."
+Solian answered without hesitation. "You are a powerful king, capable of conquering any enemy. They fear your glory, and have no choice but to follow you to the world's end. With such strengths that you have, no one shall ever defeat you."
 
 The king nods thoughtfully. 
 
