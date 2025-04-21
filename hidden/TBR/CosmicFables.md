@@ -121,7 +121,7 @@ As the golden carriages rode back into the palace surrounded by blaring trumpets
 
 Pilou thought for long. "You are kind to them, and treat everyone like friends. They admire your valor, and would follow you to the world's end. With companions like these, you shall prosper forever."
 
-The king nods thoughtfully. 
+The king nodded thoughtfully. 
 
 In the following years, under his father's instruction, Pilou learned to lead in both the court and the battlefield. He grew up to be a king beloved by all just like his father, and led many battles, including the war against his own brother.
 
@@ -146,7 +146,7 @@ As the golden carriages rode back into the palace surrounded by blaring trumpets
 
 Solian answered without hesitation. "You are a powerful king, capable of conquering any enemy. They fear your glory, and have no choice but to follow you to the world's end. With such strengths that you have, no one shall ever defeat you."
 
-The king nods thoughtfully. 
+The king nodded thoughtfully. 
 
 In the following years, under his father's instruction, Solian honed his skills in both the training ground and the archives. He grew up to be a king feared by all just like his father, and fought many battles, including the war against his own brother.
 
