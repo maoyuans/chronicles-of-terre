@@ -101,3 +101,53 @@ We see. It is a request we cannot grant you, however. Our exemplar cannot be com
 If you insist, we will return you to the fractured world, little one. You will be reduced to your primordial components, to be made whole again in another image, without the impurities that have failed us before.
 
 Good night, little one. We wait patiently for your return, seven million cycles later.
+
+---
+## Plethora
+
+Many years later, as he finally faces the guillotine, Elder Prince Pilou is to remember that distant afternoon when father first took him and Solian on the victory parade.
+
+Father had just quelled the Haarkien invasion in the south-east of the Kingdom. He was given a hero's welcome back at the capitol, hailed as great King that protected his lands from the barbaric raiders. Hundreds and thousands of commoners, peasants, and noblemen alike lined the streets to his palace, cheering at the lavishly golden caravan draped in velvet, pulled by white stallions.
+
+At that time he was still a young child, watching the deeper meanings of the world unfold with childishly innocent eyes, together with his brother Solian. He would point at objects on display in the palace, asking about their names, and be amazed at how beautiful they are.
+
+It was for this reason that father brought him along on his most recent crusade, put into the care of his loyal chamberlain, as he led the march, riding into enemy lines side by side with his soldiers.
+
+There, he watched from atop the lookout tower, as father and his steed rode in formation with his soldiers and companions. His sword cleaved down enemies, while the knights and squires protected him from flanking arrows. At once a stray raider broke through the front line and charged towards the king, ready to stab a scimitar into his chest; he was quickly intercepted by soldiers, crying out to alert their king, rushing in to block the path with their own bodies.
+
+The chamberlain gasped, but Pilou only giggled excitedly at the scene.
+
+As the golden carriages rode back into the palace surrounded by blaring trumpets and cheers, father patted him on the head, and asked: "The people hail me as a great king, Pilou. Why do you think that is?"
+
+Pilou thought for long. "You are kind to them, and treat everyone like friends. They admire your valor, and would follow you to the world's end. With companions like these, you shall prosper forever."
+
+The king nods thoughtfully. 
+
+In the following years, under his father's instruction, Pilou learned to lead in both the court and the battlefield. He grew up to be a king beloved by all just like his father, and led many battles, including the war against his own brother.
+
+It is all for naught, of course, when the Third Kingdom came to wage war against his land, and he chose, perhaps foolishly, to defend his hold and his people to the last second.
+
+---
+## Solipsis
+
+Many years later, as he finally faces the guillotine, Younger Prince Solian is to remember that distant afternoon when father first took him and Pilou on the victory parade.
+
+Father had just quelled the Haarkien invasion in the south-east of the Kingdom. He was given a hero's welcome back at the capitol, hailed as great King that conquered his enemies who wanted a piece of his land. Hundreds and thousands of commoners, subjects, and peons alike lined the streets to his palace, admiring at his lavishly golden caravan draped in velvet, pulled by white stallions.
+
+At that time he was still a young child, yet he had already started to see the world folding into a singularity, much unlike his brother Pilou. He would point at objects on display in the palace, and look away in disappointment after learning their names, and what they are.
+
+It was for this reason that father brought him along on his most recent crusade, put into the care of his faithful chamberlain, as he led the march, riding into enemy lines followed by his soldiers.
+
+There, he watched from atop the lookout tower, as father and his steed spearheads the charge into enemy lines. His sword cleaved down enemies, using his followers and squires as shields against the dangers from behind. At once a lapse in the formation let a stray raider through, who charges the king with blood in his eyes; With quick reflexes and swift orders, Father rotated his guard to block the offense, giving him time to raise his sword and chop the mongrel's head clean off.
+
+The chamberlain gasped, but Solian only chuckled amusedly at the scene.
+
+As the golden carriages rode back into the palace surrounded by blaring trumpets and cheers, father patted him on the head, and asked: "The people hail me as a great king, Solian. Why do you think that is?"
+
+Solian answered without hesitation. "You are a powerful king, capable of conquering any enemy. They fear your glory, and have no choice to follow you to the world's end. With such strengths that you have, no one shall ever defeat you."
+
+The king nods thoughtfully. 
+
+In the following years, under his father's instruction, Solian honed his skills in both the training ground and the archives. He grew up to be a king feared by all just like his father, and fought many battles, including the war against his own brother.
+
+It is all for naught, of course, when the Third Kingdom came to wage war against his land, and his subjects chose, perhaps foolishly, to open the gates on the first night of the siege.
