@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Apotheosis
-description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
+description: Come, little one! You have finally reached upon our court!
 search_exclude: true
 nav_exclude: true
 ---
