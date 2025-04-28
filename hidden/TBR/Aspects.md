@@ -25,7 +25,7 @@ These Aspects manifest in the planes of Terre as projections of themselves from 
 - Kvell: Rejoice in vulnerability. Take pride in the accomplishment of others, and accept your role as a side character. Experience life from the low point so that you may appreciate the highs better.
 - Baphomet: Grim contrarian. In order to gain insight, you must first accept that you have none. The mortal mind is restrained by its capacity, so it is foolish to believe your thoughts will ever be fully informed.
 - Dynasty: Triumphant authority. Understand the importance of harmony and stability, even if the conditions are not ideal. There is still more life to live after the hardship is endured.
-- Nostalgia: Crystallized remembrance. Lay your ambitions to rest knowing that the moment has passed you by. Remembers the teachings of history, lest past glory be replaced by an inferior imitation.
+- Nostalgia: Crystallized remembrance. Lay your ambitions to rest knowing that the moment has passed you by. Remembers the teachings of history, lest past glory be replaced by inferior imitations.
 - Babel: Shared design. Ask a thousand men, and you shall receive a thousand answers. Let a thousand men talk amongst themselves, then you may find consensus, or the acknowledgement of a lack thereof - in either case, unity.
 - Pandemonium: Cycle breaker. It is easy to look back and think that you are destined to walk the path you walk. Venture, explore, and have confidence that your will is your own.  
 - Author: Engine of stories. Those who write have keen eyes for captivating schemes that can advance the plot. Tradition and morality are irrelevant, the cosmos appreciate a good villian in their story.

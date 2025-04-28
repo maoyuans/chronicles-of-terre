@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/TBR/CosmicFables.md",
+                "file": "hidden/TBR/Apotheosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CosmicFables"
+              "title": "Apotheosis"
             }
           }
         ]
@@ -157,33 +157,33 @@
   },
   "active": "c412e6f759722379",
   "lastOpenFiles": [
-    "hidden/TBR/Apotheosis.md",
-    "hidden/TBR/HeistPlan.md",
     "hidden/TBR/CosmicFables.md",
     "hidden/TBR/Aspects.md",
+    "hidden/TBR/Selchar.md",
+    "homebrew/Firearms.md",
+    "homebrew/Homebrew.md",
+    "region/others/Selchar.md",
+    "region/Astartia.md",
+    "history/Mineral.md",
+    "history/Calendar.md",
+    "hidden/Eternity.md",
+    "hidden/TBR/Yharonaxidus.md",
+    "hidden/TBR/TlavuiAggorat.md",
+    "hidden/TBR/Timeline.md",
+    "hidden/TBR/Silence.md",
+    "hidden/TBR/OldHaunts.md",
+    "hidden/TBR/Morne.md",
+    "hidden/TBR/MallickTrost.md",
+    "hidden/TBR/HeistPlan.md",
+    "hidden/TBR/Cultists.md",
+    "hidden/TBR/Apotheosis.md",
+    "hidden/TBR/Ahuatotli.md",
     "hidden/TBR/Cosmic Fables.md",
     "Untitled.md",
-    "history/Mineral.md",
     "history/Corruption.md",
     "history/Cosmology.md",
     "history/Crimson.md",
-    "hidden/TBR/Silence.md",
-    "hidden/TBR/Timeline.md",
-    "hidden/TBR/TlavuiAggorat.md",
-    "hidden/TBR/IssansMaw.md",
-    "hidden/TBR/Cultists.md",
-    "hidden/TBR/MallickTrost.md",
-    "hidden/TBR/Selchar.md",
-    "hidden/TBR/Ahuatotli.md",
     "hidden/maps/Miyatsuki-Label.jpg",
-    "hidden/pitches/SelchariHeist.md",
-    "hidden/TBR/IntoTheMaw.md",
-    "hidden/TBR/Morne.md",
-    "hidden/TBR/OldHaunts.md",
-    "hidden/TBR/Xonokonetl.md",
-    "hidden/TBR/Xonokonetl-img.png",
-    "hidden/TBR/Yharonaxidus.md",
-    "hidden/Ahuatotli_PC.md",
-    "hidden/Thief_in_Blue.md"
+    "hidden/TBR/Xonokonetl-img.png"
   ]
 }

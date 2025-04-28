@@ -22,7 +22,7 @@ Now, you stand upon our court. The meridian draws nigh. Come see, little one! Co
 
 Take these mass that are distilled from the remains. It possesses weight and emanates presence. It is the Body of our new exemplar. Body is simple, featureless, without sophistication, but it is the fundamental of your being, that gives physical frames to greater purposes.
 
-We can shape the Body into different forms, to grant them design. It is intangible compared to mass, and we have to capture it very delicately. Look at it - do you see yourself in this creation? Design is complex, yet it allows purposes into the Body, attaching strings to the joints, the limbs, that moves the body into a dance. This is Will. Will drives the silent into motion.
+We can shape the Body into different forms, to grant them design. It is intangible compared to mass, and we have to capture it very delicately. Look at it - do you see yourself in this creation? Design is complex, yet it allows purposes into the Body, attaching strings to the joints, the limbs, that moves the Body into a dance. This is Will. Will drives the silent into motion.
 
 Our exemplar remains without a pilot, something to puppeteer the strings. This will do - a Soul. You may recognize this! We planted the same seed seven million cycles ago, whose fruit you have brought back to our court. Now, look around you - the tiny wisps dancing and weaving around us are all your kin.
 
@@ -30,7 +30,7 @@ Little one, it is done! The union of Body and Soul, joined together by the bridg
 
 And to them we can offer your image, for them to write their own stories.
 
-... Yet we see your eyes fixated on something else that we cannot see. We have watched you standing beside others that left before you, with that same light in your eyes. We are familiar with this matter, yet we cannot understand it like you do. What you described as Emotion... Is it missing from the equation?
+...Yet we see your eyes fixated on something else that we cannot see. We have watched you standing beside others that left before you, with that same light in your eyes. We are familiar with this matter, yet we cannot understand it like you do. What you described as Emotion... Is it missing from the equation?
 
 Perhaps we have failed to distill and filter out these impurities from this world's substances. It is not too late, however, little one, to let go of this Emotion. In our perfect world, it is of no use to us and our exemplars.
 
