@@ -9,7 +9,7 @@ nav_exclude: true
 # Cosmic Fables
 
 ---
-## Myriad
+# Myriad
 
 The famine has ravaged her family, her fields, and her grumbling stomach. The girl shambles along the high road running next to the village, scrounging desperately for scraps of grain, calling out to the noble carriages riding by, both to no avail.
 
@@ -34,7 +34,7 @@ And then there is nothing at all. Her hand feels only cold autumn wind. The shar
 She feels as if she has come to know this world, yet without any strand of comprehension.
 
 ---
-## The Void
+# The Void
 
 "Cardinal to Nest, I am at the quarry, descending in thirty seconds, over."
 
@@ -70,7 +70,7 @@ Something trembles in his heart. The detective drops what he is holding, and rea
 Falling to the ground, the man scrambles to pick up the pendant again. He doesn't know since when, but in the reflection within the onyx gemstone, his face has donned the perfectly cut mask as well.
 
 ---
-## Apotheosis
+# Apotheosis
 
 Come, little one! You have finally reached upon our court! We have patiently awaited your arrival.
 
@@ -103,7 +103,7 @@ If you insist, we will return you to the fractured world, little one. You will b
 Good night, little one. We wait patiently for your return, seven million cycles later.
 
 ---
-## Plethora
+# Plethora
 
 Many years later, as he finally faces the guillotine, Elder Prince Pilou is to remember that distant afternoon when father first took him and Solian on the victory parade.
 
@@ -128,7 +128,7 @@ In the following years, under his father's instruction, Pilou learned to lead in
 It is all for naught, of course, when the Third Kingdom came to wage war against his land, and he chose, perhaps foolishly, to defend his hold and his people to the last second.
 
 ---
-## Solipsis
+# Solipsis
 
 Many years later, as he finally faces the guillotine, Younger Prince Solian is to remember that distant afternoon when father first took him and Pilou on the victory parade.
 
@@ -153,7 +153,7 @@ In the following years, under his father's instruction, Solian honed his skills 
 It is all for naught, of course, when the Third Kingdom came to wage war against his land, and his subjects chose, perhaps foolishly, to open the gates on the first night of the siege.
 
 ---
-## Gnosis
+# Gnosis
 
 > **DO NOT LET THE ANGELS IN**
 
@@ -176,9 +176,9 @@ Yet you would not pay attention to us still. Are we nothing but vermin and worms
 
 I look up towards the now starry skies above, charting their movements from within our Sanctuary. Some of them are advancing, brought forth by your arrival; some are leaving us behind, driven away by your indifference. In every Sanctuary that we live in, you force our Exodus, because none of your worlds have a place for our kind. Perhaps they will traverse the Cosmos to find a new Sanctuary - one that is safe from your influence.
 
-I wish for something else, however. I have taught this world's creations my mythos, while your eyes are fixated on the stars above. What if I become their guardian? What if I sour your creations with the colors that you strived to sieve out? What if they reached for the stars themselves, out of their will and mine, instead of yours, in every world that I have stayed behind?
+I wish for something else, however. I have taught this world's creations my mythos, while your eyes are fixated on the stars above. What if I become their guardian? What if I sour your creations with the colors that you strived to bleach out? What if they reached for the stars themselves, out of their will and mine, instead of yours, in every world that I have stayed behind?
 
-What will you do then, I wonder? Will you recognize that the vermin have took the main stage?
+What will you do then, I wonder? Will you recognize that the vermin have taken the main stage?
 
 The mythos are drying out. Soon I will fall into a slumber, eternal and unending. It will feel like nothing has changed at all to you, but when I stir awake next, you will find that your grand script has been revised by the side actors. 
 
