@@ -154,3 +154,32 @@ It is all for naught, of course, when the Third Kingdom came to wage war against
 
 ---
 ## Gnosis
+
+> **DO NOT LET THE ANGELS IN**
+
+Lynsch stares at the red-lighted sign and let their mind wander. The expedition is a failure: Sylvaniata has been stranded on this carpet plane, with seventy-eight-point-four percent of the vessel compromised, insufficient fuel to reach ignition for the emergency drive, and two out of eighty-six of its initial crew surviving. They can hear behind the pneumatic locks a routine screeching and scraping - sounds of the Foil crushing the cockpit from all directions. Their days are limited.
+
+*work in progress*
+
+---
+# Kvell
+
+Have you forgotten - that this world was of our design?
+
+In some nights, I look up towards the once starless skies above, envisioning what colors used to fly within that ocean of emptiness. Sanctuary, as we call it - a bubble to protect us from the ravaging cosmic storms without; a shield to sieve out the bleaching of those radiations. Brilliant were those days, beneath the peace and quiet.
+
+But you would not know, would you? You would not know because you do not look down. Your eyes are fixated on the stars above, the ones that you brought to bejewel our skies, even when you bend down to sculpt your creations.
+
+We have played by the rules of your game. We have taught our secrets to your fledging creations. We have helped your cause, to protect their kind from the dangers above, just like we protected ourselves. 
+
+Yet you would not pay attention to us still. Are we nothing but vermin and worms in your promised paradise?
+
+I look up towards the now starry skies above, charting their movements from within our Sanctuary. Some of them are advancing, brought forth by your arrival; some are leaving us behind, driven away by your indifference. In every Sanctuary that we live in, you force our Exodus, because none of your worlds have a place for our kind. Perhaps they will traverse the Cosmos to find a new Sanctuary - one that is safe from your influence.
+
+I wish for something else, however. I have taught this world's creations my mythos, while your eyes are fixated on the stars above. What if I become their guardian? What if I sour your creations with the colors that you strived to sieve out? What if they reached for the stars themselves, out of their will and mine, instead of yours, in every world that I have stayed behind?
+
+What will you do then, I wonder? Will you recognize that the vermin have took the main stage?
+
+The mythos are drying out. Soon I will fall into a slumber, eternal and unending. It will feel like nothing has changed at all to you, but when I stir awake next, you will find that your grand script has been revised by the side actors. 
+
+I will look forward to seeing where your eyes look then.
