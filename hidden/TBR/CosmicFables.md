@@ -176,10 +176,95 @@ Yet you would not pay attention to us still. Are we nothing but vermin and worms
 
 I look up towards the now starry skies above, charting their movements from within our Sanctuary. Some of them are advancing, brought forth by your arrival; some are leaving us behind, driven away by your indifference. In every Sanctuary that we live in, you force our Exodus, because none of your worlds have a place for our kind. Perhaps they will traverse the Cosmos to find a new Sanctuary - one that is safe from your influence.
 
-I wish for something else, however. I have taught this world's creations my mythos, while your eyes are fixated on the stars above. What if I become their guardian? What if I sour your creations with the colors that you strived to bleach out? What if they reached for the stars themselves, out of their will and mine, instead of yours, in every world that I have stayed behind?
+I wish for something else, however. I have taught this world's creations my secrets, while your eyes are fixated on the stars above. What if I become their guardian? What if I sour your creations with the colors that you strived to bleach out? What if they reached for the stars themselves, out of their will and mine, instead of yours, in every world that I have stayed behind?
 
 What will you do then, I wonder? Will you recognize that the vermin have taken the main stage?
 
-The mythos are drying out. Soon I will fall into a slumber, eternal and unending. It will feel like nothing has changed at all to you, but when I stir awake next, you will find that your grand script has been revised by the side actors. 
+The secrets are drying out. Soon I will fall into a slumber, eternal and unending. It will feel like nothing has changed at all to you, but when I stir awake next, you will find that your grand script has been revised by the side actors. 
 
 I will look forward to seeing where your eyes look then.
+
+---
+# Baphomet
+
+---
+# Dynasty
+
+---
+# Nostalgia
+
+*Someone hiding from war (metaphorically) and becomes forgotten?*
+
+---
+# Babel
+
+---
+# Pandemonium
+
+*Short version of Vivienne & Iris? The ending?*
+
+---
+# Author
+
+>A man slumps between piles of books and scrolls. The cloistered archive is quiet, enough to hear his own whimpering. 
+>
+The silhouette stands in front of him. He notices the black leather boots, but instead of questioning how they sneaked up on him, he closes his eyes and continues drowning in grief.
+>
+"You are looking down. What is the matter?" A voice asks.
+>
+He wants to speak, but sounds struggle to escape his clamping throat. "She is gone. I am too weak." He whispers.
+>
+The silhouette shuffles, he feels their sight focus on him quizzically. "Why don't you bring her back? As simple as turning back time."
+>
+"I have tried. She did not answer. I don't know why."
+>
+The man raises his head at the stranger. Lights cast by the moon and stars fail to pierce through the caliginous nebula and illuminate their face.
+>
+"These scripts. Are they yours?" They point at the scattered scrolls and patterns.
+>
+The man glances around him. "I am a Lord. This is my treasury."
+>
+"You are inefficient. You borrow, yet do not create."
+>
+He sees failure manifest from all around him. "Will she come back if I know how to create?"
+>
+"Perhaps you are too weak. You let her escape. You should become better." The voice suggests cruelly.
+>
+"Yes. I am too weak. I should become better."
+>
+He sees a smile. "Come with me then, on a pilgrimage. To my temple beyond the stars. For I am ***?x??*** *[Author]* ***??.?***, and together we shall create the greatest of stories."
+
+***WARNING:*** *[Author] cannot be properly parsed.*
+
+*Add temporary translation to mapping?* ***YES/NO***
+
+---
+# Ouroboros
+
+A match is struck. In this eternal darkness, flickering light illuminate a silhouette of a woman. The Contestant stares into the void with a straight face, takes a deep breath.
+
+"Chaos! I have come to bargain!" She shouts.
+
+The voice echoes throughout the chamber. At once there is no response, but quickly whispers flood into the emptiness, as a row of four red eyes slowly blink open. "Ah, a mortal..." A voice, neither man nor girl, neither young nor old, somber yet sneering, jovial yet melancholic, welcomes her with apathetic indifference. "What is it that you seek, and what is it that you offer?"
+
+The Contestant raises her torch higher. "The survival of our kind, for your eternal entertainment."
+
+"You wish for me to stop the approaching calamities?" The four eyes shine bright, amused by the proposal. "It is a lot to ask, even to a god, and moreso to Chaos."
+
+The darkness shuffles forward, revealing a face vaguely familiar, split down into halves cleanly, revealing a conglomerate of undulating masses in the middle, crowning two glowing red eyes with pupils of a snake. "Why should I? Why would I bring order to a shattering? Why shan't I reap the seeds of entropy that I sowed?"
+
+The snake-eyes of Chaos cross with that of the Contestant. She knows what is coming in an instant. "Prove your worth in the Trials, then." Says Chaos, "Surely you know how to entertain an audience, just like you claimed."
+
+With a snap of the finger, baleful fires envelop her into shifting scenes. She was at the Purge Wars, watching as the great dragons clash with aberrant spawns, spewing destruction across the land; she toiled at the frontlines of the Morne Crusade, fighting tooth and nail against undead and necromantic constructs; she joined her hand in the creators, weaving her tales into the fabrics of reality, at the moment this star was born; and she will stand, still, with the shifting blade in hand, leading her charge into the great Cataclysm that is to come.
+
+It has felt like many eternities of strife to her, but when the Contestant returned, the four eyes still only watch her with amusement.
+
+"Well done- only all too soon..." Chaos exclaims. "Quite the show-maker. Let us hear your plea one more time. Perhaps I will consider it, if I'm in the mood..."
+
+"Protect our-" Coughs. "-our kind, for we are agents of change." She speaks, barely able to support her own dignified stance. "We help your entropy bear fruit, and spread it across this continent. You will be eternally entertained."
+
+Chaos contemplates for a moment. "Very well, I shall maintain that possibility." They announces, before simply turning around and disappearing into the darkness. "You are dismissed, Contestant."
+
+Stepping out from the ziggurat, she takes a deep breath of the humid jungle air. The gambit was a success. The Contestant lets out a roar of victory, before collapsing onto the dirt floor; she watches as leaves fall, snow melt, seasons grow and fade, at once the same, yet ever-changing, flashing in front of her eyes, before finally fading into darkness once more.
+
+---
