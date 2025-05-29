@@ -34,8 +34,12 @@ Starting at 2nd level, you can use your Channel Divinity class feature to incite
 
 ## Gift of Misfortune
 
-Starting at 6th level, whenever you have disadvantage on a spell attack roll, your damage is maximized for the associated spell. 
+Starting at 6th level, whenever you have disadvantage on an attack roll, your damage is rolled with advantage for the associated attack. 
 
 ## Potent Spellcasting
 
 Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip. 
+
+## Chaos Ultimatum
+
+Starting at 17th level, your presence alone can alter the fate of others, adding uncertainty to what would seem like destined success. Whenever a creature within 60 ft of you makes an attack roll, ability check, or saving throw, you may as a reaction impose absolute disadvantage on the roll.
