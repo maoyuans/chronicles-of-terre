@@ -15,22 +15,22 @@ The swirling random events may seem happenstance to some, luck to others, but yo
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 - 1st: Chaos Bolt, Tasha's Hideous Laughter;
-- 3rd: Phantasmal Force, Crown of Madness;
-- 5th: Enemies Abound, Summon Lesser Demons;
-- 7th: Confusion, Compulsion;
-- 9th: Insect Plague, Synaptic Static.
+- 3rd: Crown of Madness, Scorching Ray;
+- 5th: Blink, Enemies Abound;
+- 7th: Confusion, Polymorph;
+- 9th: Maelstrom, Synaptic Static.
 
 ## Eldritch Cantrip
 
-You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric cantrip. 
+You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric cantrip, with Wisdom as your spellcasting ability. 
 
-## Improved Chaos Bolt
+## Magical Pandemonium
 
-Whenever you trigger the leap effect from Chaos Bolt, it leaps twice and each bolt does an additional 1d6 points of damage. 
+When you choose this domain at 1st level, the magical energy you wield becomes unpredictable. As a bonus action, you can expend a spell slot of any level to cast a random spell (from any spell list) with base level equal to the slot expended. You do not choose the spell cast, but you may choose how the spell is cast.
 
 ## Channel Divinity: Chaos Pulse
 
-Starting at 2nd level, you can use your Channel Divinity class feature to blast a wave of chaotic energy. When an enemy within 30ft attacks you, you may as a reaction, impose disadvantage on their attack rolls until the start of your next turn. In addition, the next Chaos Bolt you cast within one minute that targets this creature automatically triggers it's leaping effect. 
+Starting at 2nd level, you can use your Channel Divinity class feature to incite chaos. When you hit a creature with Chaos Bolt, you can use Channel Divinity to trigger its leaping effect once, plus one additional time per level of the spell slot expended.
 
 ## Gift of Misfortune
 
