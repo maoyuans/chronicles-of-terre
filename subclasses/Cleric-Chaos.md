@@ -26,7 +26,7 @@ You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric can
 
 ## Magical Pandemonium
 
-When you choose this domain at 1st level, the magical energy you wield becomes unpredictable. As a bonus action, you can expend a spell slot of any level to cast a random spell (from any spell list) with base level equal to the slot expended. You do not choose the spell cast, but you may choose how the spell is cast.
+When you choose this domain at 1st level, the magical energy you wield becomes unpredictable. As a bonus action, you can expend a spell slot of any level to cast a random eligible spell (from any spell list) with base level equal to the slot expended. You do not choose the spell cast, but you may choose how the spell is cast. For a spell to be eligible, it must have a cast time of an action or a bonus action, and must not consume material components.
 
 ## Channel Divinity: Chaos Pulse
 
