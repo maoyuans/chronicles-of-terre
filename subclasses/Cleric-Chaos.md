@@ -20,7 +20,7 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 - 7th: Confusion, Polymorph;
 - 9th: Maelstrom, Synaptic Static.
 
-## Eldritch Cantrip
+## Eldritch Gift
 
 You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric cantrip, with Wisdom as your spellcasting ability. 
 
