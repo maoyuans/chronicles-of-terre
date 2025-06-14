@@ -187,6 +187,29 @@ I will look forward to seeing where your eyes look then.
 ---
 # Baphomet
 
+The Newts have always known to avoid the Stream, as that is where the Jaws reside. Ever since their kind were just tadpoles, these Jaws have circled their sanctuary in patrol, patiently waiting for one Newt to hop out of their pond.
+
+That, of course, seldomly happened, since the Newts are very dogmatic creatures. "Never cross the Stream" is the first rule among the many that they engraved upon the plaque stone that have sat on the Newt pod grounds for eons, followed by "Jaws cannot leave the Stream" and "Jaws hunt the Newts for food".
+
+It is to be expected, then, that every Newt was in such a panic when the Vessels showed up. On that one high tide, with thunderous cracklings, diamond-shaped Vessels, propelled by silky tendrils, poured down the Stream like a huge wave, dispersing the surrounding Jaws in an instant. When the waves ebb, all of the rules on the Newt's plaque is already for naught.
+
+The elder Newts gather around the plaque stone, surrounded by the adults and the youngs, discussing in quiet whispers what is to be done with the Vessels that now traverse the Stream instead. As the tide rises again, all the rules were scraped off, except for the first: "Never cross the Stream", before the elders retreat into their tidepools to contemplate.
+
+Three harrowing cycles pass. At the lowest tide, the eldest and wisest Newt hops out of its tidepool, stumbles towards the plaque, and engraves in place of the first rule with trembling hands:
+> It is safe to cross the Stream
+
+The crowd shrieks in unison. One of the elders tries to trace its fingertips along the old rule, one that has never changed since its ancestors were tadpoles. Several cry in disbelief. Some younger Newts pass out unconscious on the floor. 
+
+An ensemble of elder Newts quickly gather around the plaque. They debated amongst themselves, and with the eldest one, but to no accord. Frustrated, the eldest Newt gestures for its kin to follow, and they swim hastily across the pod grounds, towards the Stream.
+
+There, the Newts watch as their eldest make its argument. The roaring sirens of the Vessels drone out the sound of the Stream, but makes no effort to recognize them, only to fade away further and further into the distance. It would seem like these Vessels are only travelers, not predators - the eldest explains - and with no jaws to bite, no teeth to grind, the Newts can cross the Stream safely under their palisade.
+
+With his mind preoccupied, and his senses obscured by excitement, the eldest Newt didn't notice that it has stepped into the Stream. It didn't notice the Vessel sailing down towards it from behind. It didn't notice how ill-informed its mortal opinion can be.
+
+The Newt ensemble gasps. They scramble back to the plaque, and engrave a new first rule:
+> Avoid the Vessels when crossing the Stream
+
+
 ---
 # Dynasty
 

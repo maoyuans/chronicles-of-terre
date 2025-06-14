@@ -151,8 +151,15 @@ The Siren Mother has a follower. What does she want between her little pogchamp 
 - Side clan of Miyatsuki, follows the party under pseudoname, want to steal the Star to rise as legitimate successor of the Miyatsuki Clan.
 - Very carefree personality. Probably genuinely want to help the party whether she can steal the thing or not.
 - Rogue, very good at sleight of hand.
+- Follows the party on the boat ride towards Selchar.
 
 ### Tachibana Elwing (立花 艾尔温) "Luthien"
 - Part of the Tachibana clan, guest of Ishihara, Labyrinthine contact, under pseudoname, it's complicated.
 - Sent by both Tachibana and Labyrinthine to watch on Miyatsuki and by extension the party.
 - GOO Warlock, knowledge-themed, can act as researcher for the party if motivation aligns.
+- Follows the party on the boat ride towards Selchar.
+
+## "Mercury Foxtail"
+- Pseudoname used by First Mate ???, whose real identity is a phantom thief kinda character.
+- Sends invitation cards foretelling his actions. Uses same scent as the mouthwashes on board. Clue for the party.
+- Maybe the party can use the chaos to do something?
