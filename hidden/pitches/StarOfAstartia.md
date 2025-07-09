@@ -8,13 +8,13 @@ nav_exclude: true
 
 # Star of Astartia
 
-```
-As the war against the Corruption rages on in the eastern forests of Verza, and the strange curse of Crimson plagues the western lands of Divine Glorian Empire, these coasts of the Clearwater Gulf seems perfectly calm, only quietly brewing the impending turmoil and unrest. Celebrations for the Festival of Fire only just quiet down, bringing back rumors of the illness of old Emperor of Astartia, and of the ravenous ambitions of the feudal lords that envies his throne like vultures flying over a dying man.
 
-Such midsummer nights bring restless dreams. You dream of storms and thunders cracking the sky above and the ocean below; of guarded vaults buried beneath the ground holding countless treasures; of strange and captivating songs flowing under the veil of the night; of armies clashing in the endless fields along the coast; of tales of honor and valor, vengeance and love.
+> *As the war against the Corruption rages on in the eastern forests of Verza, and the strange curse of Crimson plagues the western lands of Divine Glorian Empire, these coasts of the Clearwater Gulf seems perfectly calm, only quietly brewing the impending turmoil and unrest. Celebrations for the Festival of Fire only just quiet down, bringing back rumors of the illness of old Emperor of Astartia, and of the ravenous ambitions of the feudal lords that envies his throne like vultures flying over a dying man.*
+> 
+> *Such midsummer nights bring restless dreams. You dream of storms and thunders cracking the sky above and the ocean below; of guarded vaults buried beneath the ground holding countless treasures; of strange and captivating songs flowing under the veil of the night; of armies clashing in the endless fields along the coast; of tales of honor and valor, vengeance and love.*
+> 
+> *But news soon find you regardless, no matter where you are; whether travelling on the road into Labyrinthine, hunting in the distant jungles of Yharn, marching towards the frontlines of the Cataclysm, or spending sweet time doing nothing behind bars. News, that the Lord of Miyatsuki, the city of songs, has a job for you, and it is one that you find hard to reject. A job, that will take you across the Clearwater Gulf, to the island of Selchar, and its Grand Vault.*
 
-But news soon find you regardless, no matter where you are; whether travelling on the road into Labyrinthine, hunting in the distant jungles of Yharn, marching towards the frontlines of the Cataclysm, or spending sweet time doing nothing behind bars. News, that the Lord of Miyatsuki, the city of songs, has a job for you, and it is one that you find hard to reject. A job, that will take you across the Clearwater Gulf, to the island of Selchar, and its Grand Vault.
-```
 **Star of Astartia** is an adventure that will take you on a journey across the Clearwater Gulf, between the oriental Empire of Astartia, and the capitalistic island-settlement of Selchar, along the various archipelagos in between. What seems to be a somewhat shady fetch quest quickly, to no one's surprise really, devolves into the grandest bank heist of all time, before catching you into a war between feudal lords of Astartia.
 
 The adventure runs from 3rd level to approximately 11th, in a moderately homebrewed 5e-based system, with a lot of increased tactical depth and character creation options (I think). The script is mostly directed and story-driven, with a slight focus on combat over exploration and social interactions, but I will try to accommodate all shenanigans and whimsies. 
