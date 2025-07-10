@@ -2,7 +2,7 @@
 layout: default
 title: Scan
 parent: Homebrew Mechanics
-nav_order: 5
+nav_order: 6
 description: Chronicles of Terre is a medieval fantasy setting many years in the writing.
 nav_exclude: false
 ---
