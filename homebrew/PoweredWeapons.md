@@ -15,9 +15,13 @@ A weapon with the powered property allows its wielder to supercharge its attacks
 
 As examples of powered weapons you may find in Chronicles of Terre:
 > **Jet Maul**
+> 
 > *Weapon (Maul), powered (2d6).*
+> 
 > A maul with built-in jet boosters. When powered up, the boosters thrust the maul with your swing, giving the powered attack +2 to attack rolls.
 
 > **Weakpoint Rifle**
+> 
 > *Weapon (Musket), powered (2d6).*
+> 
 > This musket is augmented with charged chambers that specializes in breaking through weakpoints in enemy defense. Powered attacks have a base critical threshold of 19.
