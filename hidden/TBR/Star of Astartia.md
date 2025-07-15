@@ -7,7 +7,7 @@ nav_exclude: true
 ---
 # Miyatsuki
 
-Miyatsuki Katsuhiro, current lord (14th). 
+Miyatsuki Katsunori, current lord (14th). 
 - Gifted child, have heavy expectations put onto him to replicate Otoeda. Currently burnt out and paranoid, but seemingly close to his goal.
 - Prideful, cruel, and selfish. Not a good leader, but a good lord.
 - Understands his goal as re-conquering Astartia and maybe the entire world. Has an army ready, but missing a decisive advantage.
@@ -21,8 +21,11 @@ Miyatsuki Otoeda, Demon King (11th)
 - Honor-bound samurai, and mostly a kind old man. 
 - Dying wish is to let her siren mother's voice sing across the land again -> conquer. As Kyokutei, want to assist Katsuhiro in acquiring the Star.
 - Star of Astartia is his father's gift to mother, and contains her voice. Whoever wears it has a part of that power. It is a very personal heirloom.
-- Party...?
-- Plan after...?
+- Wishes to honor the deal between Katsunori and the party, and will assist the party on their heist. Does not tolerate betrayal however, and will take the star if things happen. If the party is imprisoned by Katsunori, will let them out and tell them to never come back.
+- Will act as an advisor and ambassador for Miyatsuki during the war. Will intervene and stop Katsunori from taking corruption, revealing himself as Otoeda.
+- As Otoeda, continues for the conquering of Astartia. Feels responsible for putting the pressure onto Katsunori, and will continue on for both mother and Katsunori.
+
+Emperor Horoku is almost dead. Dies as the party returns to Miyatsuki - Katsunori starts his plan of conquer.
 ## Regional Clans
 
 Miyatsuki (宫月), Miyame (宫雨), Ishihara (石原), Hanazaki (花咲)
@@ -145,6 +148,17 @@ The Siren Mother has a follower. What does she want between her little pogchamp 
 - A way to tender the storms, to calm the sirenkins and bring peace?
 - A secret directive to return to the sirenkins their heirloom?
 
+## Trials of the Maelstrom
+
+A series of trials and battles associated with Mizu'karas, that guards a path to leading the entirety of siren kind. The trials are located on three islands in the Clearwater Gulf, deep within siren territory, with a final one whose location is only revealed after passing all three.
+- Trial of Fury: Battle against Three Furies (Themed around three furies in Hades, rage, anger...). Reward is ring against dispels...
+- Trial of Discord: Battle against ??? (Themed around Profit-taker, Xaku warframe? Crab-spider?). Reward is Maelstrom Apparatus.
+- Trial of Solitude: Battle against Abyss Monarch (Themed around Brine King PoE, Deep one Thorium...?). Reward is water-breathing pendant.
+Final one:
+- Trial of Vengeance: Battle against Vengeful Shade (Miyatsuki phase 1 + charm/wild magic). Reward is Miyatsuki's Offering.
+
+Must make an offering at the final altar. Magic item or whatever...
+
 # Characters
 
 ### Miyame Kaede (宫雨 枫) "Maple"
@@ -163,3 +177,19 @@ The Siren Mother has a follower. What does she want between her little pogchamp 
 - Pseudoname used by First Mate ???, whose real identity is a phantom thief kinda character.
 - Sends invitation cards foretelling his actions. Uses same scent as the mouthwashes on board. Clue for the party.
 - Maybe the party can use the chaos to do something?
+
+# Prologue: The Sea King's Court
+
+The party gathers at the court to take on the mission. Initially briefed by Kyokutei. Warns them about Lord Miyatsuki's temper.
+
+Miyatsuki briefs the party. Straightforward - get the Star, by all means necessary. Gives no resources. Gets annoyed if the party asks too many questions... Kyokutei interjects.
+
+Kyokutei suggests visiting the tavern by the dock to look for opportunities. Comes in to sailors curb-stomping a old man. Tutorial fight... Captain agrees to fetch them to Selchar in return.
+
+Sails at noon. Immediately finds a stowaway... "Maple". Luthien is a paid passenger, first mate notable npc. Crates are mouthwash bottles. Around dusk a storm is coming. At night sirens come to attack.
+
+Day 2 cloudy. At dusk more storm. Sirens attack again - but with a huge ass serpent. Lady Ataraxia shows up to help.
+
+Day 3 arrives at Selchar.
+
+# Chapter 1: Selchar

@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Cleric - Chaos Domain
 
-The swirling random events may seem happenstance to some, luck to others, but you know the truth, it is a force, a deadly, invigorating force behind these occurrences. The power of Chaos does not reveal itself to many, but those with the will to see it, can harness its great power. 
+Throughout history, those in positions of power and greatness have once and again proclaimed themselves as paragons of order and unity; yet as time pushes on, the inevitable entropy will wash over the balance they have sought to create without exception. While this swirling maelstrom of randomness that permeates in every corner and moment of our daily lives may seem happenstance to some and luck to others, some may know it as a deadly force - Chaos. This power does not reveal itself to many willingly, but those with the keen eyes and strong wills to see it can harness its kaleidoscopic power.
 
 ## Domain Spells
 

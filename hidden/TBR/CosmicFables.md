@@ -191,7 +191,7 @@ The Newts have always known to avoid the Stream, as that is where the Jaws resid
 
 That, of course, seldomly happened, since the Newts are very dogmatic creatures. "Never cross the Stream" is the first rule among the many that they engraved upon the plaque stone that have sat on the Newt pod grounds for eons, followed by "Jaws cannot leave the Stream" and "Jaws hunt the Newts for food".
 
-It is to be expected, then, that every Newt was in such a panic when the Vessels showed up. On that one high tide, with thunderous cracklings, diamond-shaped Vessels, propelled by silky tendrils, poured down the Stream like a huge wave, dispersing the surrounding Jaws in an instant. When the waves ebb, all of the rules on the Newt's plaque is already for naught.
+It is to be expected, then, that every Newt was in such a panic when the Vessels showed up. On that one high tide, with thunderous cracklings, diamond-shaped Vessels, propelled by silky tendrils, poured down the Stream like a huge wave, dispersing the surrounding Jaws in an instant. When the waves ebb, all of the rules on the Newt's plaque are already for naught.
 
 The elder Newts gather around the plaque stone, surrounded by the adults and the youngs, discussing in quiet whispers what is to be done with the Vessels that now traverse the Stream instead. As the tide rises again, all the rules were scraped off, except for the first: "Never cross the Stream", before the elders retreat into their tidepools to contemplate.
 

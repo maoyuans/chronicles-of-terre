@@ -26,7 +26,7 @@ At 1st level, you gain proficiency with martial weapons.
 
 ## Divine Luck
 
-When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If you possess the Lucky Halfing Trait, you may instead use this power to reroll twice upon rolling a 1 and take either result. You may only benefit from this ability a number of times equal to your Wisdom modifier. You regain these uses when you finish a long rest. 
+When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. If you possess the Lucky Halfing Trait, you may instead use this power to reroll twice upon rolling a 1 and take either result. 
 
 ## Channel Divinity: Lucky Save
 

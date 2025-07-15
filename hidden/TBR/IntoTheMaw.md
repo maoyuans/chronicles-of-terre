@@ -199,3 +199,20 @@ A main concern of the villagers would be catching the attention of Trost or the 
 Trost is a high-level vengeance paladin of Glory who is gifted power by Gloria. The party is not expected to defeat him in combat - and should instead resort to persuasion and other methods to convince him to leave the village alone, or target the most important threat.
 
 ## Beyond the Maw
+
+
+
+- 一之游星已散落在空中。其为万象；世间万物向彼此间无形的扩散。
+- 二之游星在亘古之前抵达。其为太虚；万物千景在时间尽头的归宿。
+- 三之游星
+- 四之游星已然被触碰。其为多裕；以量克质，合众为一，鼠亦可胜象。
+- 五之游星孤立于虚空。其为唯识；剔除剥落杂质与疑虑，自我即为唯一的真实。
+- 六之游星于星间作壁上观。其为灵知；秉持清明探寻真理，不为道德与疯狂所动。
+- 七之游星隐匿于暗处。其为伏臣；接受自身的软弱与不堪，与雄心野望和解。
+- 八之游星从背侧袭来。其为律反；以凡人之躯妄图触及神明之万象乃无知之举。
+- 九之游星如流光般闪耀。其为纪代；忍受当下的苦难，活着为明天献上祈愿。
+- 十之游星已迷失于远方。其为追昔；与昨日携手同行，勿忘往昔之壮志与传承。
+- 十一之游星被唤至世界之里。其为巴别；通往大同的道路铺筑于人心的桥梁之上。
+- 十二之游星驰骋于繁星间。其为大混沌；不蹈覆辙，前路即为步伐所过心之所向。
+- 十三之游星闪耀于天穹之外。其为创作；故事中总会容下为其推波助澜的反派角色。
+- 十四之游星在凡人手中搏动。其为食尾蛇；万物皆变，万事皆流，此乃世间唯一的常量。
