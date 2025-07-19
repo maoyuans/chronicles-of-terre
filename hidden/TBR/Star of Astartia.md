@@ -24,8 +24,10 @@ Miyatsuki Otoeda, Demon King (11th)
 - Wishes to honor the deal between Katsunori and the party, and will assist the party on their heist. Does not tolerate betrayal however, and will take the star if things happen. If the party is imprisoned by Katsunori, will let them out and tell them to never come back.
 - Will act as an advisor and ambassador for Miyatsuki during the war. Will intervene and stop Katsunori from taking corruption, revealing himself as Otoeda.
 - As Otoeda, continues for the conquering of Astartia. Feels responsible for putting the pressure onto Katsunori, and will continue on for both mother and Katsunori.
+- Vengeance is a keyword. Otoeda swore vengeance for his mother, and aims to keep his promise - but now he has other purposes (for one living on for others, for Utako and Katsunori). Maybe additional skills if not resolved?
 
 Emperor Horoku is almost dead. Dies as the party returns to Miyatsuki - Katsunori starts his plan of conquer.
+
 ## Regional Clans
 
 Miyatsuki (宫月), Miyame (宫雨), Ishihara (石原), Hanazaki (花咲)

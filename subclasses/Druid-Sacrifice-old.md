@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Druid - Sacrifice
+title: Druid - Sacrifice (2022)
 parent: Subclasses
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 nav_exclude: true

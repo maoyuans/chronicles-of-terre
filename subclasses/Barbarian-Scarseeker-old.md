@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Barbarian - Scarseeker (Old)
+title: Barbarian - Scarseeker (2021)
 parent: Subclasses
 nav_order: 1
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."

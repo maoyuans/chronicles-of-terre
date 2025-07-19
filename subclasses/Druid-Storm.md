@@ -9,6 +9,8 @@ nav_exclude: false
 
 # Druid - Circle of the Storm
 
+*The Circle of the Storm was remade on 03/25/2024. To view the legacy version, see [Storm (2021)](Druid-Storm-old).*
+
 Wind, rain, and storm are the most primal and ferocious aspect of nature. Druids worshipping this aspect embodies the unrefined and unpredictable prowess of the storm and the sea within them.
 
 ## Tempest's Blessing
@@ -34,13 +36,11 @@ Starting at 6th level, your magics are imbued with a mighty wind that knocks you
 
 Starting at 10th level, the storms you summon brew with a vengeful rage. The lightning bolts you summon with your Eye of the Storm feature improves to dealing 1d6 lightning and 1d6 thunder damage. 
 
-Starting at 6th level, whenever you cast a spell that deals thunder or lightning damage, you can choose another enemy within 30 feet of you that was not the damaged by the spell. That enemy is struck by a minor bolt of storm, dealing 1d6 lightning and 1d6 thunder damage to them. 
+Additionally, whenever a creature within 30 ft of you hits you with an attack, you may as a reaction strike them with a bolt from your Eye of the Storm feature.
 
-## Ocean's Grace
+## Static Maelstrom
 
-Starting at 10th level, you gain the following benefits:
-- You can walk on water as if it is solid ground.
-- You can breathe underwater.
-- You gain a swim speed equal to your walking speed.
-- You can calm a naturally occurring storm to a lower intensity or cause it to dissipate.
-- Whenever you cast the Call Lightning spell while it is raining or out at sea, it is cast at one level higher than the spell slot you consumed.
+Starting at 14th level, the storm above emanates static electricity that hinders and debilitates your foes. You gain the following benefits: 
+- The range of your miniature storm and its minor bolt of lightning doubles to 20 ft and 60 ft, respectively. 
+- The storm pours heavy rain around you, and counts as difficult terrain for all enemies.
+- Enemies within the storm has disadvantage on all attack rolls and Strength, Dexterity, and Constitution saving throws.
