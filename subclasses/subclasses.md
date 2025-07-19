@@ -32,7 +32,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 ## Druid Subclasses
 
 - [Sacrifice](Druid-Sacrifice) : A circle of Yharnic druids and shamans that uses rituals and blood sacrifices to manipulate life and death to their will, a practice justified by survival instead of morality.
-- [Storm](Druid-Storm) : A circle of druids dedicated to storm, tempest, and ocean, and uses thunder and lightning to smite defilers of the sea.
+- [Storm](Druid-Storm-2025.md) : A circle of druids dedicated to storm, tempest, and ocean, and uses thunder and lightning to smite defilers of the sea.
 
 ## Fighter Subclasses
 
