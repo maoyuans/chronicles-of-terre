@@ -32,7 +32,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 ## Druid Subclasses
 
 - [Sacrifice](Druid-Sacrifice) : A circle of Yharnic druids and shamans that uses rituals and blood sacrifices to manipulate life and death to their will, a practice justified by survival instead of morality.
-- [Storm](Druid-Storm-2025.md) : A circle of druids dedicated to storm, tempest, and ocean, and uses thunder and lightning to smite defilers of the sea.
+- [Storm](Druid-Storm) : A circle of druids dedicated to storm, tempest, and ocean, and uses thunder and lightning to smite defilers of the sea.
 
 ## Fighter Subclasses
 
@@ -68,6 +68,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 
 - [Accursed Blood](Warlock-Crimson) : A pact to a horrible curse that mutilates the flesh and the mind, granting you power of blood magic, in exchange for your eventual descent into primal bloodthirsty madness.
 - [Lunar](Warlock-Lunar) : A pact to a patron that is a manifestation of the moon, granting their followers the blessing and protection of the cold night.
+- [Verdant](Warlock-Verdant) : A pact to the great fairy oak known as the Viridian Grove, granting you the power to invoke the wrath of nature, sapping and draining your enemies.
 
 ## Wizard Subclasses
 
