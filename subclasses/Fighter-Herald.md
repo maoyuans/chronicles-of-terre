@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Fighter - Battle Herald
 
-*The Battle Herald archetype was remade on 03/25/2024. To view the legacy version, see [Battle Herald (2021)](Fighter-Herald-old).*
+*The Battle Herald archetype was remade on 07/19/2025. To view the legacy version, see [Battle Herald (2021)](Fighter-Herald-old).*
 
 Even the clashes and screams on the battlefield cannot drown out your inspiring presence as a herald of battle. You know best how to inspire and motivate your companions within the chaos, rallying, commanding, and invigorating them, fueling their purpose.
 

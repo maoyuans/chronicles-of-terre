@@ -9,7 +9,7 @@ nav_exclude: false
 
 # Druid - Circle of the Storm
 
-*The Circle of the Storm was remade on 03/25/2024. To view the legacy version, see [Storm (2021)](Druid-Storm-old).*
+*The Circle of the Storm was remade on 07/19/2025. To view the legacy version, see [Storm (2021)](Druid-Storm-old).*
 
 Wind, rain, and storm are the most primal and ferocious aspect of nature. Druids worshipping this aspect embodies the unrefined and unpredictable prowess of the storm and the sea within them.
 
