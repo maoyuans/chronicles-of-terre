@@ -46,6 +46,8 @@ Your reflexes are honed to catch the lapse of concentration in your enemies. You
 
 ## Magecrafting Initiate
 
+*Qualifies as an Origin Feat for 24' rules.*
+
 You have taken interest in the technological advances of [Peran](../region/Peran), and learned a few magecrafting techniques to utilize in and out of the battlefield. 
 
 You learn two Artificer Infusions of your choice from the artificer class. You may only infuse one item with one of the infusions at a time. All other rules of artificer infusions apply.

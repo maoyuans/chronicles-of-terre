@@ -45,8 +45,14 @@ Additionally, damages of firearm attacks **does not** benefit from ability score
 
 Below is a list of standard issue basic firearms, available from most sources.
 
-| Item    | Cost   | Weight | Damage   | Properties               |
-|:--------|:-------|:-------|:---------|:-------------------------|
-| Pistol  | 60 gp  | 2 lb   | 2d4 pier | Ammo (30/90), light      |
-| Musket  | 120 gp | 8 lb   | 2d6 pier | Ammo (90/270), heavy, 2H |
-| Shotgun | 120 gp | 6 lb   | 4d4 blud | Ammo (15/30), 2H, PB     |
+| Item        | Cost   | Weight | Damage   | Properties                       |
+|:------------|:-------|:-------|:---------|:---------------------------------|
+| Flintlock   | 60 gp  | 2 lb   | 2d4 pier | Ammo (30/60), light, M:Slow      |
+| Revolver    | 90 gp  | 3 lb   | 2d4 pier | Ammo (60/120), M:Vex             |
+| Needlegun   | 220 gp | 1 lb   | 1d6 pier | Ammo (30/60), light, PB, M:Nick  |
+| Bolt-Action | 90 gp  | 6 lb  | 1d12 pier | Ammo (90/180), 2H, M:Sap         |
+| Musket      | 120 gp | 8 lb   | 2d6 pier | Ammo (90/180), heavy, 2H, M:Vex  |
+| Lowrifle    | 120 gp | 6 lb   | 2d6 blud | Ammo (60/120), 2H, M:Slow        |
+| Dual-Barrel | 120 gp | 6 lb   | 4d4 blud | Ammo (15/30), 2H, PB, M:Push     |
+| Flakgun     | 150 gp | 11 lb  | 3d4 slas | Ammo (30/60), 2H, PB, M:Graze    |
+| Sawed-Off   | 180 gp | 5 lb   | 2d8 blud | Ammo (15/30), 2H, PB, M:Sap      |
