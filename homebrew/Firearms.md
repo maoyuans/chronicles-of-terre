@@ -54,5 +54,5 @@ Below is a list of standard issue basic firearms, available from most sources.
 | Musket      | 120 gp | 8 lb   | 2d6 pier | Ammo (90/180), heavy, 2H, M:Vex  |
 | Lowrifle    | 120 gp | 6 lb   | 2d6 blud | Ammo (60/120), 2H, M:Slow        |
 | Dual-Barrel | 120 gp | 6 lb   | 4d4 blud | Ammo (15/30), 2H, PB, M:Push     |
-| Flakgun     | 150 gp | 11 lb  | 3d4 slas | Ammo (30/60), 2H, PB, M:Graze    |
-| Sawed-Off   | 180 gp | 5 lb   | 2d8 blud | Ammo (15/30), 2H, PB, M:Sap      |
+| Flakgun     | 150 gp | 11 lb  | 3d4 slas | Ammo (30/60), 2H, heavy, PB, M:Graze    |
+| Sawed-Off   | 180 gp | 5 lb   | 2d8 blud | Ammo (10/20), 2H, heavy, PB, M:Sap      |
