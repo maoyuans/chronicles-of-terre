@@ -38,7 +38,7 @@ Additionally, damages of firearm attacks **does not** benefit from ability score
 - **Ammunition**: Firearms uses bullets for ammunition unless specified, and typically have less range than bows. Most firearm ammunitions are destroyed on use. Some firearms can use specific resources as ammunition.
 - **Two-Handed**: Firearms with the two-handed property requires two hand to use. This property is relevant only when you attack with the weapon, not when you simply hold it.
 - **Light**: A light firearm is small and easy to handle, making it ideal for use when fighting with two weapons, in the hands of individuals trained in offhand firearms.
-- **Heavy**: Ceratures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
+- **Heavy**: Creatures that are Small or Tiny have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small or Tiny creature to use effectively.
 - **Point-Blank**: Firearms with the Point-Blank property can ignore disadvantage when attacking a target in melee range.
 
 ## Basic Firearms

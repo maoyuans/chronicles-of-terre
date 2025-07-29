@@ -19,6 +19,10 @@ Players who prefer increasing their attributes by two can choose a half-feat whi
 
 A list of curated homebrew feats are available at [Feats](Feats).
 
+## Blade Cantrips for Clerics (24')
+
+The following cantrips have been added to the cleric spell list: Booming Blade, Green-Flame Blade, True Strike.
+
 ## First Blood
 
 In situations in which combat is initiated by surprise, e.g. ambush or sudden hostility, one creature is allowed to take on the initiator role. Initiative is immediately rolled, but the creature automatically tops the initiative, acting before any other creature.
