@@ -69,30 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/TBR/IntoTheMaw.md",
+                "file": "subclasses/Rogue-Gunslinger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IntoTheMaw"
-            }
-          },
-          {
-            "id": "00ba040e263029e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "subclasses/Druid-Storm-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Druid-Storm-2025"
+              "title": "Rogue-Gunslinger"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,35 +222,34 @@
       "cmdr:Commander: Commit": false
     }
   },
-  "active": "00ba040e263029e8",
+  "active": "4cb06c9d4e51bea3",
   "lastOpenFiles": [
     "hidden/TBR/Star of Astartia.md",
+    "hidden/TBR/Selchar.md",
+    "Untitled.canvas",
+    "2025-04-28.md",
+    "hidden/TBR/CosmicFables.md",
+    "subclasses/Rogue-Gunslinger.md",
+    "hidden/TBR/Aspects.md",
+    "subclasses/Sorcerer-Starborne.md",
+    "subclasses/Sorcerer-Leyline.md",
+    "subclasses/Warlock-Lunar.md",
+    "subclasses/Wizard-Spellslinger.md",
+    "subclasses/Warlock-Verdant.md",
+    "subclasses/Fighter-Herald.md",
+    "subclasses/Druid-Storm.md",
+    "subclasses/Druid-Storm-old.md",
+    "hidden/TBR/IntoTheMaw.md",
     "subclasses/Druid-Storm-2025.md",
+    "subclasses/Fighter-Herald-old.md",
     "subclasses/Druid-Sacrifice-old.md",
     "subclasses/Monk-Avatars.md",
-    "hidden/TBR/CosmicFables.md",
-    "hidden/TBR/IntoTheMaw.md",
     "subclasses/Rogue-Ninja.md",
     "subclasses/Cleric-Chaos.md",
     "subclasses/Cleric-Balance.md",
     "subclasses/Cleric-Freedom.md",
     "subclasses/Cleric-Redemption.md",
     "subclasses/Cleric-Luck.md",
-    "subclasses/Cleric-Tyranny.md",
-    "hidden/TBR/Selchar.md",
-    "hidden/TBR/Aspects.md",
-    "hidden/TBR/Morne.md",
-    "hidden/TBR/Apotheosis.md",
-    "2025-04-28.md",
-    "Untitled.canvas",
-    "homebrew/Firearms.md",
-    "homebrew/Homebrew.md",
-    "region/others/Selchar.md",
-    "region/Astartia.md",
-    "history/Mineral.md",
-    "history/Calendar.md",
-    "hidden/Eternity.md",
-    "hidden/TBR/Yharonaxidus.md",
     "hidden/maps/Miyatsuki-Label.jpg",
     "hidden/TBR/Xonokonetl-img.png"
   ]

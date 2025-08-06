@@ -43,7 +43,7 @@ Further: Higumo (火云), Gongsun (公孙), Jin (锦), Tachibana (立花)
 
 An experienced heist crew that has broken many banks in Peran, and came out of retirement to take advantage of a rumored lapse in defense of the Grand Selchari. They were set up by "Black Breath", and were all caught except for one.
 
-Members are: Lucky, a stealth expert who seems to have luck on his side, at the expense of that of his friends; Boss, the mastermind and the planner; Vinderi, demolition guy who's high on fumes all the time; Ginseng, master of disguises; Gossmer, retired Peran engineer and hacker.
+Members are: Lucky, a stealth expert who seems to have luck on his side, at the expense of that of his friends; Boss, the mastermind and the planner; Vinderi, demolition guy who's high on fumes all the time; Ginseng, master of disguises; Gossmer, retired Peran engineer and hacker; Franklin, the negotiator whose very good at talking himself out of situations.
 
 Lucky was able to escape the setup. He would help the party, in hopes of breaking the Grand Selchari to prove a point, and to defeat Black Breath for betrayal.
 
@@ -104,6 +104,7 @@ Have established bases all around Selchar - often times encroaching the space of
 
 Black Breath is a member of the Acolyte of the Harbingers, a cult to the Corruption. There are cultists leading the bandits of his gang. He has also betrayed the Old Crew before, making him a personal target for Lucky.
 
+---
 # Heist Plan
 
 ## Defenses of the Grand Vault
@@ -116,7 +117,6 @@ Black Breath is a member of the Acolyte of the Harbingers, a cult to the Corrupt
 - The identity verification. As a final and most impenetrable layer of defense, a barrier of force within each vault chamber protects the storage case itself. Designed and cast by Labyrinthine high mages, this barrier is normally dormant, but once bound to an owner and activated can only be disarmed by its owner or their designated proxy, verifying their identity on a conceptual level, to prevent unauthorized access from within or without the vault.
 - A final lock. The complex but mundane mechanical lock on the storage case that is opened by a matching titanium key, given to the owner upon confirmation of storage.
 
----
 ## To Plan a Heist
 
 ### Route A: The Brute-Force
@@ -154,14 +154,55 @@ The Siren Mother has a follower. What does she want between her little pogchamp 
 
 A series of trials and battles associated with Mizu'karas, that guards a path to leading the entirety of siren kind. The trials are located on three islands in the Clearwater Gulf, deep within siren territory, with a final one whose location is only revealed after passing all three.
 - Trial of Fury: Battle against Three Furies (Themed around three furies in Hades, rage, anger...). Reward is ring against dispels...
-- Trial of Discord: Battle against ??? (Themed around Profit-taker, Xaku warframe? Crab-spider?). Reward is Maelstrom Apparatus.
+- Trial of Discord: Battle against Oracle Unbound (Themed around Profit-taker, Xaku warframe? Crab-spider?). Reward is Maelstrom Apparatus.
 - Trial of Solitude: Battle against Abyss Monarch (Themed around Brine King PoE, Deep one Thorium...?). Reward is water-breathing pendant.
 Final one:
 - Trial of Vengeance: Battle against Vengeful Shade (Miyatsuki phase 1 + charm/wild magic). Reward is Miyatsuki's Offering.
 
 Must make an offering at the final altar. Magic item or whatever...
 
-# Characters
+It is also known as...
+- Hourai, fabled island in the middle of the sea where there are means to achieve immortality;
+- *ThE oNe PiEcE* or something where it is rumored an old pirate king left his treasure.
+
+# Flames of Vengeance
+
+A main theme of the campaign is vengeance.
+- Miyatsuki Otoeda is driven in his actions vengeance against his father and for his mother.
+- Lucky is driven by vengeance against Black Breath for his crew mates.
+- Daemsan subplot: Vengeance against her old crew that abandoned and betrayed her...
+- Louis subplot: his friend's vengeance against him...?
+
+*Flames of Vengeance* is a story buff effect... attacks inflict Aflamed debuffs, dot psychic damage, and offense/defense advantages against aflamed characters...?
+
+Possible bit: Otoeda can be convinced to discard his vengeance, that he is advancing not only for vengeance but for others, s.t., Katsunori.
+
+---
+## The Daughter of Discord
+
+
+## The Little Sun of D'Amore
+
+Luciano D'Amore, human. Middle child and only son of House D'Amore of D'Alessandro of Labyrinthine. D'Amore is a family of enchantresses that only passes to female heirs, so Luci is just a fighter.
+
+Accepting the mission for honor to his family. Need to bring him challenges on that - what is he willing to do to steal from the vault? And beyond?
+- D'Alessandro would want him to steal the pendant and bring it to Labyrinthine.
+- Finishing the mission would obviously be wrong but would he honor the promise?
+
+Flames of Vengeance... dream sequence of his sisters dying?
+## The King of the Broken Flies
+
+Louis Levian, half-elf. Son of a Perani merchant family. Spent his childhood messing with street urchins and developed into a gang of bandits. Took more than he can bite and got busted, thrown into jail and bailed out, exiled and told to get money back.
+
+Accepting the mission for promise of money...
+
+Key characters: Friend and father. A complicated subplot about... the friend fleeing prison and Peran to find him and blame him for their friend's death. They can be comforted but Perani officials will be sending out the police to catch. Father only views them as business ventures and tools... very utilitarian.
+## The Queen of the Ocean March
+
+Daemsan
+## The uhh
+---
+# Side Characters
 
 ### Miyame Kaede (宫雨 枫) "Maple"
 - Side clan of Miyatsuki, follows the party under pseudoname, want to steal the Star to rise as legitimate successor of the Miyatsuki Clan.
@@ -180,6 +221,38 @@ Must make an offering at the final altar. Magic item or whatever...
 - Sends invitation cards foretelling his actions. Uses same scent as the mouthwashes on board. Clue for the party.
 - Maybe the party can use the chaos to do something?
 
+## Higumo Damien
+- Tiefling, swordsmith, part of the Higumo clan, on a regular business trip to Selchar to visit the lowtown raiders. 
+- Not particularly involved with the party unless told about their affiliation with Miyatsuki. Worried about the actions of Miyatsuki so will try to warn the party, but largely neutral.
+- Champion fighter, sure, does weaponsmith things.
+
+## Sera Shadowspark
+- Labyrinthine runaway, wanted in Miyatsuki, laying low in Selchar and doing some work for lowtown raiders.
+- Girlfailure spellslinger wizard, very similar to Kismet.
+- ...some subplot about Lady Ataraxia?
+
+## Franklin O'Sean
+- Part of Lucky's old crew, in charge of negotiations and interactions. Supposedly in jail due to Black Breath's set up, but somehow talked his way out. As he always do.
+- Yeah it's Frank Ocean. Still somewhat wanted by the authorities, but will help the party where he can by means of speech. Probably important if going for the identity theft route.
+- Mastermind rogue, giga charisma build??? Dip into bard???
+
+## Guillaume Marquois
+- An extremely french musketeer from Maltross, and an entertainer working for the Jewellers in the bath house. Also the guard of said bath house and Yoru.
+- If the party ever visits the bath house Guillaume will probably have something to do...???
+- Valor bard, uses rapier and pistol. Speaks extremely frenchly with words I make up.
+
+## Gixustraut
+- Talented gunsmith, apprentice to an apprentice of Canter, the lead designer of the Vault. Knows of a prototype weapon to break the voidsteel shell of the Vault Guardian.
+- Hiding from the authorities due to news of him knowing the weapon. Currently having authorities circling his house. Might take the party very long to find.
+- Lowtown raiders are sheltering him from the authorities; he's not on very good terms with the Jewellers.
+- Old retired adventurer, high level battlemaster, polearm user.
+
+## Vinderi
+- Explosive expert of the old crew, crazy ass old man on fumes. Very capable of breaking through anything brute-force, knows of ((some kind of magic bomb?)).
+- Absolute crazy. Absolutely on fumes. Broken out of prison during transfer to mainland by Dredgers and hidden in a deserted island. Said island is one of the three islands containing a trial of the Maelstorm.
+- Artillerist artificer. Shit ton of bombs.
+
+---
 # Prologue: The Sea King's Court
 
 The party gathers at the court to take on the mission. Initially briefed by Kyokutei. Warns them about Lord Miyatsuki's temper.
