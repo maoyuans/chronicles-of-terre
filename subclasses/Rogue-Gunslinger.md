@@ -32,4 +32,4 @@ Starting at 13th level, training in skirmishes allow you to riposte incoming att
 
 ## Double Cross
 
-Starting at 17th level, you follow up your combo attacks with fierce precision. After you make your first weapon attack each turn, your weapon attacks have advantage and ignore all damage resistances.
+Starting at 17th level, you follow up your combo attacks with fierce precision. After you make your first weapon attack each turn, your weapon attacks have advantage and ignore all damage resistances this turn.
