@@ -13,7 +13,7 @@ This page lists all character creation options that differ from the official 5th
 
 ## Choose a Race
 
-Most races from official sources are available, with a few exceptions. Consult [Demography](../Demography) for more information and your DM for approval.
+Most races from official sources are available, with a few exceptions. Consult [Demography](../demography) for more information and your DM for approval.
 
 ## Choose a Class
 

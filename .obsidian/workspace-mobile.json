@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/TBR/Star of Astartia.md",
+                "file": "history/ForgottenEmpire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Star of Astartia"
+              "title": "ForgottenEmpire"
             }
           },
           {
@@ -55,26 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hidden/TBR/Aspects.md",
+                "file": "hidden/TBR/Apotheosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aspects"
+              "title": "Apotheosis"
             }
           },
           {
-            "id": "4cb06c9d4e51bea3",
+            "id": "1d719297d87565dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subclasses/Rogue-Gunslinger.md",
+                "file": "hidden/TBR/Star of Astartia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rogue-Gunslinger"
+              "title": "Star of Astartia"
             }
           }
         ],
@@ -222,35 +222,39 @@
       "cmdr:Commander: Commit": false
     }
   },
-  "active": "4cb06c9d4e51bea3",
+  "active": "1d719297d87565dc",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "subclasses/Rogue-Gunslinger.md",
+    "hidden/TBR/Apotheosis.md",
     "hidden/TBR/Star of Astartia.md",
+    "homebrew/Crafting.md",
+    "about.md",
+    "history/ForgottenEmpire.md",
+    "homebrew/Feats.md",
+    "homebrew/Firearms.md",
+    "homebrew/Miscellaneous.md",
+    "demography.md",
+    "homebrew/Newchar.md",
+    "homebrew/PoweredWeapons.md",
+    "homebrew/Origins.md",
     "hidden/TBR/Selchar.md",
-    "Untitled.canvas",
+    "religion/patronus/patronus.md",
+    "religion/religion.md",
     "2025-04-28.md",
-    "hidden/TBR/CosmicFables.md",
+    "404.md",
     "hidden/TBR/Aspects.md",
-    "subclasses/Sorcerer-Starborne.md",
-    "subclasses/Sorcerer-Leyline.md",
-    "subclasses/Warlock-Lunar.md",
-    "subclasses/Wizard-Spellslinger.md",
-    "subclasses/Warlock-Verdant.md",
-    "subclasses/Fighter-Herald.md",
-    "subclasses/Druid-Storm.md",
-    "subclasses/Druid-Storm-old.md",
-    "hidden/TBR/IntoTheMaw.md",
-    "subclasses/Druid-Storm-2025.md",
-    "subclasses/Fighter-Herald-old.md",
-    "subclasses/Druid-Sacrifice-old.md",
-    "subclasses/Monk-Avatars.md",
-    "subclasses/Rogue-Ninja.md",
-    "subclasses/Cleric-Chaos.md",
-    "subclasses/Cleric-Balance.md",
-    "subclasses/Cleric-Freedom.md",
-    "subclasses/Cleric-Redemption.md",
-    "subclasses/Cleric-Luck.md",
+    "Untitled.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled",
+    "religion/patronus/Xbeltz'aloc.md",
+    "region/Peran.md",
+    "regions/Peran.md",
+    "regions",
+    "religion/patronus/Sylph&Faevan.md",
+    "Faevan.md",
+    "subclasses/Fighter-Sulphuric.md",
+    "region/Yharn.md",
     "hidden/maps/Miyatsuki-Label.jpg",
     "hidden/TBR/Xonokonetl-img.png"
   ]

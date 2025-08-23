@@ -31,4 +31,4 @@ It is interesting, however, that the harsh, hostile, and unforgiving environment
 
 ## Relationship with Other Deities
 
-Among the many deities of Terre, Xbeltz'aloc is one of the most mysterious ones, surrounded by mysticism, and a unique culture of those who worship him. He is vehemently opposed to traditional practices of necromancy, that of severing the soul from its normal cycle of life, and is thus in accord with druidic deities such as [Furion](../maioris/Furion) and [Faevan](Faevan) in theory. However, Xbeltz'aloci practices of reanimation and shamanic necromantic rituals are controversial among almost all other beliefs.
+Among the many deities of Terre, Xbeltz'aloc is one of the most mysterious ones, surrounded by mysticism, and a unique culture of those who worship him. He is vehemently opposed to traditional practices of necromancy, that of severing the soul from its normal cycle of life, and is thus in accord with druidic deities such as [Furion](../maioris/Furion) and [Faevan](Sylph&Faevan) in theory. However, Xbeltz'aloci practices of reanimation and shamanic necromantic rituals are controversial among almost all other beliefs.

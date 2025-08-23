@@ -32,7 +32,7 @@ While the jungles may connect Yharn closer to nature than most other regions, th
 
 Despite the dangers the day proposes, the real terror of the jungle only roam the land after nightfall. In the darkness under the canopy where no moonlight may shine into, howlings of a thousand voices can be heard, forming a symphony of tooth and claw. The jungle comes alive, as shadowy beasts move swiftly and silently beyond the walls of the villages, sweeping clean and consuming those that are unfortunate or foolish enough to be caught in their path.
 
-Within the darkness and the eyes shining with murderous intent, a watching presence can be seen: Three diamond-shaped bright red spark, from the eye sockets of the war mask of [Xbeltz'aloc](../religion/patronus/Xbeltz’aloc). The entity that the skinwalkers worship as their progenitor is also the entity that hunts them in the darkness under the canopy, a subject of fear. Perhaps such is the rule of this land, and there is nothing the mortals can do but to obey.
+Within the darkness and the eyes shining with murderous intent, a watching presence can be seen: Three diamond-shaped bright red spark, from the eye sockets of the war mask of [Xbeltz'aloc](../religion/patronus/Xbeltz'aloc). The entity that the skinwalkers worship as their progenitor is also the entity that hunts them in the darkness under the canopy, a subject of fear. Perhaps such is the rule of this land, and there is nothing the mortals can do but to obey.
 
 ## Mecatl
 

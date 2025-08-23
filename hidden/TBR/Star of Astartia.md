@@ -5,6 +5,34 @@ description: Chronicles of Terre is a medieval fantasy setting many years in the
 search_exclude: true
 nav_exclude: true
 ---
+# TODO:
+## Short Term:
+- Initial character art and statistics of starting NPCs
+- Plan opening scene
+- Plan combat in Swinging Anchor tavern with drunk sailors...?
+- Plan two combats on the boat trip towards Selchar.
+- Rumors and flairs in Swinging Anchor;
+	- About Katsunori; that he's being restless about the throne... and tragic burnt out past?
+	- About the sirens; causing trouble, strange songs, rumor of their capitol?
+	- About the treasure of an old pirate king... something to control the seas?
+- Rough stats of Scourgewater Serpent.
+- Day plans of the heist timeline; giving the party a solid time limit (3 + 8 days?).
+## Long Term:
+- Maps of Vault's museum and bank.
+- Map of the Old Crew hideout!!!???
+- Detailed timeline of the heist submissions - when, where, for how long.
+- Route map of traversing Selchar.
+- Statistics of gang grunts in Selchar.
+- Vault museum's exhibition list of items and lore...?
+- Rumors in Selchar...
+	- About Mercury Foxtail...?
+	- More siren bullshit.
+	- About gang wars in the streets; which part of town being dangerous, etc.
+- Boss fight mechanics of Trials of the Maelstrom
+- Regional map of clearwater gulf.
+- Planning for Chapter 2, in Miyatsuki.
+
+---
 # Miyatsuki
 
 Miyatsuki Katsunori, current lord (14th). 
@@ -180,7 +208,10 @@ Possible bit: Otoeda can be convinced to discard his vengeance, that he is advan
 ---
 ## The Daughter of Discord
 
+Elein, tiefling. Middle child of an Okeanosian Aristoi family, bored of life in Okeanos and sneaked out to adventure. Paladin of Mizu'karas, delusional and believing herself to be the most fortunate person out there.
 
+Accepting the mission just because... to prove that she is literally favored by fate. We will leave that to the dice, but give her storylines relating to Mizu'karas perhaps.
+- Trial of the Maelstrom...
 ## The Little Sun of D'Amore
 
 Luciano D'Amore, human. Middle child and only son of House D'Amore of D'Alessandro of Labyrinthine. D'Amore is a family of enchantresses that only passes to female heirs, so Luci is just a fighter.
@@ -193,10 +224,16 @@ Flames of Vengeance... dream sequence of his sisters dying?
 ## The King of the Broken Flies
 
 Louis Levian, half-elf. Son of a Perani merchant family. Spent his childhood messing with street urchins and developed into a gang of bandits. Took more than he can bite and got busted, thrown into jail and bailed out, exiled and told to get money back.
+- Father, Anthony, very intimidating mafia boss who does care about Louis but not very socially adequate.
+- Mother, Magnolia, jaded and missing after assassination attempts.
+- Friend, Lilly, led the urchin gang with Louis but was caught. Blamed Louis initially but quickly fallen into despair.
 
-Accepting the mission for promise of money...
-
-Key characters: Friend and father. A complicated subplot about... the friend fleeing prison and Peran to find him and blame him for their friend's death. They can be comforted but Perani officials will be sending out the police to catch. Father only views them as business ventures and tools... very utilitarian.
+Accepting the mission for promise of money, having no particular motives. 
+- A complicated subplot about... Lilly fleeing prison and Peran to find Louis and blame him for their friend's death. They can be comforted but Perani officials will be sending out the police to catch. Anthony only views them as business ventures and tools... very utilitarian.
+- The Water Cartel know of his family. If Louis shows that he's a Levian, the Cartel will aim to provide reasonable assistance; not due to name but by merit.
+- Possible mom subplot?
+- Possible test tube baby subplot?
+- Meth subplot?
 ## The Queen of the Ocean March
 
 Daemsan
@@ -268,3 +305,27 @@ Day 2 cloudy. At dusk more storm. Sirens attack again - but with a huge ass serp
 Day 3 arrives at Selchar.
 
 # Chapter 1: Selchar
+
+---
+# Gestalt Providence
+
+Medium Fey (cosmic). 425 (175 + 250) HP, 17 AC. 45 ft walk, +10 Init.
+
+Str 14 (+5), Dex 24 (+10), Con 18 (+7), Int 14 (+2), Wis 20 (+8), Cha 24 (+7)
+
+Combat:
+- Thousand Cuts
+- Leap Slam
+- Revolution
+
+Fractal Tides:
+- The Fracture
+- The Ruining
+- Fractal Burst
+- Dispersion
+- 
+
+Umbral Shores:
+- Umbral Burst
+- Fade Away
+- Simulacrum

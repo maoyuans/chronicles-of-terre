@@ -52,7 +52,7 @@ You have taken interest in the technological advances of [Peran](../region/Peran
 
 You learn two Artificer Infusions of your choice from the artificer class. You may only infuse one item with one of the infusions at a time. All other rules of artificer infusions apply.
 
-If an infusion has a level requirement, you can only choose that infusion if your levels in Artificer meet the requirement. *(That means not for now, sorry.)* Whenever you reach a level that grants an ASI, you can replace one of these Infusion options with another one.
+If an infusion has a level requirement, you can only choose that infusion if your levels in Artificer meet the requirement. Whenever you reach a level that grants an ASI, you can replace one of these Infusion options with another one.
 
 ## Poisoner
 
