@@ -183,7 +183,7 @@ The Siren Mother has a follower. What does she want between her little pogchamp 
 A series of trials and battles associated with Mizu'karas, that guards a path to leading the entirety of siren kind. The trials are located on three islands in the Clearwater Gulf, deep within siren territory, with a final one whose location is only revealed after passing all three.
 - Trial of Fury: Battle against Three Furies (Themed around three furies in Hades, rage, anger...). Reward is ring against dispels...
 - Trial of Discord: Battle against Oracle Unbound (Themed around Profit-taker, Xaku warframe? Crab-spider?). Reward is Maelstrom Apparatus.
-- Trial of Solitude: Battle against Abyss Monarch (Themed around Brine King PoE, Deep one Thorium...?). Reward is water-breathing pendant.
+- Trial of Solitude: Battle against Hermit of Abzu (Themed around Brine King PoE, Deep one Thorium...?). Reward is water-breathing pendant.
 Final one:
 - Trial of Vengeance: Battle against Vengeful Shade (Miyatsuki phase 1 + charm/wild magic). Reward is Miyatsuki's Offering.
 
@@ -305,6 +305,47 @@ Day 2 cloudy. At dusk more storm. Sirens attack again - but with a huge ass serp
 Day 3 arrives at Selchar.
 
 # Chapter 1: Selchar
+
+### Oct 5 2025
+The party visited the grand vault museum, and wanted to smash the glass. Regardless, alarm will sound and they will be escorted - mercury foxtail has sent a card.
+
+On their way home they will be waylaid by raiders, but also encountered by henchmens. Lucky will show up to help. He simply wants to prove something by breaking the vault, and revenge on perani officials as well as black breath. He will provide a hideout.
+
+The first step is to know the vault. Lucky has a personal item (a siren stone) that can pass as a valuable item... or some other idea.
+
+The party needs to solve many things:
+- How to infiltrate the guards? ...mercury foxtail incident requires improved security. Can get into employment arc.
+- How to obtain an ID card for the elevator? ...steal from someone with that. Problematic.
+- How to obtain forged documents? ...contact the jewelers.
+- How to break the shell of the vault guardian? ...the jewelers and the cartel know of the maintenance plan. The raiders and the dredgers have heard of gix or vinderi.
+- How to navigate the labyrinths? ...steal a tablet/ask lady ataraxia/lucky will find a minotaur friend.
+- How to break through the identity verification? ...no one has any idea. Ask Kyokutei.
+They need to think carefully who to ask which question to.
+
+Lucky will also inform the party of the gangs on the streets, and urge them to seek out each of them.
+- The cartel is rumored to operate out at sea / around the fracture.
+- The jewelers control over upper selchar and its high societies.
+- The raiders are at a scrapyard near the north docks.
+- The dredgers are dwelling in driftwood.
+- The henchmen are based somewhere up north... not sure where.
+
+Personal stuffs...
+- Elein... guidance towards somewhere out at sea. Her quest is a bit delayed.
+- Luciano... uhh.
+- Louis... traces of illegal substances. Need to make some drug stats for fun...?
+- Daemsan... the dredgers would have a pirate of her old crew. They shipwrecked too, their new captain drove them into another ship; a lot of them were rescued, he ended up here. They were looking for "Hourai".
+- Mori... dark beasts will come looking for him. Momoki "stole" a crimson curse and xbeltz'aloc is pissed. Also dreams about vengeance.
+
+Immediate quests...
+- Scrapyard visit. Crazy cassie likes people breaking in... pirates (mentions dredgers) and raiding jewelers for gun parts.
+- Driftwood visit. Rusthook is cautious about the party, but allows them to converse... crates of supplies (mentions cartel). Daemsan's pirate friend.
+- Investigate the fracture. Sirens ailing a stupid sailor, who after being rescued will lead the party to the cartel. Micali will be welcoming. Crates of supplies (mentions dredgers), captured son, rumors of Hourai...
+
+Maps...
+- Crew hideout;
+- Vault underground; corridor, guardian chamber, labyrinth;
+- Scrapyard map;
+- Driftwood shipwreck hull;
 
 ---
 # Gestalt Providence
