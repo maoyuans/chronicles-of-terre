@@ -17,6 +17,7 @@ nav_exclude: true
 	- About the treasure of an old pirate king... something to control the seas?
 - Rough stats of Scourgewater Serpent.
 - Day plans of the heist timeline; giving the party a solid time limit (3 + 8 days?).
+- Test test test
 ## Long Term:
 - Maps of Vault's museum and bank.
 - Map of the Old Crew hideout!!!???
