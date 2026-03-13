@@ -7,7 +7,7 @@ description: "Chronicles of Terre is a medieval fantasy setting many years in th
 nav_exclude: false
 ---
 
-# Bard - College of Elegy
+# Bard - Tradition of Elegy
 
 The few adventurers brave enough to venture into the depth of [Yharn](../region/Yharn) seldomly have time and leisure to sit down by the fire and listen to the songs of life, constantly overwhelmed by hostile wildlife at day and the swarming parade at night. Those who do find respite, however, are quickly entranced by the songs that sing out at dusk and dawn, hauntingly beautiful elegies for the deceased.
 
