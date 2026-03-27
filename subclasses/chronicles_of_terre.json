@@ -26,12 +26,12 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Spellslinger|Wizard|PHB|Spellslinger|cot|2",
-				"Firearm Training|Wizard|PHB|Spellslinger|cot|2",
-				"Conduit Ammunitions|Wizard|PHB|Spellslinger|cot|2",
-				"Far Projection|Wizard|PHB|Spellslinger|cot|6",
-				"Arcane Guidance|Wizard|PHB|Spellslinger|cot|10",
-				"Disrupting Conduit|Wizard|PHB|Spellslinger|cot|14"
+				"Spellslinger|Wizard||Spellslinger|cot|2",
+				"Firearm Training|Wizard||Spellslinger|cot|2",
+				"Conduit Ammunitions|Wizard||Spellslinger|cot|2",
+				"Far Projection|Wizard||Spellslinger|cot|6",
+				"Arcane Guidance|Wizard||Spellslinger|cot|10",
+				"Disrupting Conduit|Wizard||Spellslinger|cot|14"
 			],
 			"className": "Wizard",
 			"classSource": "PHB"
@@ -42,12 +42,12 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Pact of the Accursed Blood|Warlock|PHB|Accursed Blood|cot|1",
-				"Boiling Blood|Warlock|PHB|Accursed Blood|cot|1",
-				"Gift of the Crimson Moon|Warlock|PHB|Accursed Blood|cot|1",
-				"Overflowing Vitality|Warlock|PHB|Accursed Blood|cot|6",
-				"Transient Infusion|Warlock|PHB|Accursed Blood|cot|10",
-				"Curse of the Accursed|Warlock|PHB|Accursed Blood|cot|14"
+				"Pact of the Accursed Blood|Warlock||Accursed Blood|cot|1",
+				"Boiling Blood|Warlock||Accursed Blood|cot|1",
+				"Gift of the Crimson Moon|Warlock||Accursed Blood|cot|1",
+				"Overflowing Vitality|Warlock||Accursed Blood|cot|6",
+				"Transient Infusion|Warlock||Accursed Blood|cot|10",
+				"Curse of the Accursed|Warlock||Accursed Blood|cot|14"
 			],
 			"className": "Warlock",
 			"classSource": "PHB"
@@ -58,14 +58,14 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Domain Spells|Cleric|PHB|Chaos Domain|cot|1",
-				"Eldritch Gift|Cleric|PHB|Chaos Domain|cot|1",
-				"Sorcerous Gift|Cleric|PHB|Chaos Domain|cot|1",
-				"Magical Pandemonium|Cleric|PHB|Chaos Domain|cot|1",
-				"Channel Divinity: Chaos Pulse|Cleric|PHB|Chaos Domain|cot|2",
-				"Gift of Misfortune|Cleric|PHB|Chaos Domain|cot|6",
-				"Potent Spellcasting|Cleric|PHB|Chaos Domain|cot|8",
-				"Chaos Ultimatum|Cleric|PHB|Chaos Domain|cot|17"
+				"Domain Spells|Cleric||Chaos Domain|cot|1",
+				"Eldritch Gift|Cleric||Chaos Domain|cot|1",
+				"Sorcerous Gift|Cleric||Chaos Domain|cot|1",
+				"Magical Pandemonium|Cleric||Chaos Domain|cot|1",
+				"Channel Divinity: Chaos Pulse|Cleric||Chaos Domain|cot|2",
+				"Gift of Misfortune|Cleric||Chaos Domain|cot|6",
+				"Potent Spellcasting|Cleric||Chaos Domain|cot|8",
+				"Chaos Ultimatum|Cleric||Chaos Domain|cot|17"
 			],
 			"className": "Cleric",
 			"classSource": "PHB"
@@ -76,12 +76,12 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Rallying Cry|Fighter|PHB|Herald|cot|3",
-				"Expanded Tactics|Fighter|PHB|Herald|cot|3",
-				"Morale Support|Fighter|PHB|Herald|cot|7",
-				"Inspiring Surge|Fighter|PHB|Herald|cot|10",
-				"Ready to Strike|Fighter|PHB|Herald|cot|15",
-				"Divinely Favored|Fighter|PHB|Herald|cot|18"
+				"Rallying Cry|Fighter||Herald|cot|3",
+				"Expanded Tactics|Fighter||Herald|cot|3",
+				"Morale Support|Fighter||Herald|cot|7",
+				"Inspiring Surge|Fighter||Herald|cot|10",
+				"Ready to Strike|Fighter||Herald|cot|15",
+				"Divinely Favored|Fighter||Herald|cot|18"
 			],
 			"className": "Fighter",
 			"classSource": "PHB"
@@ -92,11 +92,11 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Skirmish Trainings|Rogue|PHB|Gunslinger|cot|3",
-				"Steel and Sulphur|Rogue|PHB|Gunslinger|cot|3",
-				"Serrated Crescendo|Rogue|PHB|Gunslinger|cot|9",
-				"Duelist's Riposte|Rogue|PHB|Gunslinger|cot|13",
-				"Double Cross|Rogue|PHB|Gunslinger|cot|17"
+				"Skirmish Trainings|Rogue||Gunslinger|cot|3",
+				"Steel and Sulphur|Rogue||Gunslinger|cot|3",
+				"Serrated Crescendo|Rogue||Gunslinger|cot|9",
+				"Duelist's Riposte|Rogue||Gunslinger|cot|13",
+				"Double Cross|Rogue||Gunslinger|cot|17"
 			],
 			"className": "Rogue",
 			"classSource": "PHB"
