@@ -330,6 +330,51 @@
 			]
 		},
 		{
+			"name": "Chaos Domain",
+			"source": "cot",
+			"page": 1,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "cot",
+			"level": 1,
+			"entries": [
+				"Description of the Chaos Domain subclass.",
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Domain Spells|Cleric||Chaos Domain|cot|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Eldritch Gift|Cleric||Chaos Domain|cot|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Sorcerous Gift|Cleric||Chaos Domain|cot|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Magical Pandemonium|Cleric||Chaos Domain|cot|1"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Channel Divinity: Chaos Pulse|Cleric||Chaos Domain|cot|2"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Gift of Misfortune|Cleric||Chaos Domain|cot|6"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Potent Spellcasting|Cleric||Chaos Domain|cot|8"
+				},
+				{
+					"type": "refSubclassFeature",
+					"subclassFeature": "Chaos Ultimatum|Cleric||Chaos Domain|cot|17"
+				}
+			]
+		},
+		{
 			"name": "Domain Spells",
 			"source": "cot",
 			"page": 0,
