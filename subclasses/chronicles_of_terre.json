@@ -25,6 +25,7 @@
 			"name": "Spellslinger",
 			"shortName": "Spellslinger",
 			"source": "cot",
+			"edition": "classic",
 			"page": 1,
 			"subclassFeatures": [
 				"Spellslinger|Wizard||Spellslinger|cot|2",
@@ -41,6 +42,7 @@
 			"name": "Pact of the Accursed Blood",
 			"shortName": "Accursed Blood",
 			"source": "cot",
+			"edition": "classic",
 			"page": 1,
 			"subclassFeatures": [
 				"Pact of the Accursed Blood|Warlock||Accursed Blood|cot|3",
@@ -57,6 +59,7 @@
 			"name": "Chaos Domain",
 			"shortName": "Chaos Domain",
 			"source": "cot",
+			"edition": "classic",
 			"page": 1,
 			"subclassFeatures": [
 				"Domain Spells|Cleric||Chaos Domain|cot|1",
@@ -75,6 +78,7 @@
 			"name": "Battle Herald",
 			"shortName": "Herald",
 			"source": "cot",
+			"edition": "classic",
 			"page": 1,
 			"subclassFeatures": [
 				"Rallying Cry|Fighter||Herald|cot|3",
@@ -91,6 +95,7 @@
 			"name": "Gunslinger",
 			"shortName": "Gunslinger",
 			"source": "cot",
+			"edition": "classic",
 			"page": 1,
 			"subclassFeatures": [
 				"Skirmish Trainings|Rogue||Gunslinger|cot|3",
