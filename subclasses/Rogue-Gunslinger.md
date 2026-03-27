@@ -17,11 +17,13 @@ When you take this archetype at 3rd level, you gain proficiency in (exotic) fire
 
 ## Steel and Sulphur
 
-Starting at 3rd level, your finesse and agility allows you to weave in sidearm attacks in between quick strikes. When you use the attack action and attack with a finesse one-handed melee weapon, you can use a bonus action to attack with a light firearm you are holding. 
+Starting at 3rd level, your finesse and agility allows you to weave in sidearm attacks in between quick strikes. When you use the attack action and attack with a finesse one-handed melee weapon, you can use a bonus action to attack the same target with a light firearm you are holding. You may choose to move 5 ft away from the target as part of the firearm attack; this movement does not provoke attacks of opportunity, unless you choose to.
 
-## Serrated Crescendo
+## Trick Shot
 
-Starting at 9th level, you learn to dance the lines between danger and safety on the battlefield. Whenever you attack a target with a melee weapon attack, you may move 10 ft towards the target as part of the attack. Whenever you hit a target within 5 ft of you with a ranged weapon attack, you may move 10 ft away from the target as part of the attack. Both movements do not provoke attacks of opportunity, unless you choose to.
+Starting at 9th level, you learn to strike your enemies from odd angles, hitting spots where they least expect. You gain the following features:
+- ***Cunning Strike: Ricochet (Cost: 3d6)***. Can only be triggered with a firearm attack. You make an additional attack against a target within 30 ft and within line of sight of your first target. You do not need line of sight to the additional target. Sneak Attack may apply to the additional target as well, deducting the cost of *Cunning Strike: Ricochet*.
+- ***Coin Trick***. As an item interaction, you may toss a counterfeit coin towards a point you can see within 30 ft of you. The coin has 10 AC, 1 hitpoint, and falls to the ground and disappears at the end of your turn. You may always apply *Cunning Strike: Ricochet* without a die cost when attacking the counterfeit coin.
 
 ## Duelist's Riposte
 
