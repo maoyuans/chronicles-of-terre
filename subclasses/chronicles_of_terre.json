@@ -2,8 +2,8 @@
 	"_meta": {
 		"sources": [
 			{
-				"json": "CoT",
-				"abbreviation": "CoT",
+				"json": "cot",
+				"abbreviation": "cot",
 				"full": "Chronicles of Terre",
 				"authors": [
 					"YuuSama"
@@ -23,15 +23,15 @@
 		{
 			"name": "Spellslinger",
 			"shortName": "Spellslinger",
-			"source": "CoT",
+			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Spellslinger|Wizard|PHB|Spellslinger|CoT|2",
-				"Firearm Training|Wizard|PHB|Spellslinger|CoT|2",
-				"Conduit Ammunitions|Wizard|PHB|Spellslinger|CoT|2",
-				"Far Projection|Wizard|PHB|Spellslinger|CoT|6",
-				"Arcane Guidance|Wizard|PHB|Spellslinger|CoT|10",
-				"Disrupting Conduit|Wizard|PHB|Spellslinger|CoT|14"
+				"Spellslinger|Wizard|PHB|Spellslinger|cot|2",
+				"Firearm Training|Wizard|PHB|Spellslinger|cot|2",
+				"Conduit Ammunitions|Wizard|PHB|Spellslinger|cot|2",
+				"Far Projection|Wizard|PHB|Spellslinger|cot|6",
+				"Arcane Guidance|Wizard|PHB|Spellslinger|cot|10",
+				"Disrupting Conduit|Wizard|PHB|Spellslinger|cot|14"
 			],
 			"className": "Wizard",
 			"classSource": "PHB"
@@ -39,15 +39,15 @@
 		{
 			"name": "Pact of the Accursed Blood",
 			"shortName": "Accursed Blood",
-			"source": "CoT",
+			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Pact of the Accursed Blood|Warlock|PHB|Accursed Blood|CoT|1",
-				"Boiling Blood|Warlock|PHB|Accursed Blood|CoT|1",
-				"Gift of the Crimson Moon|Warlock|PHB|Accursed Blood|CoT|1",
-				"Overflowing Vitality|Warlock|PHB|Accursed Blood|CoT|6",
-				"Transient Infusion|Warlock|PHB|Accursed Blood|CoT|10",
-				"Curse of the Accursed|Warlock|PHB|Accursed Blood|CoT|14"
+				"Pact of the Accursed Blood|Warlock|PHB|Accursed Blood|cot|1",
+				"Boiling Blood|Warlock|PHB|Accursed Blood|cot|1",
+				"Gift of the Crimson Moon|Warlock|PHB|Accursed Blood|cot|1",
+				"Overflowing Vitality|Warlock|PHB|Accursed Blood|cot|6",
+				"Transient Infusion|Warlock|PHB|Accursed Blood|cot|10",
+				"Curse of the Accursed|Warlock|PHB|Accursed Blood|cot|14"
 			],
 			"className": "Warlock",
 			"classSource": "PHB"
@@ -55,17 +55,17 @@
 		{
 			"name": "Chaos Domain",
 			"shortName": "Chaos Domain",
-			"source": "CoT",
+			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Domain Spells|Cleric|PHB|Chaos Domain|CoT|1",
-				"Eldritch Gift|Cleric|PHB|Chaos Domain|CoT|1",
-				"Sorcerous Gift|Cleric|PHB|Chaos Domain|CoT|1",
-				"Magical Pandemonium|Cleric|PHB|Chaos Domain|CoT|1",
-				"Channel Divinity: Chaos Pulse|Cleric|PHB|Chaos Domain|CoT|2",
-				"Gift of Misfortune|Cleric|PHB|Chaos Domain|CoT|6",
-				"Potent Spellcasting|Cleric|PHB|Chaos Domain|CoT|8",
-				"Chaos Ultimatum|Cleric|PHB|Chaos Domain|CoT|17"
+				"Domain Spells|Cleric|PHB|Chaos Domain|cot|1",
+				"Eldritch Gift|Cleric|PHB|Chaos Domain|cot|1",
+				"Sorcerous Gift|Cleric|PHB|Chaos Domain|cot|1",
+				"Magical Pandemonium|Cleric|PHB|Chaos Domain|cot|1",
+				"Channel Divinity: Chaos Pulse|Cleric|PHB|Chaos Domain|cot|2",
+				"Gift of Misfortune|Cleric|PHB|Chaos Domain|cot|6",
+				"Potent Spellcasting|Cleric|PHB|Chaos Domain|cot|8",
+				"Chaos Ultimatum|Cleric|PHB|Chaos Domain|cot|17"
 			],
 			"className": "Cleric",
 			"classSource": "PHB"
@@ -73,15 +73,15 @@
 		{
 			"name": "Battle Herald",
 			"shortName": "Herald",
-			"source": "CoT",
+			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Rallying Cry|Fighter|PHB|Herald|CoT|3",
-				"Expanded Tactics|Fighter|PHB|Herald|CoT|3",
-				"Morale Support|Fighter|PHB|Herald|CoT|7",
-				"Inspiring Surge|Fighter|PHB|Herald|CoT|10",
-				"Ready to Strike|Fighter|PHB|Herald|CoT|15",
-				"Divinely Favored|Fighter|PHB|Herald|CoT|18"
+				"Rallying Cry|Fighter|PHB|Herald|cot|3",
+				"Expanded Tactics|Fighter|PHB|Herald|cot|3",
+				"Morale Support|Fighter|PHB|Herald|cot|7",
+				"Inspiring Surge|Fighter|PHB|Herald|cot|10",
+				"Ready to Strike|Fighter|PHB|Herald|cot|15",
+				"Divinely Favored|Fighter|PHB|Herald|cot|18"
 			],
 			"className": "Fighter",
 			"classSource": "PHB"
@@ -89,14 +89,14 @@
 		{
 			"name": "Gunslinger",
 			"shortName": "Gunslinger",
-			"source": "CoT",
+			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Skirmish Trainings|Rogue|PHB|Gunslinger|CoT|3",
-				"Steel and Sulphur|Rogue|PHB|Gunslinger|CoT|3",
-				"Serrated Crescendo|Rogue|PHB|Gunslinger|CoT|9",
-				"Duelist's Riposte|Rogue|PHB|Gunslinger|CoT|13",
-				"Double Cross|Rogue|PHB|Gunslinger|CoT|17"
+				"Skirmish Trainings|Rogue|PHB|Gunslinger|cot|3",
+				"Steel and Sulphur|Rogue|PHB|Gunslinger|cot|3",
+				"Serrated Crescendo|Rogue|PHB|Gunslinger|cot|9",
+				"Duelist's Riposte|Rogue|PHB|Gunslinger|cot|13",
+				"Double Cross|Rogue|PHB|Gunslinger|cot|17"
 			],
 			"className": "Rogue",
 			"classSource": "PHB"
@@ -105,12 +105,12 @@
 	"subclassFeature":[
 		{
 			"name": "Spellslinger",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 2,
 			"entries": [
 				"Despite a plethora of spellcasters utilizing magecrafted firearms to enhance their fire power, some others prefer good old-fashioned gunslinging, using their trusty steel and sulphur to guide their arcane energies."
@@ -118,12 +118,12 @@
 		},
 		{
 			"name": "Firearm Training",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 2,
 			"header": 2,
 			"entries": [
@@ -132,12 +132,12 @@
 		},
 		{
 			"name": "Conduit Ammunitions",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 2,
 			"header": 2,
 			"entries": [
@@ -147,12 +147,12 @@
 		},
 		{
 			"name": "Far Projection",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -161,12 +161,12 @@
 		},
 		{
 			"name": "Arcane Guidance",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -177,12 +177,12 @@
 		},
 		{
 			"name": "Disrupting Conduit",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Wizard",
 			"classSource": "PHB",
 			"subclassShortName": "Spellslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -191,12 +191,12 @@
 		},
 		{
 			"name": "Pact of the Accursed Blood",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"entries": [
 				"A horrible curse lurks within your blood, waiting patiently for the day you finally give in to its intoxicating power. Known to the world as only ‘The Crimson Curse’, this influence plagues men and beasts alike, warping the body and breaking the mind, turing them into blood-thirsty creatures knowing only destruction and primal fury.",
@@ -249,12 +249,12 @@
 		},
 		{
 			"name": "Boiling Blood",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"header": 2,
 			"entries": [
@@ -263,12 +263,12 @@
 		},
 		{
 			"name": "Gift of the Crimson Moon",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"header": 2,
 			"entries": [
@@ -279,12 +279,12 @@
 		},
 		{
 			"name": "Overflowing Vitality",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -295,12 +295,12 @@
 		},
 		{
 			"name": "Transient Infusion",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -309,12 +309,12 @@
 		},
 		{
 			"name": "Curse of the Accursed",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Warlock",
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -325,12 +325,12 @@
 		},
 		{
 			"name": "Domain Spells",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"header": 2,
 			"entries": [
@@ -373,12 +373,12 @@
 		},
 		{
 			"name": "Eldritch Gift",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"entries": [
 				"You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric cantrip, with Wisdom as your spellcasting ability."
@@ -386,12 +386,12 @@
 		},
 		{
 			"name": "Sorcerous Gift",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"entries": [
 				"*1st level optional feature, replaces Eldrtich Gift.*",
@@ -400,12 +400,12 @@
 		},
 		{
 			"name": "Magical Pandemonium",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 1,
 			"entries": [
 				"When you choose this domain at 1st level, the magical energy you wield becomes unpredictable. As a bonus action, you can expend a spell slot of any level to cast a random eligible spell (from any spell list) with base level equal to the slot expended. You do not choose the spell cast, but you may choose how the spell is cast. For a spell to be eligible, it must have a cast time of an action or a bonus action, and must not consume material components."
@@ -413,12 +413,12 @@
 		},
 		{
 			"name": "Channel Divinity: Chaos Pulse",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 2,
 			"entries": [
 				"Starting at 2nd level, you can use your Channel Divinity class feature to incite chaos. When you hit a creature with Chaos Bolt, you can use Channel Divinity to trigger its leaping effect once, plus one additional time per level of the spell slot expended."
@@ -426,12 +426,12 @@
 		},
 		{
 			"name": "Gift of Misfortune",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 6,
 			"entries": [
 				"Starting at 6th level, whenever you have disadvantage on an attack roll, your damage is rolled with advantage for the associated attack."
@@ -439,12 +439,12 @@
 		},
 		{
 			"name": "Potent Spellcasting",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 8,
 			"entries": [
 				"Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip."
@@ -452,12 +452,12 @@
 		},
 		{
 			"name": "Chaos Ultimatum",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Cleric",
 			"classSource": "PHB",
 			"subclassShortName": "Chaos Domain",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 17,
 			"entries": [
 				"Starting at 17th level, your presence alone can alter the fate of others, adding uncertainty to what would seem like destined success. Whenever a creature within 60 ft of you makes an attack roll, ability check, or saving throw, you may as a reaction impose absolute disadvantage on the roll."
@@ -465,12 +465,12 @@
 		},
 		{
 			"name": "Rallying Cry",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 3,
 			"entries": [
 				"Starting at 3rd level, you learn how to inspire your allies to fight on past their injuries. When you use your Second Wind class feature to recover hit points, all allies that can see or hear you within 30 feet gain temporary hit points equal to the amount recovered."
@@ -478,12 +478,12 @@
 		},
 		{
 			"name": "Expanded Tactics",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 3,
 			"entries": [
 				"When you choose this archetype at 3rd level, you learn other methods to deal with conflict. You gain proficiency with Persuasion and Performance."
@@ -491,12 +491,12 @@
 		},
 		{
 			"name": "Morale Support",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 7,
 			"entries": [
 				"Starting at 7th level, words of encouragement flow from you naturally, granting your allies a boost in confidence. Whenever an ally you can see within 30 ft of you makes an attack roll, ability check, or saving throw, you may use your reaction to add 1d8 to the roll. You may choose to do so after the roll, but before the result is revealed. A creature cannot benefit from this feature and Bardic Inspiration at the same time.",
@@ -505,12 +505,12 @@
 		},
 		{
 			"name": "Inspiring Surge",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 10,
 			"entries": [
 				"Starting at 10th level, your orders inspire in your allies a surge of power. When you use your Action Surge class feature, you can choose a number of allies equal to your Intelligence modifier (minimum of 1) within 30 feet of you. The chosen allies can make one melee or ranged weapon attack with their reaction, provided that they can see or hear you."
@@ -518,12 +518,12 @@
 		},
 		{
 			"name": "Ready to Strike",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 15,
 			"entries": [
 				"Starting at 15th level, you stand ready for the upcoming battle together with your friends. Whenever initiative is rolled, you may choose to activate your Second Wind feature. If you do so, you and all affected allies gain advantage on this initiative roll."
@@ -531,12 +531,12 @@
 		},
 		{
 			"name": "Divinely Favored",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Fighter",
 			"classSource": "PHB",
 			"subclassShortName": "Herald",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 18,
 			"entries": [
 				"Starting at 18th level, your presence on the battlefield earns you the favor of even the gods of war and battle. While an ally has temporary hit points granted by your Rallying Cry feature, they are affected by the Bless spell."
@@ -544,12 +544,12 @@
 		},
 		{
 			"name": "Skirmish Trainings",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Rogue",
 			"classSource": "PHB",
 			"subclassShortName": "Gunslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 3,
 			"entries": [
 				"When you take this archetype at 3rd level, you gain proficiency in (exotic) firearms. Additionally, firearms you wield gain the Point-Blank property."
@@ -557,12 +557,12 @@
 		},
 		{
 			"name": "Steel and Sulphur",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Rogue",
 			"classSource": "PHB",
 			"subclassShortName": "Gunslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 3,
 			"entries": [
 				"Starting at 3rd level, your finesse and agility allows you to weave in sidearm attacks in between quick strikes. When you use the attack action and attack with a finesse one-handed melee weapon, you can use a bonus action to attack with a light firearm you are holding."
@@ -570,12 +570,12 @@
 		},
 		{
 			"name": "Serrated Crescendo",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Rogue",
 			"classSource": "PHB",
 			"subclassShortName": "Gunslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 9,
 			"entries": [
 				"Starting at 9th level, you learn to dance the lines between danger and safety on the battlefield. Whenever you attack a target with a melee weapon attack, you may move 10 ft towards the target as part of the attack. Whenever you hit a target within 5 ft of you with a ranged weapon attack, you may move 10 ft away from the target as part of the attack. Both movements do not provoke attacks of opportunity, unless you choose to."
@@ -583,12 +583,12 @@
 		},
 		{
 			"name": "Duelist's Riposte",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Rogue",
 			"classSource": "PHB",
 			"subclassShortName": "Gunslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 13,
 			"entries": [
 				"Starting at 13th level, training in skirmishes allow you to riposte incoming attacks with a deadly flourish. You gain the following features:",
@@ -599,12 +599,12 @@
 		},
 		{
 			"name": "Double Cross",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"className": "Rogue",
 			"classSource": "PHB",
 			"subclassShortName": "Gunslinger",
-			"subclassSource": "CoT",
+			"subclassSource": "cot",
 			"level": 17,
 			"entries": [
 				"Starting at 17th level, you follow up your combo attacks with fierce precision. After you make your first weapon attack each turn, your weapon attacks have advantage and ignore all damage resistances this turn."
@@ -614,7 +614,7 @@
 	"monster":[
 		{
 			"name": "Xonokonetl",
-			"source": "CoT",
+			"source": "cot",
 			"page": 0,
 			"size": [
 				"L"
