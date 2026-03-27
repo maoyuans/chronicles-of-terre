@@ -1,0 +1,897 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "CoT",
+				"abbreviation": "CoT",
+				"full": "Chronicles of Terre",
+				"authors": [
+					"YuuSama"
+				],
+				"convertedBy": [
+					"YuuSama"
+				],
+				"version": "2025.7",
+				"url": "https://chroniclesofterre.com"
+			}
+		],
+		"dateAdded": 1544270276,
+		"dateLastModified": 1544270276,
+		"_dateLastModifiedHash": "9e8fedf223"
+	},
+	"subclass": [
+		{
+			"name": "Spellslinger",
+			"shortName": "Spellslinger",
+			"source": "CoT",
+			"page": 1,
+			"subclassFeatures": [
+				"Spellslinger|Wizard|PHB|Spellslinger|CoT|2",
+				"Firearm Training|Wizard|PHB|Spellslinger|CoT|2",
+				"Conduit Ammunitions|Wizard|PHB|Spellslinger|CoT|2",
+				"Far Projection|Wizard|PHB|Spellslinger|CoT|6",
+				"Arcane Guidance|Wizard|PHB|Spellslinger|CoT|10",
+				"Disrupting Conduit|Wizard|PHB|Spellslinger|CoT|14"
+			],
+			"className": "Wizard",
+			"classSource": "PHB"
+		},
+		{
+			"name": "Pact of the Accursed Blood",
+			"shortName": "Accursed Blood",
+			"source": "CoT",
+			"page": 1,
+			"subclassFeatures": [
+				"Pact of the Accursed Blood|Warlock|PHB|Accursed Blood|CoT|1",
+				"Boiling Blood|Warlock|PHB|Accursed Blood|CoT|1",
+				"Gift of the Crimson Moon|Warlock|PHB|Accursed Blood|CoT|1",
+				"Overflowing Vitality|Warlock|PHB|Accursed Blood|CoT|6",
+				"Transient Infusion|Warlock|PHB|Accursed Blood|CoT|10",
+				"Curse of the Accursed|Warlock|PHB|Accursed Blood|CoT|14"
+			],
+			"className": "Warlock",
+			"classSource": "PHB"
+		},
+		{
+			"name": "Chaos Domain",
+			"shortName": "Chaos Domain",
+			"source": "CoT",
+			"page": 1,
+			"subclassFeatures": [
+				"Domain Spells|Cleric|PHB|Chaos Domain|CoT|1",
+				"Eldritch Gift|Cleric|PHB|Chaos Domain|CoT|1",
+				"Sorcerous Gift|Cleric|PHB|Chaos Domain|CoT|1",
+				"Magical Pandemonium|Cleric|PHB|Chaos Domain|CoT|1",
+				"Channel Divinity: Chaos Pulse|Cleric|PHB|Chaos Domain|CoT|2",
+				"Gift of Misfortune|Cleric|PHB|Chaos Domain|CoT|6",
+				"Potent Spellcasting|Cleric|PHB|Chaos Domain|CoT|8",
+				"Chaos Ultimatum|Cleric|PHB|Chaos Domain|CoT|17"
+			],
+			"className": "Cleric",
+			"classSource": "PHB"
+		},
+		{
+			"name": "Battle Herald",
+			"shortName": "Herald",
+			"source": "CoT",
+			"page": 1,
+			"subclassFeatures": [
+				"Rallying Cry|Fighter|PHB|Herald|CoT|3",
+				"Expanded Tactics|Fighter|PHB|Herald|CoT|3",
+				"Morale Support|Fighter|PHB|Herald|CoT|7",
+				"Inspiring Surge|Fighter|PHB|Herald|CoT|10",
+				"Ready to Strike|Fighter|PHB|Herald|CoT|15",
+				"Divinely Favored|Fighter|PHB|Herald|CoT|18"
+			],
+			"className": "Fighter",
+			"classSource": "PHB"
+		},
+		{
+			"name": "Gunslinger",
+			"shortName": "Gunslinger",
+			"source": "CoT",
+			"page": 1,
+			"subclassFeatures": [
+				"Skirmish Trainings|Rogue|PHB|Gunslinger|CoT|3",
+				"Steel and Sulphur|Rogue|PHB|Gunslinger|CoT|3",
+				"Serrated Crescendo|Rogue|PHB|Gunslinger|CoT|9",
+				"Duelist's Riposte|Rogue|PHB|Gunslinger|CoT|13",
+				"Double Cross|Rogue|PHB|Gunslinger|CoT|17"
+			],
+			"className": "Rogue",
+			"classSource": "PHB"
+		}
+	],
+	"subclassFeature":[
+		{
+			"name": "Spellslinger",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 2,
+			"entries": [
+				"Despite a plethora of spellcasters utilizing magecrafted firearms to enhance their fire power, some others prefer good old-fashioned gunslinging, using their trusty steel and sulphur to guide their arcane energies."
+			]
+		},
+		{
+			"name": "Firearm Training",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 2,
+			"header": 2,
+			"entries": [
+				"When you choose the arcane tradition at 2nd level, you gain proficiency in firearms."
+			]
+		},
+		{
+			"name": "Conduit Ammunitions",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 2,
+			"header": 2,
+			"entries": [
+				"Starting at 2nd level, you devise a special arcane circuit, which you can engrave on a firearm to aid you in spellcasting. The engraving process takes 8 hours, and must be done on each firearm individually.",
+				"The engraving enchants ammunitions fired by the firearm into conduits for your arcane prowess. Whenever you use the Attack action to attack with an engraved firearm and hits, you can cast an eligible spell as a bonus action on the same target, even if the spell normally requires an action. To be eligible, a spell must target only one creature. The ammunition fired is considered an arcane focus for this casting."
+			]
+		},
+		{
+			"name": "Far Projection",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"Starting at 6th level, attacking at long range does not impose disadvantage on your ranged weapon attack rolls. Additionally, spells casted with the Conduit Ammunitions feature ignores range restrictions."
+			]
+		},
+		{
+			"name": "Arcane Guidance",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"Starting at 10th level, you learn to enchant your shots to self-correct onto their target. When you make an ranged weapon attack roll with an engraved firearm, you may expend a spell slot to roll an additional d20, and choose which one to use. You may do this before or after making the attack roll, but before any effects of the attack are applied.",
+				"For each level of the expended spell slot above 1st, the attack deals an additional 1d8 force damage.",
+				"Once you use this feature, you must finish a short or long rest to do so again."
+			]
+		},
+		{
+			"name": "Disrupting Conduit",
+			"source": "CoT",
+			"page": 0,
+			"className": "Wizard",
+			"classSource": "PHB",
+			"subclassShortName": "Spellslinger",
+			"subclassSource": "CoT",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"Starting at 14th level, creatures hit by your ranged weapon attacks with an engraved firearm has disadvantage on the next saving throw against your spells until the end of your next round."
+			]
+		},
+		{
+			"name": "Pact of the Accursed Blood",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 1,
+			"entries": [
+				"A horrible curse lurks within your blood, waiting patiently for the day you finally give in to its intoxicating power. Known to the world as only ‘The Crimson Curse’, this influence plagues men and beasts alike, warping the body and breaking the mind, turing them into blood-thirsty creatures knowing only destruction and primal fury.",
+				"You have contracted this curse, whether by misfortune, forced, or out of conscious pursuit of power, but no matter the motives, you have managed to quell the maddening influence of the Curse, establish a symbiosis, and keep your sanity for now. In return, it grants you fascinating power of blood, infusing it with eldritch magic beyond comprehension.",
+				"Make no mistake of finding comfort in this newfound power, however, as you are a monster, a freak of nature, rejected by society and morality. And whatever mistake you make, remember foundly to not give in to this parasitic power.",
+				"DO NOT GIVE IN",
+				"DO NOT GIVE IN",
+				"Ḋ̶̢̡̛̛̟͙̦͋͌̒̎̽̇̈͆̚͝Ơ̴̹͇̻͚̥̙͈̠̫̻͕͓̳͙͙̮͆̈́̇̒̐͂̿̃̒̾̌̅̈́͒̿͘̚̕͜ͅ ̷̡̡̪̣̰̤̱̮̟̦̣̬̖̹̖̹̻̟̮̪́̍͆̍̈́͠͝N̴̡̬̖̞̙̬̳̙̯͚̮̩̲̓O̶̧̹͉̬̪͈̬̠̞͗̈̽̃͛͝ͅŢ̴̡̛̛͎͓̠̖̬̗͍͎͔̮͕͙̫̻͖̰̺̬̘̏́̊̓̎̓̂͒̆́̇̚͠͠ ̵̨̹̩͊̿̇́̃̓̌̆͒̉̾͗̈́Ģ̴̘̠͘Í̶̡̨̲̳̥͍̦͙̗̣͔̫̅͗̒͊͘ͅͅV̶̭̝͚͚̻̖̱͍͎̳̙̭̞̤͖̟͈̄͌͗͋̿̂́̓̒̓̿̇̎̔̉͛̇̒̍̕Ę̵̡̝̳̥̳͎̖͎̻͙̆̎̈́̒̀̿ͅ ̶̛̺̠̗̦̽͂̌̈̊͋̚ͅḬ̴̛̱̦͇̖̄͂̓̋͌͛̅͂̔̚͝Ň̸̖̬̰̞̟̻̘̹̻̪͙̀̾̐̒́̆̏̀̀̓̈͘ ",
+				{
+					"name": "Expanded Spell List",
+					"entries": [
+						"Your accursed blood lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+						{
+							"type": "table",
+							"caption": "Accursed Blood Expanded Spells",
+							"colLabels": [
+								"Spell Level",
+								"Spells"
+							],
+							"colStyles": [
+								"col-3 text-center",
+								"col-9"
+							],
+							"rows": [
+								[
+									"1st",
+									"{@spell false life}, {@spell inflict wounds}"
+								],
+								[
+									"2nd",
+									"{@spell alter self}, {@spell wither and bloom}"
+								],
+								[
+									"3rd",
+									"{@spell bestow curse}, {@spell revivify}"
+								],
+								[
+									"4th",
+									"{@spell dominate beast}, {@spell polymorph}"
+								],
+								[
+									"5th",
+									"{@spell contagion}, {@spell dominate person}"
+								]
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Boiling Blood",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 1,
+			"header": 2,
+			"entries": [
+				"When you take this pact at 1st level, your maximum hitpoint increases by 1. Whenever you gain a level in this subclass in the future, your maximum hitpoint increases by 1."
+			]
+		},
+		{
+			"name": "Gift of the Crimson Moon",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 1,
+			"header": 2,
+			"entries": [
+				"At 1st level, you can draw power from your blood vessels, using your own vitality as mana in addition to your normal mana reserves. Whenever you cast a Warlock spell of 1st level or higher, you may choose to expend maximum hitpoints equal to five times the level of the spell, instead of a spell slot granted by your Pact Magic feature. You can only cast spells with this feature up to a spell level which you are capable of casting with your Pact Magic feature.",
+				"You regain all maximum hitpoints expended with this feature when you finish a long rest.",
+				"The maximum hitpoint reducing effect of this feature cannot be prevented and bypasses all effects that otherwise grant immunity to hitpoint maximum reductions."
+			]
+		},
+		{
+			"name": "Overflowing Vitality",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 6,
+			"header": 2,
+			"entries": [
+				"Starting at 6th level, vigor overflows from within your cursed blood. While your current hitpoint is equal to your hitpoint maximum, you gain the following benefits:",
+				"- Your attacks deal 1d6 additional necrotic damage.",
+				"- Once per turn, whenever you take damage, reduce it by 1d6, to a minimum of 1."
+			]
+		},
+		{
+			"name": "Transient Infusion",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 10,
+			"header": 2,
+			"entries": [
+				"Starting at 10th level, as you draw your blood to fuel your arcane fury, a residue of the curse lingers around you as a protective membrane. Whenever you lose hitpoints from expending maximum hitpoints with the Gift of the Crimson Moon feature, you gain temporary hitpoints equal to the hitpoints lost this way. These temporary hitpoints last until you finish a short or long rest."
+			]
+		},
+		{
+			"name": "Curse of the Accursed",
+			"source": "CoT",
+			"page": 0,
+			"className": "Warlock",
+			"classSource": "PHB",
+			"subclassShortName": "Accursed Blood",
+			"subclassSource": "CoT",
+			"level": 14,
+			"header": 2,
+			"entries": [
+				"Starting at 14th level, the Curse within you trembles with anticipation for new blood and flesh. As an action, you can bestow a lesser version of the Curse upon another creature, sharing a portion of your misfortune. The target must make a Constitution saving throw against your warlock spell save DC, unless it is a Beast or Monstrosity, for which the save automatically fails.",
+				"If the target fails the save, the curse weakens its body and mind. Until the next dawn, all its attributes other than Constitution are reduced by 4, to a minimum of 1. In addition, any other creature that damages the weakened target for the first time gains 4d6 temporary hitpoints that last until they finish a short or long rest.",
+				"Once you use this feature, you cannot use it again until you finish a long rest."
+			]
+		},
+		{
+			"name": "Domain Spells",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 1,
+			"header": 2,
+			"entries": [
+				"At each indicated cleric level, you add the listed spells to your spells prepared.",
+				{
+					"type": "table",
+					"caption": "Chaos Domain Spells",
+					"colLabels": [
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles": [
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows": [
+						[
+							"1st",
+							"Chaos Bolt, Tasha's Hideous Laughter"
+						],
+						[
+							"2nd",
+							"Crown of Madness, Scorching Ray"
+						],
+						[
+							"3rd",
+							"Blink, Enemies Abound"
+						],
+						[
+							"4th",
+							"Confusion, Polymorph"
+						],
+						[
+							"5th",
+							"Maelstrom, Synaptic Static"
+						]
+					]
+				}
+			]
+		},
+		{
+			"name": "Eldritch Gift",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 1,
+			"entries": [
+				"You gain Eldritch Blast as a bonus cantrip. For you, this counts as a Cleric cantrip, with Wisdom as your spellcasting ability."
+			]
+		},
+		{
+			"name": "Sorcerous Gift",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 1,
+			"entries": [
+				"*1st level optional feature, replaces Eldrtich Gift.*",
+				"You gain Sorcerous Burst as a bonus cantrip. For you, this counts as a Cleric cantrip, with Wisdom as your spellcasting ability."
+			]
+		},
+		{
+			"name": "Magical Pandemonium",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 1,
+			"entries": [
+				"When you choose this domain at 1st level, the magical energy you wield becomes unpredictable. As a bonus action, you can expend a spell slot of any level to cast a random eligible spell (from any spell list) with base level equal to the slot expended. You do not choose the spell cast, but you may choose how the spell is cast. For a spell to be eligible, it must have a cast time of an action or a bonus action, and must not consume material components."
+			]
+		},
+		{
+			"name": "Channel Divinity: Chaos Pulse",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 2,
+			"entries": [
+				"Starting at 2nd level, you can use your Channel Divinity class feature to incite chaos. When you hit a creature with Chaos Bolt, you can use Channel Divinity to trigger its leaping effect once, plus one additional time per level of the spell slot expended."
+			]
+		},
+		{
+			"name": "Gift of Misfortune",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 6,
+			"entries": [
+				"Starting at 6th level, whenever you have disadvantage on an attack roll, your damage is rolled with advantage for the associated attack."
+			]
+		},
+		{
+			"name": "Potent Spellcasting",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 8,
+			"entries": [
+				"Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip."
+			]
+		},
+		{
+			"name": "Chaos Ultimatum",
+			"source": "CoT",
+			"page": 0,
+			"className": "Cleric",
+			"classSource": "PHB",
+			"subclassShortName": "Chaos Domain",
+			"subclassSource": "CoT",
+			"level": 17,
+			"entries": [
+				"Starting at 17th level, your presence alone can alter the fate of others, adding uncertainty to what would seem like destined success. Whenever a creature within 60 ft of you makes an attack roll, ability check, or saving throw, you may as a reaction impose absolute disadvantage on the roll."
+			]
+		},
+		{
+			"name": "Rallying Cry",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 3,
+			"entries": [
+				"Starting at 3rd level, you learn how to inspire your allies to fight on past their injuries. When you use your Second Wind class feature to recover hit points, all allies that can see or hear you within 30 feet gain temporary hit points equal to the amount recovered."
+			]
+		},
+		{
+			"name": "Expanded Tactics",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 3,
+			"entries": [
+				"When you choose this archetype at 3rd level, you learn other methods to deal with conflict. You gain proficiency with Persuasion and Performance."
+			]
+		},
+		{
+			"name": "Morale Support",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 7,
+			"entries": [
+				"Starting at 7th level, words of encouragement flow from you naturally, granting your allies a boost in confidence. Whenever an ally you can see within 30 ft of you makes an attack roll, ability check, or saving throw, you may use your reaction to add 1d8 to the roll. You may choose to do so after the roll, but before the result is revealed. A creature cannot benefit from this feature and Bardic Inspiration at the same time.",
+				"You may use this feature a number of times equal to your proficiency bonus, regaining all expended uses on a long rest."
+			]
+		},
+		{
+			"name": "Inspiring Surge",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 10,
+			"entries": [
+				"Starting at 10th level, your orders inspire in your allies a surge of power. When you use your Action Surge class feature, you can choose a number of allies equal to your Intelligence modifier (minimum of 1) within 30 feet of you. The chosen allies can make one melee or ranged weapon attack with their reaction, provided that they can see or hear you."
+			]
+		},
+		{
+			"name": "Ready to Strike",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 15,
+			"entries": [
+				"Starting at 15th level, you stand ready for the upcoming battle together with your friends. Whenever initiative is rolled, you may choose to activate your Second Wind feature. If you do so, you and all affected allies gain advantage on this initiative roll."
+			]
+		},
+		{
+			"name": "Divinely Favored",
+			"source": "CoT",
+			"page": 0,
+			"className": "Fighter",
+			"classSource": "PHB",
+			"subclassShortName": "Herald",
+			"subclassSource": "CoT",
+			"level": 18,
+			"entries": [
+				"Starting at 18th level, your presence on the battlefield earns you the favor of even the gods of war and battle. While an ally has temporary hit points granted by your Rallying Cry feature, they are affected by the Bless spell."
+			]
+		},
+		{
+			"name": "Skirmish Trainings",
+			"source": "CoT",
+			"page": 0,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Gunslinger",
+			"subclassSource": "CoT",
+			"level": 3,
+			"entries": [
+				"When you take this archetype at 3rd level, you gain proficiency in (exotic) firearms. Additionally, firearms you wield gain the Point-Blank property."
+			]
+		},
+		{
+			"name": "Steel and Sulphur",
+			"source": "CoT",
+			"page": 0,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Gunslinger",
+			"subclassSource": "CoT",
+			"level": 3,
+			"entries": [
+				"Starting at 3rd level, your finesse and agility allows you to weave in sidearm attacks in between quick strikes. When you use the attack action and attack with a finesse one-handed melee weapon, you can use a bonus action to attack with a light firearm you are holding."
+			]
+		},
+		{
+			"name": "Serrated Crescendo",
+			"source": "CoT",
+			"page": 0,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Gunslinger",
+			"subclassSource": "CoT",
+			"level": 9,
+			"entries": [
+				"Starting at 9th level, you learn to dance the lines between danger and safety on the battlefield. Whenever you attack a target with a melee weapon attack, you may move 10 ft towards the target as part of the attack. Whenever you hit a target within 5 ft of you with a ranged weapon attack, you may move 10 ft away from the target as part of the attack. Both movements do not provoke attacks of opportunity, unless you choose to."
+			]
+		},
+		{
+			"name": "Duelist's Riposte",
+			"source": "CoT",
+			"page": 0,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Gunslinger",
+			"subclassSource": "CoT",
+			"level": 13,
+			"entries": [
+				"Starting at 13th level, training in skirmishes allow you to riposte incoming attacks with a deadly flourish. You gain the following features:",
+				"- Attacks of opportunity against you have disadvantage;",
+				"- Your attacks of opportunity can apply Sneak Attack even if there are no non-incapacitated allies adjacent to the target;",
+				"- When a creature attacks and misses you with an attack of opportunity, you may choose to make an attack of opportunity against the creature as a free action. You may use this feature a number of times equal to your proficiency bonus per long rest."
+			]
+		},
+		{
+			"name": "Double Cross",
+			"source": "CoT",
+			"page": 0,
+			"className": "Rogue",
+			"classSource": "PHB",
+			"subclassShortName": "Gunslinger",
+			"subclassSource": "CoT",
+			"level": 17,
+			"entries": [
+				"Starting at 17th level, you follow up your combo attacks with fierce precision. After you make your first weapon attack each turn, your weapon attacks have advantage and ignore all damage resistances this turn."
+			]
+		}
+	],
+	"monster":[
+		{
+			"name": "Xonokonetl",
+			"source": "CoT",
+			"page": 0,
+			"size": [
+				"L"
+			],
+			"type": "Beast",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 11,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 36,
+				"formula": "4d10 + 14"
+			},
+			"speed": {
+				"walk": 40,
+				"climb": 30
+			},
+			"str": 19,
+			"dex": 10,
+			"con": 16,
+			"int": 2,
+			"wis": 13,
+			"cha": 9,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Keen Smell",
+					"entries": [
+						"The xonokonetl has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The xonokonetl makes two attacks with its claws."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Shadow Phase {@recharge 5}",
+					"entries": [
+						"If the xonokonetl is in dim light or darkness, it can melds into shadows, and reappear in another space within its movement range, provided it does not need to pass through bright light to move there. All creatures within 5 ft of the xonokonetl after the movement must succeed on a {@dc 13} Wisdom saving throw or be frightened of the xonokonetl until the end of its next turn."
+					]
+				}
+			],
+			"tokenUrl": "https://chroniclesofterre.com/hidden/TBR/Xonokonetl-img.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://chroniclesofterre.com/hidden/TBR/Xonokonetl-img.png"
+						}
+					}
+				]
+			}
+		}
+	],
+	"race": [
+		{
+			"name": "Harpy",
+			"source": "Andora",
+			"ability": [
+				{
+					"dex": 2,
+					"cha": 1
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 25,
+				"fly": 35
+			},
+			"darkvision": 60,
+			"entries": [
+				"Harpies are arborean residents of the jungles of Yharn, often residing on treetop colonies built on dense canopy. A sizable population of Harpies also spreads across the mountain ranges, prominently above the Hollunberg Mountains.",
+				{
+					"name": "Ability Score Increases",
+					"type": "entries",
+					"entries": [
+						"Your Dexterity score increases by 2, and your Charisma score inceases by 1."
+					]
+				},
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Harpies mature at 20, and can live until the age 80."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Owl and Eagle Harpies Stands between 4 feet and 6 feet. Their size is medium. Hummingbird Harpies stand between the height of 3ft to 4ft. Their size is small. "
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Speed",
+					"entries": [
+						"Harpies have a base walking speed of 25ft, and a base flying speed of 35ft."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Weapon",
+					"entries": [
+						"You can use your Talons as natural weapons. This can only be used while you are flying. When you hit with them, the strike deals 1d6 piercing and uses either STR or DEX."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Hollow Bones",
+					"entries": [
+						"You cannot fly while wearing heavy armor."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write {@language Common|PHB} and {@language Auran|PHB}."
+					],
+					"type": "entries"
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"auran": true
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 80
+			},
+			"fluff": {
+				"entries": [
+					"Reference {@link Harpy|https://andora.fandom.com/wiki/Harpy}."
+				]
+			}
+		}
+	],
+	"subrace": [
+		{
+			"name": "Owl",
+			"source": "Andora",
+			"raceName": "Harpy",
+			"raceSource": "Andora",
+			"skillProficiencies": [
+				{
+					"perception": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Owl",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Owl's Sight",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Perception, and a +5 bonus to your passive Perception."
+					]
+				}
+			]
+		},
+		{
+			"name": "Eagle",
+			"source": "Andora",
+			"raceName": "Harpy",
+			"raceSource": "Andora",
+			"skillProficiencies": [
+				{
+					"athletics": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Eagle",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Eagle's Grasp",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Athletics, and can as a bonus action move up to half your speed towards a hostile creature that you can see."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hummingbird",
+			"source": "Andora",
+			"raceName": "Harpy",
+			"raceSource": "Andora",
+			"size": [
+				"S"
+			],
+			"speed": {
+				"walk": 25,
+				"fly": 40
+			},
+			"skillProficiencies": [
+				{
+					"acrobatics": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Hummingbird",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Hummingbird's Flight",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Acrobatics, and your fly speed increases to 40 ft."
+					]
+				}
+			]
+		}
+	]
+}
