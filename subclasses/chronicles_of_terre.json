@@ -797,5 +797,288 @@
 				"Starting at 17th level, you follow up your combo attacks with fierce precision. After you make your first weapon attack each turn, your weapon attacks have advantage and ignore all damage resistances this turn."
 			]
 		}
+	],
+	"monster": [
+		{
+			"name": "Xonokonetl",
+			"source": "CoT",
+			"page": 1,
+			"size": [
+				"L"
+			],
+			"type": "Beast",
+			"alignment": [
+				"U"
+			],
+			"ac": [
+				{
+					"ac": 11,
+					"from": [
+						"natural armor"
+					]
+				}
+			],
+			"hp": {
+				"average": 36,
+				"formula": "4d10 + 14"
+			},
+			"speed": {
+				"walk": 40,
+				"climb": 30
+			},
+			"str": 19,
+			"dex": 10,
+			"con": 16,
+			"int": 2,
+			"wis": 13,
+			"cha": 9,
+			"skill": {
+				"perception": "+3"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 13,
+			"cr": "1",
+			"trait": [
+				{
+					"name": "Keen Smell",
+					"entries": [
+						"The xonokonetl has advantage on Wisdom (Perception) checks that rely on smell."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The xonokonetl makes two attacks with its claws."
+					]
+				},
+				{
+					"name": "Claws",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) piercing damage."
+					]
+				},
+				{
+					"name": "Shadow Phase {@recharge 5}",
+					"entries": [
+						"If the xonokonetl is in dim light or darkness, it can melds into shadows, and reappear in another space within its movement range, provided it does not need to pass through bright light to move there. All creatures within 5 ft of the xonokonetl after the movement must succeed on a {@dc 13} Wisdom saving throw or be {@condition frightened} of the xonokonetl until the end of its next turn."
+					]
+				}
+			],
+			"tokenUrl": "https://chroniclesofterre.com/hidden/TBR/Xonokonetl-img.png",
+			"fluff": {
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://chroniclesofterre.com/hidden/TBR/Xonokonetl-img.png"
+						}
+					}
+				]
+			}
+		}
+	],
+	"race": [
+		{
+			"name": "Harpy",
+			"source": "CoT",
+			"ability": [
+				{
+					"dex": 2,
+					"cha": 1
+				}
+			],
+			"size": [
+				"M"
+			],
+			"speed": {
+				"walk": 25,
+				"fly": 35
+			},
+			"darkvision": 60,
+			"entries": [
+				"Harpies are arborean residents of the jungles of Yharn, often residing on treetop colonies built on dense canopy. A sizable population of Harpies also spreads across the mountain ranges, prominently above the Hollunberg Mountains.",
+				{
+					"name": "Ability Score Increases",
+					"type": "entries",
+					"entries": [
+						"Your Dexterity score increases by 2, and your Charisma score inceases by 1."
+					]
+				},
+				{
+					"name": "Age",
+					"type": "entries",
+					"entries": [
+						"Harpies mature at 20, and can live until the age 80."
+					]
+				},
+				{
+					"name": "Size",
+					"type": "entries",
+					"entries": [
+						"Owl and Eagle Harpies Stands between 4 feet and 6 feet. Their size is medium. Hummingbird Harpies stand between the height of 3ft to 4ft. Their size is small."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Speed",
+					"entries": [
+						"Harpies have a base walking speed of 25ft, and a base flying speed of 35ft."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Natural Weapon",
+					"entries": [
+						"You can use your Talons as natural weapons. This can only be used while you are flying. When you hit with them, the strike deals 1d6 piercing and uses either STR or DEX."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Hollow Bones",
+					"entries": [
+						"You cannot fly while wearing heavy armor."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write {@language Common|PHB} and {@language Auran|PHB}."
+					],
+					"type": "entries"
+				}
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+					"auran": true
+				}
+			],
+			"age": {
+				"mature": 20,
+				"max": 80
+			},
+			"fluff": {
+				"entries": [
+					"Reference {@link Harpy|https://andora.fandom.com/wiki/Harpy}."
+				]
+			}
+		}
+	],
+	"subrace": [
+		{
+			"name": "Owl",
+			"source": "CoT",
+			"raceName": "Harpy",
+			"raceSource": "CoT",
+			"skillProficiencies": [
+				{
+					"perception": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Owl",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Owl's Sight",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Perception, and a +5 bonus to your passive Perception."
+					]
+				}
+			]
+		},
+		{
+			"name": "Eagle",
+			"source": "CoT",
+			"raceName": "Harpy",
+			"raceSource": "CoT",
+			"skillProficiencies": [
+				{
+					"athletics": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Eagle",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Eagle's Grasp",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Athletics, and can as a bonus action move up to half your speed towards a hostile creature that you can see."
+					]
+				}
+			]
+		},
+		{
+			"name": "Hummingbird",
+			"source": "CoT",
+			"raceName": "Harpy",
+			"raceSource": "CoT",
+			"size": [
+				"S"
+			],
+			"speed": {
+				"walk": 25,
+				"fly": 40
+			},
+			"skillProficiencies": [
+				{
+					"acrobatics": true
+				}
+			],
+			"entries": [
+				{
+					"type": "section",
+					"entries": [
+						{
+							"name": "Hummingbird",
+							"entries": [
+								""
+							],
+							"type": "entries"
+						}
+					]
+				},
+				{
+					"name": "Hummingbird's Flight",
+					"type": "entries",
+					"entries": [
+						"You gain proficiency in Acrobatics, and your fly speed increases to 40 ft."
+					]
+				}
+			]
+		}
 	]
 }
