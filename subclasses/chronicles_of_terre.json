@@ -43,9 +43,9 @@
 			"source": "cot",
 			"page": 1,
 			"subclassFeatures": [
-				"Pact of the Accursed Blood|Warlock||Accursed Blood|cot|1",
-				"Boiling Blood|Warlock||Accursed Blood|cot|1",
-				"Gift of the Crimson Moon|Warlock||Accursed Blood|cot|1",
+				"Pact of the Accursed Blood|Warlock||Accursed Blood|cot|3",
+				"Boiling Blood|Warlock||Accursed Blood|cot|3",
+				"Gift of the Crimson Moon|Warlock||Accursed Blood|cot|3",
 				"Overflowing Vitality|Warlock||Accursed Blood|cot|6",
 				"Transient Infusion|Warlock||Accursed Blood|cot|10",
 				"Curse of the Accursed|Warlock||Accursed Blood|cot|14"
@@ -198,7 +198,7 @@
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
 			"subclassSource": "cot",
-			"level": 1,
+			"level": 3,
 			"entries": [
 				"A horrible curse lurks within your blood, waiting patiently for the day you finally give in to its intoxicating power. Known to the world as only ‘The Crimson Curse’, this influence plagues men and beasts alike, warping the body and breaking the mind, turing them into blood-thirsty creatures knowing only destruction and primal fury.",
 				"You have contracted this curse, whether by misfortune, forced, or out of conscious pursuit of power, but no matter the motives, you have managed to quell the maddening influence of the Curse, establish a symbiosis, and keep your sanity for now. In return, it grants you fascinating power of blood, infusing it with eldritch magic beyond comprehension.",
@@ -256,7 +256,7 @@
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
 			"subclassSource": "cot",
-			"level": 1,
+			"level": 3,
 			"header": 2,
 			"entries": [
 				"When you take this pact at 1st level, your maximum hitpoint increases by 1. Whenever you gain a level in this subclass in the future, your maximum hitpoint increases by 1."
@@ -270,7 +270,7 @@
 			"classSource": "PHB",
 			"subclassShortName": "Accursed Blood",
 			"subclassSource": "cot",
-			"level": 1,
+			"level": 3,
 			"header": 2,
 			"entries": [
 				"At 1st level, you can draw power from your blood vessels, using your own vitality as mana in addition to your normal mana reserves. Whenever you cast a Warlock spell of 1st level or higher, you may choose to expend maximum hitpoints equal to five times the level of the spell, instead of a spell slot granted by your Pact Magic feature. You can only cast spells with this feature up to a spell level which you are capable of casting with your Pact Magic feature.",
