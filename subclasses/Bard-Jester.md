@@ -2,7 +2,7 @@
 layout: default
 title: Bard - Jester
 parent: Subclasses
-nav_order: 11
+nav_order: 12
 description: "Chronicles of Terre is a medieval fantasy setting many years in the writing."
 nav_exclude: false
 ---

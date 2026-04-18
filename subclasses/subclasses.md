@@ -15,9 +15,11 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 ## Barbarian Subclasses
 
 - [Scarseeker](Barbarian-Scarseeker) : A primal path that seeks out pain, taking and inflicting it with greater efficacy.
+- [Wyrmheart](Barbarian-Wyrmheart) : A magical path that infuses their rage with magicks of primordial dragons, evoking elemental wrath with cold calculated fury.
 
 ## Bard Subclasses
 
+- [Elegy](Bard-Elegy) : A tribal tradition for Yharnic songpriests that prognosticates the death of their enemies, using their inspirations as powerful curses.
 - [Jest](Bard-Jester) : A college for jesters, who knows best the power of humor and satire, and mocks the enemy to cripple their mind and will.
 
 ## Cleric Subclasses
