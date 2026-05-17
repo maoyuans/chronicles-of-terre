@@ -54,6 +54,7 @@ Chronicles of Terre has a list of curated homebrew subclasses, as presented belo
 ## Ranger Subclasses
 
 - [Arcane Warden](Ranger-Warden) : An architype adopted by wardens of [Verzae Legion](../region/Verza) that uses technology and alchemy to trace down and counter those who abuse the arcane.
+- [Dunestrider](Ranger-Dunestrider) : An architype adopted by nomads and warriors of [the Barrens](../region/Barrens) that calls upon the sand and the sun to blind, hinder, and wear down their enemies.
 
 ## Rogue Subclasses
 
