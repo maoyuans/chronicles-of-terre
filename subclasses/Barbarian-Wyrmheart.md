@@ -25,7 +25,7 @@ Starting at 3rd level, the powers of primordial dragons grant you resistance aga
 
 ## Runic Kindling
 
-At 6th level, arcane residue from your evocation gathers around your arms as draconic runes, ready to burst at your command. The first time you hit a creature with a weapon or unarmed strike attack using Strength after casting a spell with the *Arcane Savant* feature, the runes rekindle and burst in a 20 ft emanation around the target, forcing all creatures within the area to make a Dexterity saving throw against your *Arcane Savant*'s spellcasting DC, taking 2d8 Force damage on a failed save or half as much damage on a successful one.
+At 6th level, arcane residue from your evocation gathers around your arms as draconic runes, ready to burst at your command. The first time you hit a creature with a weapon or unarmed strike attack using Strength after casting a spell with the *Arcane Savant* feature, the runes rekindle and burst in a 20 ft emanation around the target, forcing all creatures within the area to make a Dexterity saving throw against your *Arcane Savant*'s spellcasting DC, taking 2d12 Force damage on a failed save or half as much damage on a successful one.
 
 ## Brutal Evocations
 
@@ -39,6 +39,6 @@ At 10th level, your instincts allow you to effortlessly evoke magic with your at
 At 14th level, when you activate your Rage, you may manifest a remnant of primordial dragon, coiling around your form as you ravage your enemies. This manifestation lasts for 1 minute, until your Rage ends, or until you drop to 0 hitpoints. Once you use this feature, you can't do so again until you finish a Long Rest.
 
 As part of the Bonus Action that you manifest the draconic remnant, and as a Bonus Action while the manifestation is active, you may choose one of the following effects:
-- ***Composition***. You conjure forth breaths of your draconic manifestation, forcing all targets within a 30 ft cone to make a Dexterity saving throw against your *Arcane Savant*'s spellcasting DC, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
+- ***Composition***. You conjure forth breaths of your draconic manifestation, forcing all targets within a 30 ft cone to make a Dexterity saving throw against your *Arcane Savant*'s spellcasting DC, taking 4d10 Fire damage on a failed save or half as much damage on a successful one.
 - ***Alteration***. You summon a runic storm in a 20 ft emanation around yourself, inflicting vulnerability on all creatures of your choice in the area. Until the start of your next turn, affected creatures gain -2 to AC.
 - ***Annihilation***. You prime a magical sigil designed to counter arcane manipulations. Until the start of your next turn, you may cast Counterspell as a reaction, after which this effect ends.
